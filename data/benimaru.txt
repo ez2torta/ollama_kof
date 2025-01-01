@@ -1,0 +1,2002 @@
+{{CharNavbox_XV}}
+<section begin="image"/>[[File:KOFXV Benimaru Profile.png|thumb|Born into a rich family and raised by his Japanese father and American mother, this shooting star takes fighting to a whole other level. His slender frame provides an excellent medium which enhances his electrostatics, and combining that with his chiseled legs (no doubt from years of shoot boxing experience), his kicks hit like bolts of lightning.<br/>However for this tournament, his friend and rival, Kyo Kusanagi, all but forced him into this position where he has to watch over both Shun'ei and Meitenkun.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 40f
+<br>'''Hop:''' 32f
+<br>'''Backdash:''' 22f
+<br>'''Run Speed Ranking:''' 3
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+(*) = EX OK
+
+(!) = MAX OK
+
+(Midair Only) = Can only be done in the air.
+
+'''Throws'''
+
+Catch and Shoot - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:c.gif]]
+
+Front Suplex  - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:d.gif]]
+
+Spinning Knee Drop  - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:c.gif]] (Midair Only)
+
+'''Command Normals'''
+
+Jackknife Kick - [[image:fd.gif]] + [[image:b.gif]]
+
+Flying Drill - [[image:dn.gif]] + [[image:d.gif]]
+
+'''Special Moves'''
+
+Iai-Geri - [[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+:┗ Inazuma Sandan-Geri - [[image:dn.gif]] [[image:up.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+Raimeitou - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Raikinken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Air • Raijinken - [[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (Midair Only) (*)
+
+Benimaru Collider - ''(close)'' [[image:hcb.gif]][[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Super Jinrai Kick - [[image:dp.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+'''Super Special Moves'''
+
+Rai-Kou Ken - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (!)
+
+Benimaru Rising Shot - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (!)
+
+'''Climax Super Special Moves'''
+
+Raiha Jin-Ou Ken - [[image:qcb.gif]][[image:db.gif]][[image:qcf.gif]] + [[image:c.gif]] [[image:d.gif]]
+
+==Quick Combo Reference==
+
+{| border="1" align="center" style="font-size:90%"
+|+ 
+=== Quick Combo Reference ===
+'''Notation'''
+|-
+| '''0 Meter'''
+|
+2B 2B 236B 28B<br/>
+|
+( = 144 dmg<br/>
+|-
+| '''1 Meter'''
+|
+2A, 2C 236A+C 6B 214C 236D 28D<br/>
+2B 2B 236B 28K 236236K 623D<br/>
+|
+( = 332 dmg<br/>
+( = 327 dmg<br/>
+|-
+| '''2 Meters'''
+|
+2A, 2C 236A+C 6B 236C 236236K 236D 28D<br/>
+|
+( = 423 dmg <br/>
+|-
+|}
+
+==Gameplay Overview==
+{{StrengthsAndWeaknesses
+| intro = {{SUBPAGENAME}} is a mostly honest test of one's KOF fundamentals. Sporting decent pokes, safe pressure, various mixup options and now his reversal from older games, Benimaru excels in key areas of KOF which allow him to control the match and to shift gears easily. Benimaru is effective on point and mid, as he conserves meter well while only spending half a stock for EX Raijinken combos which deal good damage.
+
+| pros=
+* '''Strong Pokes''': Benimaru has a variety of buttons that cover ground space such as far B, far D and 2D, as well as poking specials in 236P and 236K, with 236AC being extremely rewarding for its safety and cost.
+* '''Mix Options''': His double overhead of j.B > j.2D and command grab Benimaru Collider give him ways to open up opponents who are too eager to block.
+* '''Safety''': Most of Benimaru's specials are safe on block(one of them's even plus!) and can end his turn without putting him in danger, and his 236K special has a built-in hitconfirm with its followup 28K.
+* '''Aerial Offense''': A robust array of air options make Benimaru's air game difficult to deal with, between his unique jump arc, strong jumping buttons(including multiple strong crossups), an air throw, and momentum changes with his air special and command normal.
+* '''Defense''': A meterless DP and strong abare options mean that Benimaru has ways of worming his way out of being on the backfoot without resorting to universal defensive mechanics.
+* '''Punisher''': 236BD and 236236K make Benimaru's punish game stellar. Many strings and moves that other characters must be content to take their turn back from can instead be properly punished.
+| cons=
+* '''Unrewarding Lights''': Benimaru cannot combo into his most substantial damage options off lights except with a range-dependent link off a single close light to a close heavy. This gates his best damage behind either a very specific starter, heavy pokes, or jump-ins, and players unable to utilize these will find themselves needing to land more hits on their opponent to win rounds.
+* '''Unique DP''': Benimaru's 623K DP has a few specific traits that make it weaker or less rewarding in situations that other DPs are not(but also stronger in other situations).
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_fa
+|description=
+* Short-ranged hop check which will cover areas where f.B won't. Misses on crouchers.
+}}
+====Far B====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_fb
+|description=
+* Reaches further out than f.A and also works as a hop check, but it's not very rewarding.  Will also whiff on crouchers.
+}}
+====Far C====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_fc
+|description=
+* Yet another far anti-air which doesn't hit crouchers. This is more rewarding than your other options, as it's fast and it can also option select with other C button functions, but it is slightly easier to punish.
+}}
+====Far D====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_fd
+|description=
+* The one standing poke Benimaru has which will hit crouching opponents, but it's a little slow. Has low invincibility during its active frames which can help during poking wars.
+}}
+
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_cla
+|description=
+* Hop check. Fast and plus on block.
+}}
+====Close B====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_clb
+|description=
+* Hop check.
+}}
+====Close C====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_clc
+|description=
+* A bit more dependable as a combo starter than cl.D, as if you're too far out you will get f.C instead which can still punish stuff. Otherwise this move is inferior in terms of damage and recovery.
+}}
+====Close D====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_cld
+|description=
+* Deals more damage than cl.C, is even faster and has better recovery. Strictly better than cl.C. Also forces stand, guaranteeing combos into 236C.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_2a
+|description=
+* Fast and has good frame advantage. 
+
+Standard 2A, good hitbox.
+}}
+
+====Crouch B====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_2b
+|description=
+* Staple normal for Benimaru. Combos into itself and into specials, and has better range than 2A. Chain into 2A for more damage.
+}}
+====Crouch C====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_2c
+|description=
+* Benimaru's longest-reaching combo-able normal. Despite how the move looks, this is not an anti-air normal.
+}}
+
+====Crouch D====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_2d
+|description=
+* An amazing sweep which can be cancelled to extend pressure. Has nice range for easy punishes. Whiff cancellable.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_ha,benimaru_ja
+|name=jump A
+|input=j.A
+|description2=* Mostly irrelevant unless the speed and spacing of the move is that important for the moment.
+}}
+====Jump B====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_hb,benimaru_jb
+|name=jump B
+|input=j.B
+|captions= Hop Version (Hitbox), Jump Version
+|description2=* Hits deep, cancels into j.2D, and has good crossup potential. A very good normal to throw out in hop pressure or during aerial clashes.
+}}
+
+====Jump C====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_hc,benimaru_jc
+|name=jump C
+|input=j.C
+|captions= Hop Version (Hitbox), Jump Version
+|description2=* Hits deep and has good active frames. Special cancellable into Flying Drill for a double overhead, AND covers your airthrow in case you're out of range.
+}}
+
+====Jump D====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_hd,benimaru_jd
+|name=jump D
+|input=j.D
+|captions= Hop Version (Hitbox), Jump Version
+|description2=* This move defines Benimaru's poking ability but here it's not that great. The vertical hitbox is not that big making it easy to low profile. Has crossup ability if you do it from a jump, but this is difficult to do and makes the normal even more prone to low profiling. Regardless, this is a very quick way of occupying a bunch of space quickly, making it very effective for KOF fundamentals. The downside to this as a poke is that it is very thin, so you must use your various jump heights to aim it.
+}}
+
+===Blowback===
+====Blowback====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_cd
+|description=
+* Has decent range but Benimaru doesn't move forward at all.
+}}
+
+====ShatterStrike====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_236cd
+|description=
+* Not really relevant considering Benimaru already has a DP for reversal purposes, and he can already crumple with EX Raijinken which is safer. Do Iai-Geri after this if it hits grounded.
+}}
+
+====AdvanceStrike====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_214cd
+|description=
+*Same animation and range as his CD.
+
+* The throw counter is on the feet.
+}}
+
+====jump CD====
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_hcd,benimaru_jcd
+|name=jump CD
+|input=j.CD
+|description2=* Covers the area directly above Benimaru's head and is very fast, making it important as an anti-air for him. Unfortunately can't hit crouchers at all, making it difficult to use offensively.
+}}
+
+==Rush Moves==
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_rush1,benimaru_rush2
+|name=rush
+|input=c.AA/c.AAX
+|description2=* Placeholder
+}}
+
+==Throws==
+===Catch and Shoot===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_cthrow
+|name=Catch and Shoot
+|input=(close) 4/6C
+|description=* Sends the opponent flying a fair distance. Hard knockdown like all normal throws. Benimaru can follow up with a dash and hyper hop for a safejump.
+}}
+
+===Front Suplex===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_dthrow
+|name=Front Suplex
+|input=(close) 4/6D
+|description=* Decent back throw which gives Benimaru a hard knockdown. However, the throw has significant recovery and does not allow for any safejump setups.
+}}
+
+===Spinning Knee Drop===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_athrow
+|name=Spinning Knee Drop
+|input=(close) j.4/6C
+|description=* Air throw. Hard knockdown.
+}}
+
+==Command Moves==
+===Jackknife Kick===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_6b
+|name=Jackknife Kick
+|input=6B
+|description=* Mainly combo glue after a crumple, but in this game it's pretty safe as a pressure tool as well. This move is always special cancellable. Doesn't combo from close heavies. Goes over lows and even some ground fireballs.
+}}
+
+===Flying Drill===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_j2d
+|name=Flying Drill
+|input=j.2D
+|description=* Decent way to stall your air momentum and pressure safely if spaced correctly. Deals two hits if done from a hop and three if done from a jump. New to this game is that this move is an overhead, so it's an easy way to mix up your pressure
+* Can be up to +3 on ground hit with the correct heights, allowing EX 236BD to combo after
+* Allows juggle follow ups on air hit
+* Can be performed during a a backdash, but all that does is make it shorter and its recovery worse
+}}
+
+==Special Moves==
+
+===Iai-Geri===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_236b,benimaru_236d,benimaru_236bd
+|name=Iai-Geri 
+|input=236B/D/BD
+|captions= B Version (Hitbox),D Version,EX Version
+|description2=* Mainly combo glue. On its own it is a short-ranged poke with decent priority, and has an odd property of causing a ground slide on hit when used as an anti-air. However, you barely use it for this purpose because it's so short. This move is perfect for 2B combos as it is fast, safe on block on its own and you don't always have to commit to the followup. Super cancellable.
+|description3=* The EX version does more damage, has slightly longer range and results in the followup being EX too. This is also extremely fast at 3f startup, allowing it to punish things that most other characters can't.
+}}
+
+===Inazuma Sandan-Geri===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_236b_28k,benimaru_236d_28k,benimaru_236bd_28k
+|name=Inazuma Sandan-Geri 
+|input=236B/D/BD~28B/D
+|captions= Normal Version,,,EX Version
+|description2=* A combo ender which deals the most meterless damage out of anything Benimaru has, but results in a soft knockdown. The first hit of this followup is super cancellable but the timing is tricky, so if you're aiming for consistency and are not confident in your execution then it's best to super cancel Iai Geri instead. The second hit of normal versions is also an anywhere juggle.
+
+The cancel window from 236K into this follow-up is particularly large, larger than the super cancel window, making it possible to single hit confirm 236Ks in neutral. This can be useful due to 236Ks speed and relative safety.
+
+If you're having trouble getting this follow-up to come out, inputting the 236D as 2369D and holding the D button will also cause the follow-up to come out. This doesn't work from the B version.
+|description3=* Not super cancellable at any point, given it's an EX move.
+}}
+
+===Raimeitou===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_214a,benimaru_214c,benimaru_214ac
+|name=Raimeitou 
+|input=214A/C/AC
+|captions= P Version (Hitbox), EX Version (Hitbox)
+|description2=* Benimaru lances forward a set distance with a crescent lightning slash to cover him. Strength determines how far and how fast he travels. This counts as a projectile, meaning it will absorb one hit of fireball damage, but it can also be reflected. Despite appearances, the fireball is only active a little after Benimaru stops moving. The light version allows for juggles in the corner, while the heavy version lets you juggle into Iai Geri anywhere on the screen if you land it close enough. These are safe on block, with the C version being plus on block but will spell doom for you if they miss. Both strengths are super cancellable.
+|description3=* The EX version of this move sees Benimaru standing in place while firing off a fast projectile, which slices through normal fireballs while clashing with EX fireballs. This is chiefly meant to be an anti-fireball tool rather than a zoning tool on its own, although you can use this to snipe the opponent from afar. This move is normally safe but it may not be worth the meter in most situations, as it's not very rewarding and you might want to save it for bigger combos or your other characters.
+}}
+
+===Raijinken===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_236a,benimaru_236c,benimaru_236ac
+|name=Raijinken 
+|input=236A/C/AC
+|captions= A Version (Hitbox), C Version (Hitbox), EX Version
+|description=* Safe special to use in pressure, as it's fast, has decent priority and is safe on block. Best used when spaced properly so you don't have to deal with throw punishes. In neutral this can be used to kill fireballs and build meter for yourself, while also defending your ground as it can stop the opponent's approach when timed correctly. In the corner you can use this as a harassment tool, and the optimal spacing for it is also ideal for checking rolls. Super cancellable even on whiff.
+|description2=* Benimaru aims his fist upward for an attack which can be used as a far anti-air, but usually isn't too dependable for this purpose given its speed. This causes a high launch allowing for optimal combos in the corner. Whiffs on crouchers, but in confirms cl.D fixes that issue. 
+|description3=* The big one. Results in a crumple on hit, making it essential for Benimaru's big punishes from close heavies. Nearly impossible to combo into from a light starter, but 236AC's speed and safety combined with its huge reward on hit make this an extremely powerful EX move. Don't be afraid to throw this one out randomly from time to time, the risk-reward is heavily skewed in Benimaru's favor.
+}}
+
+===Air • Raijinken===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_j236a,benimaru_j236c,benimaru_j236ac
+|name=Air • Raijinken 
+|input=j.236A/C/AC
+|captions= Normal Version (Hitbox), EX Version
+|description2=* Another way to stall Benimaru's air momentum while also allowing him to control space. Benimaru will halt his air momentum, fire a Raijinken, then fall down or backward depending on whether you used the light or heavy version, respectively. The air Raijinken stays out for a decent amount of time, making it good as a zoning tool and sometimes for pressure. Can be input via a "tiger knee" motion (i.e. 2369+A/C).
+
+|description3=* Benimaru fires a Raijinken which lasts for longer then falls straight down. Only really useful in some combos. Has massive hitstun and can be followed up with many ground moves in the corner, most notably cl.C or cl.D or even CD. Can also be input via a "tiger knee" motion (i.e. 2369+AC).
+}}
+
+===Benimaru Collider===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_632146a,benimaru_632146c,benimaru_632146ac
+|name=Benimaru Collider
+|input=632146A/C/AC
+|captions= Normal Version (Hitbox), EX Version (Hitbox)
+|description2=* Benimaru's classic command grab which gives him plenty of time for okizeme after the hit, giving you time to prepare safejumps, crossups and anything else you can think of. Only problem - it's not instant anymore. It's 5f just like [[The King of Fighters XV/Ramón|Ramón]]'s hcf+A, but unlike that move there's no invincibility at all. This is exactly as fast as his close normals, so as a punish too it's redundant. Use this for mixups only.
+|description3=* Another move which leaves the opponent in a crumple state, but the damage is heavily scaled. Only go for this if you're keen on the mixup, and you've got enough damage for the combo to kill. Using this in the middle of combos is not a wise choice.
+}}
+
+===Super Jinrai Kick===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_623b,benimaru_623d,benimaru_623bd
+|name=Super Jinrai Kick 
+|input=623B/D/BD
+|captions= B Version (Hitbox), , , D Version, , ,EX Version
+|description2=* Benimaru's reversal. Contrary to what the animation might suggest, it is ''not'' susceptible to low profiling. The B version moves him backward slightly, but is faster. The D version is thus better for maintaining your positioning if it hits, but it's a touch slower. While the lacking horizontal reach can be a downside, it also has the benefit of making it more powerful against crossup attempts than most other DPs. The only other trait worth noting is it is not super cancellable, meaning Benimaru cannot cash out on it hitting, but it's still a strong tool.
+|description3=* The EX version deals more hits, more damage, and moves him forward.
+}}
+
+==Super Special Moves==
+===Rai-Kou Ken===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_236236a,benimaru_236236c,benimaru_236236ac
+|name=Rai-Kou Ken 
+|input=236236A/C/AC
+|captions= A Version (Hitbox), ,C Version, ,Max Version
+|description2=* Combo ender. The light version has lower body invincibility and aims straight, while the heavy version has upper body invincibility, aims upward and whiffs on crouchers. Either can be used in combos with no change to the damage. This super deals more damage than Benimaru Rising Shot, but launches the opponent far away as opposed to keeping them close. However, given all supers in this game result in a hard knockdown, you have more than enough time after recovering to run up and continue your pressure. The last hit is cancellable into SDMs and Climax.
+|description3=* This super deals more hits, more damage and covers a much greater radius. It is also fully invincible, but you already have 623+K for that so it's irrelevant in neutral. The last hit is Climax cancellable.
+}}
+
+===Benimaru Rising Shot===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_236236b,benimaru_236236d,benimaru_236236bd
+|name=Benimaru Rising Shot 
+|input=236236B/D/BD
+|captions= Normal Version (Hitbox), Max Version (Hitbox)
+|description2=* A fast lunge attack which travels forward quickly a fair distance. This causes a ground bounce and allows for further juggles. This is a key part in optimizing Benimaru's combos, especially after lights.
+|description3=* Reaches further and has invincibility. Deals more damage and allows for the same follow-ups.
+}}
+
+==Climax Super Special Moves==
+===Raiha Jin-Ou Ken===
+{{FrameDataCargo-KOFXV
+|moveId=benimaru_2141236cd
+|name=Raiha Jin-Ou Ken 
+|input=2141236CD
+|description=* A very fast punish tool which covers the entire distance in front of Benimaru. The damage is spread over nine hits.
+}}
+
+==Misc==
+
+{{Colors-KOFXV}}
+ 
+==Videos==
+{{#ev:youtube|nxZf2MOCzOw|||'''Benimaru Nikaido Reveal Trailer'''|frame}}
+
+{{CharNavbox_XV}}
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]
+[[Category:Benimaru Nikaido]]
+
+{{CharNavbox_XV}}
+==General Gameplan==
+
+It is often speculated that all Benimaru needs to do to win is use j.D. This is false; although j.D has excellent reach and can be used as a poke, jump-in and mixup tool, its lacking priority makes it susceptible to anti-airs, low profile 2B spam and j.CD spam. Regardless, within j.D range is ideally where Benimaru wants to fight. This is the same range where his longest grounded pokes will also reach, including f.B, f.C, f.D and 2D. The former two are quite fast and are good for checking hops and jumps, but if the opponent is crouching then they will miss. f.D is your best bet for Maxmode conversions and it goes over lows, but it is notably slower than your other normals, and not very good compared to previous iterations. Benimaru can hop in with j.D from far away or pressure with air Raijinken (j.236P), which has an even better hitbox and gives Benimaru control over where he wants to land. The quick j.B and deep-hitting j.C are also important in hop pressure, while on the ground Benimaru can easily convert from his 2B into decent combos or grapple with Benimaru Collider (hcb,f+P) for mixup options. Bear in mind that Benimaru Collider is no longer instant in this game.
+
+Any further out from this range and Benimaru has to play carefully. Though barging in with j.D is an option, it is not a wise one, given its lacking priority and shallowness as a jump-in. Instead, it is often wiser to use Benimaru's long-ranged pokes and anti-air with Super Inazuma Kick (dp+K) to stand his ground. Another important change to note is that dp+K has terrible range compared to prior iterations of the move. Raijinken (236P) is a long-ranged poke which can eat fireballs and end strings safely, but be mindful it is vulnerable to slides and sweeps. In addition to pushing forward with Raijinkens, Benimaru may also use Raimeitou (qcb+P) to get through fireballs, creating a projectile shield as he lances forward. Even safer is EX Raimeitou, where Benimaru fires a fast, fullscreen projectile which eats one-hit fireballs while he himself doesn't move. One must exercise caution with these moves, as they are easy to whiff punish when rolled in anticipation. Benimaru is chiefly a zoner of the poking variety, but against fireball characters he is forced to play the role of rushdown, which he is flexible enough to handle but not always well enough.
+
+While he can dissipate fireballs with 236P, he may be forced to spend the meter he has built on qcb+AC against fireball characters such as [[The King of Fighters XV/Robert Garcia|Robert]] and [[The King of Fighters XV/King|King]], who are popular as point characters. Even then this investment is not guaranteed to pay off, as qcb+AC is an easy roll given its speed. Benimaru's mixup potential is worse compared to other iterations of the character, making it tricky for him to confirm into a Quickmode into Climax combo as anchor. Because of this, he is best played on point or mid.
+
+==Neutral==
+
+==Pressure==
+
+==Mixups==
+
+==Defense==
+
+==Safejumps==
+
+==Countering Benimaru==
+
+==External Resources==
+
+
+{{Navbox XV}}
+
+[[Category:Benimaru Nikaido]]
+[[Category:The King of Fighters XV]]
+
+
+{{CharNavbox_XV}}
+===Close Standing Normals===
+====close A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_cla
+| name        = close A
+| input       = cl.A
+| images      = XV_benimaru_cla_ima.png
+| hitboxes    = XV_benimaru_cla_hb.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 4
+| active      = 3
+| recovery    = 7
+| hitadv      = +5
+| blockadv    = +3
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====close B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_clb
+| name        = close B
+| input       = cl.B
+| images      = XV_benimaru_clb_ima.png
+| hitboxes    = XV_benimaru_clb_hb.png
+| damage      = 30
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 3
+| recovery    = 13
+| hitadv      = -1
+| blockadv    = -3
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====close C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_clc
+| name        = close C
+| input       = cl.C
+| images      = XV_benimaru_clc_ima.png
+| hitboxes    = XV_benimaru_clc_hb.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 3
+| recovery    = 22
+| hitadv      = -4
+| blockadv    = -6
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====close D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_cld
+| name        = close D
+| input       = cl.D
+| images      = XV_benimaru_cld_ima.png
+| hitboxes    = XV_benimaru_cld_hb.png
+| damage      = 80
+| guard       = Mid
+| cancel      = command
+| startup     = 4
+| active      = 6
+| recovery    = 15
+| hitadv      = 0
+| blockadv    = -2
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Far Standing Normals===
+====far A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_fa
+| name        = far A
+| input       = 5A
+| images      = XV_Benimaru_5A_ima.png
+| hitboxes    = XV_benimaru_5a_hb.png
+| damage      = 25
+| guard       = Mid
+| cancel      = super
+| startup     = 5
+| active      = 3
+| recovery    = 11
+| hitadv      = +1
+| blockadv    = -1
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====far B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_fb
+| name        = far B
+| input       = 5B
+| images      = XV_Benimaru_5B_ima.png
+| hitboxes    = XV_benimaru_5b_hb.png
+| damage      = 30
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 3
+| recovery    = 11
+| hitadv      = +1
+| blockadv    = -1
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====far C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_fc
+| name        = far C
+| input       = 5C
+| images      = XV_Benimaru_5C_ima.png
+| hitboxes    = XV_benimaru_5c_hb.png
+| damage      = 70
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 3
+| recovery    = 23
+| hitadv      = -5
+| blockadv    = -7
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====far D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_fd
+| name        = far D
+| input       = 5D
+| images      = XV_Benimaru_5D_ima.png
+| hitboxes    = XV_benimaru_5d_hb.png, XV_benimaru_5d2_hb.png
+| damage      = 80
+| guard       = Mid
+| cancel      = super
+| startup     = 11
+| active      = 4
+| recovery    = 20
+| hitadv      = -3
+| blockadv    = -5
+| invul       = Low Body: 11 to 17 (7 Frames)
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Crouch Normals===
+====crouch A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_2a
+| name        = crouch A
+| input       = 2A
+| images      = XV_Benimaru_2A_ima.png
+| hitboxes    = XV_benimaru_2a_hb.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 4
+| active      = 3
+| recovery    = 8
+| hitadv      = +4
+| blockadv    = +2
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====crouch B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_2b
+| name        = crouch B
+| input       = 2B
+| images      = XV_Benimaru_2B_ima.png
+| hitboxes    = XV_benimaru_2b_hb.png
+| damage      = 30
+| guard       = Low
+| cancel      = command
+| startup     = 4
+| active      = 4
+| recovery    = 10
+| hitadv      = +1
+| blockadv    = -1
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====crouch C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_2c
+| name        = crouch C
+| input       = 2C
+| images      = XV_Benimaru_2C_ima.png
+| hitboxes    = XV_benimaru_2c_hb.png, XV_benimaru_2c2_hb.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 6
+| active      = 3
+| recovery    = 18
+| hitadv      = 0
+| blockadv    = -2
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====crouch D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_2d
+| name        = crouch D
+| input       = 2D
+| images      = XV_benimaru_2d_ima.png
+| hitboxes    = XV_benimaru_2d_hb.png
+| damage      = 80
+| guard       = Low
+| cancel      = command
+| startup     = 6
+| active      = 3
+| recovery    = 21
+| hitadv      = KND (+25)
+| blockadv    = -5
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===jump normals===
+====hop A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_ha
+| name        = hop A
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.A
+| images      = XV_benimaru_ja_ima.png
+| hitboxes    = XV_benimaru_ja_hb.png
+| damage      = 40
+| guard       = High
+| cancel      = special
+| startup     = 5
+| active      = 9
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 50
+}}
+
+====jump A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_ja
+| name        = jump A
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.A
+| images      = XV_benimaru_ja_ima.png
+| hitboxes    = XV_benimaru_ja_hb.png
+| damage      = 45
+| guard       = High
+| cancel      = special
+| startup     = 5
+| active      = 10
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_hb
+| name        = hop B
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.B
+| images      = XV_benimaru_jb_ima.png
+| hitboxes    = XV_benimaru_hb_hb.png
+| damage      = 40
+| guard       = High
+| cancel      = special
+| startup     = 5
+| active      = 9
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 50
+}}
+
+====jump B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_jb
+| name        = jump B
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.B
+| images      = XV_benimaru_jb_ima.png
+| hitboxes    = XV_benimaru_jb_hb.png
+| damage      = 45
+| guard       = High
+| cancel      = special
+| startup     = 5
+| active      = 10
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_hc
+| name        = hop C
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.C
+| images      = XV_benimaru_jc_ima.png
+| hitboxes    = XV_benimaru_hc_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 6
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_jc
+| name        = jump C
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.C
+| images      = XV_benimaru_jc_ima.png
+| hitboxes    = XV_benimaru_jc_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 6
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====hop D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_hd
+| name        = hop D
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.D
+| images      = XV_benimaru_jd_ima.png
+| hitboxes    = XV_benimaru_hd_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 7
+| active      = 4
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_jd
+| name        = jump D
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.D
+| images      = XV_benimaru_jd_ima.png
+| hitboxes    = XV_benimaru_jd_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 7
+| active      = 5
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Rush===
+====Rush 1====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_rush1
+| name		  = Rush 1
+| header      = yes
+| version	  = c.AA
+| orderId	  = 1
+| input		  = c.AA
+| images	  = XV_benimaru_rush1_ima.png
+| hitboxes	  = XV_placeholder.png
+| damage	  = 48 (25+25)
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel	  = Rush
+| startup	  = 
+| active	  = 
+| recovery	  = 
+| hitadv	  = -4
+| blockadv	  = -6
+| invul		  = 
+| stun        = 30
+| guardDamage = 120 (60+60)
+}}
+
+====Rush 2====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_rush2
+| name		  = Rush 2
+| header      = no
+| version	  = c.AAX
+| orderId	  = 2
+| input		  = c.AAX
+| images	  = XV_benimaru_rush2_ima.png
+| hitboxes	  = XV_placeholder.png
+| damage	  = 70 (25+25+25)
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel	  = Rush
+| startup	  = 6
+| active	  = 
+| recovery	  = 
+| hitadv	  = -6
+| blockadv	  = -8
+| invul		  = 
+| stun        = 30
+| guardDamage = 180 (60+60+60)
+}}
+
+===Command normals===
+====Jackknife Kick====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_6b
+| name        = Jackknife Kick
+| input       = 6B
+| images      = XV_benimaru_6b_ima.png
+| hitboxes    = XV_benimaru_6b_hb.png, XV_benimaru_6b2_hb.png
+| damage      = 40
+| guard       = Mid
+| cancel      = special
+| startup     = 21
+| active      = 3
+| recovery    = 17
+| hitadv      = +1
+| blockadv    = -1
+| invul       = Lower Body: 4 to 23 (20 Frames)
+| stun        = 40
+| guardDamage = 60
+}}
+
+====Flying Drill====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_j2d
+| name        = Flying Drill
+| input       = j.2D
+| images      = XV_benimaru_j2d_ima.png
+| hitboxes    = XV_benimaru_j2d_hb.png
+| damage      = 70 (25+25+25)
+| guard       = High
+| cancel      = 
+| startup     = 14
+| active      = Active till landing
+| recovery    = 13 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 40
+| guardDamage = 120 (40+40+40)
+}}
+
+===Blowback===
+====Blowback====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_cd
+| name        = Blowback
+| input       = CD
+| images      = XV_benimaru_cd_ima.png
+| hitboxes    = XV_benimaru_5cd_hb.png
+| damage      = 75
+| guard       = Mid
+| cancel      = 
+| startup     = 11
+| active      = 4
+| recovery    = 23
+| hitadv      = Wall Spalt (Ground hit) / Soft Knockdown (Air hit)
+| blockadv    = -4
+| invul       = 
+| stun        = 100
+| guardDamage = 160
+}}
+
+====Shatterstrike====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236cd
+| name        = Shatterstrike
+| input       = 236CD
+| images      = XV_benimaru_236cd_ima.png
+| hitboxes    = XV_benimaru_236cd_hb.png, XV_benimaru_236cd2_hb.png
+| damage      = 75
+| guard       = Mid
+| cancel      = 
+| startup     = 15
+| active      = 6
+| recovery    = 27
+| hitadv      = Crumple (Ground Hit) / Wall Bounce (Air hit)
+| blockadv    = -10
+| invul       = Armor: 4 to 14 (11 frames)
+| stun        = 0
+| guardDamage = 200
+}}
+
+====Advancestrike====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_214cd
+| name        = Advancestrike
+| input       = 214CD
+| images      = XV_benimaru_214cd_ima.png
+| hitboxes    = XV_benimaru_214cd_hb.png, XV_benimaru_214cd2_hb.png
+| damage      = 100
+| guard       = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel      = 
+| startup	  = 28
+| active	  = 6
+| recovery	  = 37 (on whiff) / Recovers faster on hit and block.
+| hitadv	  =  HKD (68 - Non Throw Counter Hit) / Crumple (103 - Throw Counter Hit)
+| blockadv	  = 3
+| invul		  = Full Body Armor Frames: 7 to 33 (27 frames) / Throw Counter Frames: 4 to 27 (24 Frames)
+| stun        = 0
+| guardDamage = 150
+}}
+
+====hop CD====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_hcd
+| name        = hop CD
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.CD
+| images      = XV_benimaru_jcd_ima.png
+| hitboxes    = XV_benimaru_jcd_hb.png
+| damage      = 80
+| guard       = Mid
+| cancel      = special
+| startup     = 9
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====jump CD====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_jcd
+| name        = jump CD
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.CD
+| images      = XV_benimaru_jcd_ima.png
+| hitboxes    = XV_benimaru_jcd_hb.png
+| damage      = 90
+| guard       = Mid
+| cancel      = special
+| startup     = 9
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 140
+}}
+
+===Throws===
+====Catch and Shoot====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_cthrow
+| name        = Catch and Shoot
+| input       = (close) 4/6C
+| images      = XV_benimaru_cthrow_ima.png
+| hitboxes    = XV_benimaru_cthrow_hb.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = Hard Knockdown
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+====Front Suplex====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_dthrow
+| name        = Front Suplex
+| input       = (close) 4/6D
+| images      = XV_benimaru_dthrow_ima.png
+| hitboxes    = XV_benimaru_dthrow_hb.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = Hard Knockdown
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+====Spinning Knee Drop====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_athrow
+| name        = Spinning Knee Drop
+| input       = close j.4/6C
+| images      = XV_benimaru_athrow_ima.png
+| hitboxes    = XV_benimaru_athrow_hb.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = Hard Knockdown
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+==Specials==
+===Iai-Geri===
+====236B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236b
+| name        = Iai-Geri 
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 236B
+| images      = XV_benimaru_236b_ima.png
+| hitboxes    = XV_benimaru_236b_hb.png
+| damage      = 45
+| guard       = Mid
+| cancel      = super
+| startup     = 5
+| active      = 3
+| recovery    = 21
+| hitadv      = -3
+| blockadv    = -5
+| invul       = 
+| stun        = 100
+| guardDamage = 60
+}}
+
+====236D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236d
+| name        = Iai-Geri 
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 236D
+| images      = XV_benimaru_236b_ima.png
+| hitboxes    = XV_benimaru_236d_hb.png
+| damage      = 45
+| guard       = Mid
+| cancel      = 
+| startup     = 5
+| active      = 3
+| recovery    = 26
+| hitadv      = -9
+| blockadv    = -11
+| invul       = 
+| stun        = 100
+| guardDamage = 80
+}}
+
+====236BD====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236bd
+| name        = Iai-Geri 
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 236BD
+| images      = XV_benimaru_236b_ima.png
+| hitboxes    = XV_benimaru_236bd_hb.png
+| damage      = 60
+| guard       = Mid
+| cancel      = 
+| startup     = 3
+| active      = 4
+| recovery    = 21
+| hitadv      = -5
+| blockadv    = -7
+| invul       = 
+| stun        = 0
+| guardDamage = 100
+}}
+
+===Inazuma Sandan-Geri===
+====236B~28B/D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236b_28k
+| name        = Inazuma Sandan-Geri 
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 236B~28B/D
+| images      = XV_Benimaru_5D_ima.png
+| hitboxes    = XV_benimaru_236k_28k1_hb.png, XV_benimaru_236k_28k2_hb.png, XV_benimaru_236k_28k3_hb.png
+| damage      = 90 (60+30)
+| guard       = Mid
+| cancel      = super (1)
+| startup     = 6
+| active      = 3 (5) 5
+| recovery    = 49
+| hitadv      = Soft Knockdown
+| blockadv    = -35
+| invul       = 
+| stun        = 80 (40+40)
+| guardDamage = 40 (20+20)
+}}
+
+====236D~28B/D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236d_28k
+| name        = Inazuma Sandan-Geri 
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 236D~28B/D
+| images      = XV_benimaru_623b_ima.png
+| hitboxes    = XV_benimaru_236k_28k1_hb.png, XV_benimaru_236k_28k2_hb.png, XV_benimaru_236k_28k3_hb.png
+| damage      = 90 (60+30)
+| guard       = Mid
+| cancel      = super (1)
+| startup     = 6
+| active      = 3 (5) 5
+| recovery    = 49
+| hitadv      = Soft Knockdown
+| blockadv    = -35
+| invul       = 
+| stun        = 80 (40+40)
+| guardDamage = 40 (20+20)
+}}
+
+====236BD~28B/D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236bd_28k
+| name        = Inazuma Sandan-Geri 
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 236BD~28B/D
+| images      = XV_benimaru_623b_ima.png
+| hitboxes    = XV_benimaru_236bd_28k1_hb.png, XV_benimaru_236bd_28k2_hb.png, XV_benimaru_236bd_28k3_hb.png
+| damage      = 114 (60+20+20+20)
+| guard       = Mid
+| cancel      = 
+| startup     = 5
+| active      = 3 (5) 6
+| recovery    = 48
+| hitadv      = Soft Knockdown
+| blockadv    = -31
+| invul       = 
+| stun        = 0
+| guardDamage = 80 (50+10+10+10)
+}}
+
+===Raimeitou===
+====214A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_214a
+| name        = Raimeitou 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 214A
+| images      = XV_benimaru_214a_ima.png
+| hitboxes    = XV_benimaru_214a_hb.png
+| damage      = 60
+| guard       = Mid
+| cancel      = super
+| startup     = 15
+| active      = 7
+| recovery    = 27
+| hitadv      = Soft Knockdown
+| blockadv    = -3
+| invul       = 
+| stun        = 80
+| guardDamage = 60
+}}
+
+====214C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_214c
+| name        = Raimeitou 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 214C
+| images      = XV_benimaru_214a_ima.png
+| hitboxes    = XV_benimaru_214a_hb.png
+| damage      = 68 (35+35)
+| guard       = Mid
+| cancel      = super (1)
+| startup     = 25
+| active      = 10
+| recovery    = 33
+| hitadv      = Soft Knockdown
+| blockadv    = +1
+| invul       = 
+| stun        = 80 (40+40)
+| guardDamage = 100 (60+40)
+}}
+
+====214AC====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_214ac
+| name        = Raimeitou 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 214AC
+| images      = XV_benimaru_214ac_ima.png
+| hitboxes    = XV_benimaru_214ac_hb.png, XV_benimaru_214ac2_hb.png
+| damage      = 90
+| guard       = Mid
+| cancel      = 
+| startup     = 17
+| active      = Full Screen Projectile
+| recovery    = 31
+| hitadv      = Knockdown (+34~+55)
+| blockadv    = -1~+16
+| invul       = 
+| stun        = 0
+| guardDamage = 90
+}}
+
+===Raikinken===
+====236A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236a
+| name        = Raikinken 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 236A
+| images      = XV_benimaru_236a_ima.png
+| hitboxes    = XV_benimaru_236a_hb.png
+| damage      = 97 (50+50)
+| guard       = Mid
+| cancel      = super (1)
+| startup     = 15
+| active      = 8
+| recovery    = 24
+| hitadv      = Soft Knockdown
+| blockadv    = -2
+| invul       = 
+| stun        = 40 (20+20)
+| guardDamage = 60 (30+30)
+}}
+
+====236C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236c
+| name        = Raikinken 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 236C
+| images      = XV_benimaru_236c_ima.png
+| hitboxes    = XV_benimaru_236c_hb.png
+| damage      = 97 (50+50)
+| guard       = Mid
+| cancel      = super
+| startup     = 19
+| active      = 16
+| recovery    = 15
+| hitadv      = Soft Knockdown
+| blockadv    = -1
+| invul       = 
+| stun        = 40 (20+20)
+| guardDamage = 60 (30+30)
+}}
+
+====236AC====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236ac
+| name        = Raikinken 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 236AC
+| images      = XV_benimaru_236a_ima.png
+| hitboxes    = XV_benimaru_236ac_hb.png
+| damage      = 100
+| guard       = Mid
+| cancel      = 
+| startup     = 16
+| active      = 12
+| recovery    = 11
+| hitadv      = Crumple
+| blockadv    = -2
+| invul       = 
+| stun        = 0
+| guardDamage = 80
+}}
+
+===Air • Raijinken===
+====j.236A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_j236a
+| name        = Air • Raijinken 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = j.236A
+| images      = XV_benimaru_j236a_ima.png
+| hitboxes    = XV_benimaru_j236p_hb.png
+| damage      = 68 (35+35)
+| guard       = Mid
+| cancel      = 
+| startup     = 15
+| active      = 15
+| recovery    = 15 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 40 (20+20)
+| guardDamage = 60 (30+30)
+}}
+
+====j.236C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_j236c
+| name        = Air • Raijinken 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = j.236C
+| images      = XV_benimaru_j236a_ima.png
+| hitboxes    = XV_benimaru_j236p_hb.png
+| damage      = 68 (35+35)
+| guard       = Mid
+| cancel      = 
+| startup     = 14
+| active      = 15
+| recovery    = 15 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 40 (20+20)
+| guardDamage = 60 (30+30)
+}}
+
+====j.236AC====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_j236ac
+| name        = Air • Raijinken 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = j.236AC
+| images      = XV_benimaru_j236a_ima.png
+| hitboxes    = XV_benimaru_j236ac_hb.png
+| damage      = 110 (30+30+30+30)
+| guard       = Mid
+| cancel      = 
+| startup     = 16
+| active      = 31
+| recovery    = 12 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 0
+| guardDamage = 100 (20+30+20+30)
+}}
+
+===Benimaru Collider - (close)===
+====632146A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_632146a
+| name        = Benimaru Collider - (close) 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 632146A
+| images      = XV_benimaru_632146a_ima.png
+| hitboxes    = XV_benimaru_632146p_hb.png
+| damage      = 100 (13*9+19)
+| guard       = N/A
+| cancel      = 
+| startup     = 5
+| active      = 1
+| recovery    = 30
+| hitadv      = Hard Knockdown
+| blockadv    = Unblockable
+| invul       = Full Body: 5 (1 Frame)
+| stun        = 0
+| guardDamage = N/A
+}}
+
+====632146C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_632146c
+| name        = Benimaru Collider - (close) 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 632146C
+| images      = XV_benimaru_632146c_ima.png
+| hitboxes    = XV_benimaru_632146p_hb.png
+| damage      = 100 (13*9+19)
+| guard       = N/A
+| cancel      = 
+| startup     = 5
+| active      = 1
+| recovery    = 30
+| hitadv      = Hard Knockdown
+| blockadv    = Unblockable
+| invul       = Full Body: 5 (1 Frame)
+| stun        = 0
+| guardDamage = N/A
+}}
+
+====632146AC====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_632146ac
+| name        = Benimaru Collider - (close) 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 632146AC
+| images      = XV_benimaru_632146a_ima.png
+| hitboxes    = XV_benimaru_632146ac_hb.png
+| damage      = 110 (10 + (8+10)*6 + (8+16)) 
+| guard       = N/A
+| cancel      = 
+| startup     = 5
+| active      = 1
+| recovery    = 22
+| hitadv      = Crumple
+| blockadv    = Unblockable
+| invul       = Full Body: 5 (1 Frame)
+| stun        = 0
+| guardDamage = N/A
+}}
+
+===Super Jinrai Kick===
+====623B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_623b
+| name        = Super Jinrai Kick 
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 623B
+| images      = XV_benimaru_623b_ima.png
+| hitboxes    = XV_benimaru_623b1_hb.png, XV_benimaru_623b2_hb.png, XV_benimaru_623b3_hb.png
+| damage      = 70
+| guard       = Mid
+| cancel      = 
+| startup     = 5
+| active      = 5
+| recovery    = 54 (30 on ground)
+| hitadv      = Soft Knockdown
+| blockadv    = -40
+| invul       = Full Body: 1 to 6 (6 Frames)
+| stun        = 80
+| guardDamage = 20
+}}
+
+====623D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_623d
+| name        = Super Jinrai Kick 
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 623D
+| images      = XV_benimaru_623b_ima.png
+| hitboxes    = XV_benimaru_623d1_hb.png, XV_benimaru_623d2_hb.png, XV_benimaru_623d3_hb.png
+| damage      = 120
+| guard       = Mid
+| cancel      = 
+| startup     = 7
+| active      = 5
+| recovery    = 44 (20 on ground)
+| hitadv      = Knockdown (+18)
+| blockadv    = -30
+| invul       = Full Body: 1 to 10 (10 Frames)
+| stun        = 100
+| guardDamage = 40
+}}
+
+====623BD====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_623bd
+| name        = Super Jinrai Kick 
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 623BD
+| images      = XV_benimaru_623b_ima.png
+| hitboxes    = XV_benimaru_623bd1_hb.png, XV_benimaru_623bd2_hb.png
+| damage      = 160 (70+45+45)
+| guard       = Mid
+| cancel      = 
+| startup     = 5
+| active      = 6
+| recovery    = 43 (20 on ground)
+| hitadv      = Knockdown (+22)
+| blockadv    = -32
+| invul       = Full Body: 1 to 10 (10 Frames)
+| stun        = 0
+| guardDamage = 80 (40+20+20)
+}}
+
+==Supers==
+===Rai-Kou Ken===
+====236236A====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236236a
+| name        = Rai-Kou Ken 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 236236A
+| images      = XV_benimaru_236236a_ima.png
+| hitboxes    = XV_benimaru_236236a1_hb.png, XV_benimaru_236236a2_hb.png
+| damage      = 190 (35*4+50)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 13
+| active      = 30
+| recovery    = 48
+| hitadv      = HKD (52)
+| blockadv    = -23
+| invul       = Full Body: 1 to 3 (3 Frames), Low Body: 4 to 12 (9 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236C====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236236c
+| name        = Rai-Kou Ken 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 236236C
+| images      = XV_benimaru_236236c_ima.png
+| hitboxes    = XV_benimaru_236236c1_hb.png, XV_benimaru_236236c2_hb.png
+| damage      = 190 (35*4+50)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 15
+| active      = 30
+| recovery    = 51
+| hitadv      = HKD (49)
+| blockadv    = -26
+| invul       = Full Body: 1 to 3 (3 Frames), Upper Body: 4 to 14 (11 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236AC====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236236ac
+| name        = Rai-Kou Ken 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 236236AC
+| images      = XV_benimaru_236236a_ima.png
+| hitboxes    = XV_benimaru_236236ac1_hb.png, XV_benimaru_236236ac2_hb.png
+| damage      = 336 (40*2+28*7+60)
+| guard       = Mid
+| cancel      = climax
+| startup     = 10
+| active      = 30
+| recovery    = 44
+| hitadv      = HKD (59)
+| blockadv    = -26
+| invul       = Full Body: 1 to 32 (32 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+===Benimaru Rising Shot===
+====236236B====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236236b
+| name        = Benimaru Rising Shot 
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 236236B
+| images      = XV_benimaru_236236b_ima.png
+| hitboxes    = XV_benimaru_236236k_hb.png
+| damage      = 140 (40+100)
+| guard       = Mid
+| cancel      = advanced, climax (1)
+| startup     = 9
+| active      = 7
+| recovery    = 24
+| hitadv      = Ground Bounce (+61)
+| blockadv    = -12
+| invul       = Full Body: 1 to 6 (6 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236D====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236236d
+| name        = Benimaru Rising Shot 
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 236236D
+| images      = XV_benimaru_236236d_ima.png
+| hitboxes    = XV_benimaru_236236k_hb.png
+| damage      = 140 (40+100)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 9
+| active      = 7
+| recovery    = 24
+| hitadv      = Ground Bounce (+61)
+| blockadv    = -12
+| invul       = Full Body: 1 to 6 (6 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236BD====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_236236bd
+| name        = Benimaru Rising Shot 
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 236236BD
+| images      = XV_benimaru_236236d_ima.png
+| hitboxes    = XV_benimaru_236236bd1_hb.png, XV_benimaru_236236bd2_hb.png
+| damage      = 270 (40+230)
+| guard       = Mid
+| cancel      = climax
+| startup     = 9
+| active      = 8
+| recovery    = 39
+| hitadv      = Ground Bounce
+| blockadv    = -28
+| invul       = Full Body: 1 to 8 (8 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+===Climax super===
+====2141236CD====
+{{MoveData-KOFXV | character = Benimaru Nikaido | moveId = benimaru_2141236cd
+| name        = Raiha Jin-Ou Ken 
+| input       = 2141236CD
+| images      = XV_benimaru_2141236cd_ima.png
+| hitboxes    = XV_benimaru_2141236cd_hb.png
+| damage      = 429 (50*9) Min:270
+| guard       = Mid
+| cancel      = 
+| startup     = 10
+| active      = 18
+| recovery    = 57
+| hitadv      = Hard Knockdown
+| blockadv    = -40
+| invul       = Full Body: 1 to 10 (10 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+
+
+
+[[Category:The King of Fighters XV]][[Category:{{#titleparts:{{BASEPAGENAME}}|2|2}}]]
+
+{{#lst:{{BASEPAGENAME}}/Combos|Links}}
+{{ComboLegend-KOFXV}}
+{{CharNavbox_XV}}
+ 
+==Combo Notation Guide==
+{|class="wikitable"
+! Notation !! Meaning
+|-
+| '''X Starter''' || Use the corresponding starter(s) from the 'Starters' section of this page.
+|-
+| '''>''' || Cancel the previous move into the following move.<br />If preceded by a move in brackets, must cancel the start of the preceding move (AKA a 'Kara Cancel').
+|-
+| ''',''' || Link the previous move into the following move.
+|-
+| '''(X)''' || A move in brackets must whiff (not hit).<br />Can also mean the move must be Kara Canceled.
+|-
+| '''~''' || Cancel the previous special into the following special.
+|-
+| '''cl.''' || Close to opponent.
+|-
+| '''f.''' || Far from opponent.
+|-
+| '''j.''' || Jumping move.
+|-
+| '''AA''' || Anti-air. Hit the opponent while they're mid-air.
+|-
+| '''[X]''' || Hold input briefly.
+|-
+| '''X/Y''' || Do either X move or Y move in a combo (Both final damage & stun values will be shown).
+|-
+| '''X * N'''<br>'''{X} * N''' || Repeat 'X' input 'N' amount of times.<br>Multiple inputs will be bundled into "{}".
+|-
+|}
+==Starters==
+'''Keep in mind:''' The combos in the "Combos" section have been tested using the first starter in each category '''(the combos in Bold)'''.<br/>
+The other starters in each table should also work in each case, but may not. 
+
+===Light Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''2B > 2A > 2B''' || 51 || Standard low light confirm. 
+|-
+| 2B > 2B > 2B || 42 || Weaker but can be more consistent at some ranges.
+|}
+
+===Heavy Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''cl.C/2C''' || 70 || Standard jump-in starter.
+|-
+| cl.D || 80 || Stronger but has a shorter activation range than cl.C.
+|-
+| 2B > 2A, 2C || 101 || Strong link from a low starter, but Benimaru must be point blank for this to work, such as after a cross-up j.B.
+|-
+| 6B || 40 || Can be used to attack from a distance.
+|-
+| CD > 236AC, 2C || 209 || Costs 0.5 meter. When CD lands close to the corner, this link is possible.
+|}
+
+===Other Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| CD || 75 ||
+|}
+('''Note:''' 'Other Starters' won't be referenced in the 'Combos' section.)
+
+==Combos==
+===Rush Auto Combo===
+{|class="wikitable sortable"
+! Combo!! Damage !! Meter cost !! notes
+|-
+|  cl.A > A > A > B || 177 || 0 || Rush combo ending in a special move
+|-
+|  cl.A > A > A > C || 228 || 1 || Rush combo ending in a super
+|-
+|  cl.A > A > A > D || 350 || 2 || Rush combo ending in a Max super
+|-
+|  cl.A > A > A > A || 434 || 3 || Rush combo ending in a Climax super
+|}
+
+===Meterless===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K || 159/191 || 240 || 20% || Anywhere || Standard meterless confirm.
+|-
+| CD, run, 2D || 170 || 131 || 35% || Anywhere || 
+|-
+|'''Heavy Starter''' > 214A, 236D ~ 28K || 242 || 330 || 30% || Corner || Since 214A is safe, you can get this conversion off of stray 214A or 214C hits as well.
+|-
+| CD, 6B > 236C, 214A, 236D ~ 28K || 259 || 440 || 51% || Corner ||
+|}
+
+===EX===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > 236BD ~ 28K || 192 || 60 || 5% || Anywhere || Very simple way to get extra damage from a light. Not a recommended use to meter often unless it kills. You can technically combo into 632146AC from a light normal, but only after one light, meaning it can't be hit confirmed.
+|-
+| '''Heavy Starter''' > 236AC, 6B > 214C, 236D ~ 28K || 328 || 370 || 40% || Anywhere ||
+|-
+| '''Heavy Starter''' > 236AC, 6B > 236C, walk, cl.D > (236D) ~ 28K || 351 || 260 || 40% || Corner || Optimal corner combo. In the ender, the 236D will whiff but the follow-up will hit, even after the air reset from the cl.D. You can input the 236D as 2369D and hold the D to make the follow-up come out, as long as the cl.D is cancelled a little later than normal. However...
+|-
+| '''Heavy Starter''' > 236AC, 6B > 236C, (delay) 236D ~ 28K || 350 || 330 || 45% || Corner || Simply comboing into the 236D as normal results in just 1 less point of damage as well as more stun and slightly more meter build. So just stick with this. If you don't want to deal with the delay on the 236D, end in an 623D instead.
+|-
+| CD, run, 236BD > 28K || 189 || 100 || 15% || Midscreen/Corner || Input 236BD as 2369BD to avoid inputting DP.
+|-
+| CD, 6B > 236C, 236B, 236BD ~ 28K || 322 || 280 || 35% || Corner || 
+|-
+| 632146AC, 6B > 214C, 236D ~ 28K || 224 || 300 || 25% || Anywhere ||
+|-
+| 632146AC, 6B > 236C, 214A, 236D ~ 28K || 261 || 340 || 43.5% || Corner || As you can see, your 632146AC combos will be identical to your 236AC combos.
+|}
+
+===1 Bar===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236K, 236K ~ 28K || 323/379 || 380 || 1 || 30% || Anywhere || When super cancelling 28K into super, input the 28K as 2368K. 23698K works too, but make sure K is being input on the 8 position to prevent super cancelling early. You'll lose a good chunk of damage in doing so.
+|-
+| '''Heavy Starter''' > 214A, 236K ~ 28K > 236236K, cl.D > (236D) ~ 28K || 414 || 400 || 1 || 45% || Corner || If you don't want to deal with the ender, end in 623D for 4 less damage.
+|-
+| CD, run, 214A > 236236K, 236K ~ 28K || 275 || 360 || 1 || 30% || Anywhere || 
+|-
+| 236CD, 236K ~ 28K || 204 || 180 || 1 || 65% || Anywhere || Shatter Strike combo. Benimaru can't get much off of his unfortunately.
+|-
+| (AA) 236CD, 214C, 236D ~ 28K || 258 || 260 || 1 || 75% || Non-corner || You can get a 214C if you land an anti-air SS. The timing in which the combo plays out will vary based on your screen positioning. 
+|-
+| 236CD, 214A, 236K ~ 28K || 256 || 260 || 1 || 70% || Corner ||
+|-
+| 632146AC, 6B > 214C, 236BD ~ 28K || 239 || 120 || 1 || 15% || Anywhere ||
+|-
+| 632146AC, 6B > 236C, 236B, 236BD ~ 28K || 266 || 180 || 1 || 25% || Corner ||
+|-
+| '''Light Starter''' > 236K ~ 28K > 236236K, 236BD ~ 28K || 347 || 200 || 1.5 || 20% || Anywhere || Not very worth it. You can generally use EX versions of enders to turn 1 bar combos into 1.5 bar combos, but they often aren't worth the meter spend since the damage increase is small and you lose out on stun and meter build.
+|-
+| '''Heavy Starter''' > 236AC, 6B > 214C, (delay) 236D ~ 28K > 236236K, 623D || 443 || 430 ||| 1.5 || 55% || Anywhere || 420 dmg omitting 28K. 
+|-
+| '''Light Starter''' > 236K ~ 28K > 236236K, 236B, 236BD ~ 28K || 367 || 300 || 1.5 || 25% || Corner || 
+|-
+| '''Heavy Starter''' > 236AC, 6B > 236C, (delay) 236D ~ 28K > 236236K, cl.D > (236D) ~ 28K || 467 || 400 || 1.5 || 55% || Corner || 444 dmg omitting 28K.
+|-
+| 632146AC, 6B > 214C, (delay) 236D ~ 28K > 236236K, 623D || 314 || 360 || 1.5 || 45% || Anywhere || 296 dmg omitting 28K.
+|-
+| 632146AC, 6B > 236C, (delay) 236D ~ 28K > 236236K, cl.D > (236D) ~ 28K || 330 || 330 || 1.5 || 45% || Corner || 312 dmg omitting 28K.
+|}
+
+===2 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236BD, 236K ~ 28K || 420/489 || 380 || 2 || 30% || Anywhere || Simple upgrade to 2 bars.
+|-
+| '''Heavy Starter''' > 214A, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 579 || 400 || 2 || 45% || Corner || First use of 236236AC juggle. 
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 236AC, 6B > 214C, (delay) 236D ~ 28K > 236236K, 623D || 368/439 || 490 || 2 || 25% || Anywhere || Quick Max combo for all positions. Weaker than your regular combo but can be used off of non-cancellable pokes like far C and far D. 353/418 dmg omitting 28K.
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 236AC, 6B > 236C, (delay) 236D ~ 28K > 236236K, cl.D > (236D) ~ 28K || 385/456 || 460 || 2 || 20% || Anywhere || Quick Max corner combo for all positions. 368/436 dmg omitting 28K.
+|-
+| CD, run, 214C > 236236BD, 236K ~ 28K || 408 || 320 || 2 || 30% || Anywhere || 
+|-
+| CD, run, 214C, 236D > 236236BD, 623D || 426 || 380 || 2 || 45% || Midscreen/Corner || 
+|-
+| CD, 6B > 236C, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 521 || 430 || 2 || 55% || Corner || 
+|-
+| 236CD, 236B ~ 28K > 236236K, 623D || 399 || 240 || 2 || 80% || Anywhere || Using the B version helps with the juggle height.
+|-
+| 236CD, 214A, 236D ~ 28K > 236236K, cl.D > (236D) ~ 28K || 445 || 330 || 2 || 85% || Corner ||
+|-
+| 632146AC, 6B > 214C, (delay) 236D ~ 28K > 236236K, 236BD ~ 28K || 323 || 260 || 2 || 25% || Anywhere || 305 dmg omitting 28K.
+|-
+| 632146AC, j.236AC, 236C, 214A, 236D ~ 28K > 236236K, cl.D > (236D) ~ 28K || 346 || 370 || 2 || 55% || Corner || You can input the j.236AC as 2369AC.
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236BD, 236BD ~ 28K || 444/518 || 210 || 2.5 || 20% || Anywhere || Optimal to just use 236BD at the end of all of your 2 bar combos, even for your heavy confirms. 236AC will scale the combo too much.
+|-
+| 632146AC, 6B > 214C, 236D > 236236BD, cl.D > (236D) ~ 28K || 361 || 330 || 2.5 || 35% || Anywhere || 
+|-
+| 632146AC, 6B > 236C, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 434 || 330 || 2.5 || 45% || Corner || 
+|}
+
+===3 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236P > 236236BD, 236D ~ 28K || 542/628 || 380 || 3 || 30% || Anywhere || 
+|-
+| '''Light Starter''' > 236K ~ 28K > 236236K, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 551 || 450 || 3 || 45% || Corner ||
+|-
+| '''Heavy Starter''' > 214A, 236D ~ 28K > 236236P > 236236BD, cl.D > (236D) ~ 28K || 654 || 400 || 3 || 45% || Corner ||
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 236AC, 6B > 214C, 236D ~ 28K > 214236CD || 544/603 || 390 || 3 || 5% || Anywhere || 1000 Max gauge combo. Input 28K as 2148K.
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 236K ~ 28K > 236236K, 236D ~ 28K > 214236CD || 584/647 || 410 || 3 || 5% || Anywhere || 1250 Max gauge combo. The timer is extremely tight here; omit one of the 28Ks if you need the extra few frames to fit everything within the timer. If you're at 1500 Max gauge, you won't have that issue.
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 236AC, 6B > 236C, (delay) 236D ~ 28K > 214236CD || 559/620 || 350 || 3 || 5% || Anywhere || 1000 Max gauge corner combo. You can delay the 236C instead if you prefer.
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 214A, 236D ~ 28K > 236236P > 214236CD || 591/647 || 350 || 3 || 5% || Anywhere || 1500 Max gauge corner combo. Either version of 236236P will work. At 1250 gauge just use the {{tt|midscreen|cl.D > 236K ~ 28K > 236236K, 236D ~ 28K > 214236CD}} combo.
+|-
+| CD, run, 214C > 236236BD, 236D ~ 28K > 236236P || 504 || 280 || 3 || 25% || Anywhere ||
+|-
+| CD, run, 214C, (delay) 236D ~ 28K > 236236A > 236236BD, cl.D > (236D) ~ 28K || 551 || 430 || 3 || 45% || Midscreen/Corner || 540 dmg omitting 28K.
+|-
+| CD, 6B > 236C, (delay) 236D ~ 28K > 236236A > 236236BD, cl.D > (236D) ~ 28K || 574 || 430 || 3 || 55% || Corner || 561 dmg omitting 28K.
+|-
+| CD, 6B > BC, 214A, 236D ~ 28K > 236236A > 214236CD || 589 || 360 || 3 || 15% || Corner || Available at 1250/1500 Max gauge. 
+|-
+| 236CD, 236A > 236236BD, 236D ~ 28K || 517 || 220 || 3 || 75% || Anywhere || Make sure to cancel 236A on the second hit.
+|-
+| 236CD, 214A, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 612 || 330 || 3 || 85% || Corner || 
+|-
+| 632146AC, j.236AC, (delay) 214C, 236D > 236236BD, cl.D > (236D) ~ 28K || 372 || 290 || 3 || 30% || Anywhere || Not significantly stronger than your 2.5 bar combo.
+|-
+| 632146AC, j.236AC, 236C, 214A, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 444 || 370 || 3 || 55% || Corner || Not significantly stronger than your 2.5 bar combo.
+|-
+| '''Light Starter''' > 236K ~ 28K > 236236P > 236236BD, 236BD ~ 28K || 563 || 200 || 3.5 || 20% || Anywhere || Use 236BD to add on extra damage on your 3 bar combos.
+|-
+| '''Heavy Starter''' > 236AC, BC, 236D ~ 28K > 236236P > 214236CD || 671 || 210 || 3.5 || 10% || Anywhere || Raw Max mid combo.
+|-
+| 632146AC, 6B > BC, 214C, 236D > 236236P > 214236CD || 541 || 220 || 3.5 || 5% || Anywhere || Available at 1250 Max gauge. At 1500 gauge, add a 28K before the super for an extra 18 damage.
+|-
+| 632146AC, 6B > BC, 214A, 236D ~ 28K > 236236P > 214236CD || 563 || 260 || 3.5 || 5% || Corner || Available at 1250/1500 Max gauge.
+|}
+
+===4 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236P > 236236BD, 236D ~ 28K > 236236P || 620/724 || 340 || 4 || 30% || Anywhere ||
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236BD, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 648/762 || 450 || 4 || 45% || Anywhere ||
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 236D ~ 28K > 236236BD, 236D ~ 28K > 214236CD || 662/738 || 410 || 4 || 5% || Anywhere || 1250/1500 Quick Max combo.
+|-
+| ''(QM)'' '''Light/Heavy Starter''' > BC, cl.D > 214A, 236D ~ 28K > 236236AC > 214236CD || 670/748 || 350 || 4 || 5% || Corner || 1500 Quick Max corner combo.
+|-
+| CD, run, 214C > 236236A > 236236BD, 236D ~ 28K > 236236P || 626 || 280 || 4 || 25% || Anywhere ||
+|-
+| CD, 6B > BC, 214A, 236D ~ 28K > 236236AC > 214236CD || 668 || 360 || 4 || 10% || Corner ||
+|-
+| 236CD, 236A > 236236A > 236236BD, 236D ~ 28K || 664 || 220 || 4 || 80% || Anywhere ||
+|-
+| 236CD, 236A > 236236K, 236D ~ 28K > 236236AC, cl.D > (236D) ~ 28K || 692 || 290 || 4 || 90% || Corner ||
+|-
+| '''Heavy Starter''' > 236AC, BC, 236D ~ 28K > 236236K > 236236AC > 214236CD || 830 || 210 || 4.5 || 5% || Anywhere || Raw Max mid combo.
+|-
+| 632146AC, 6B > BC, 214C, 236D ~ 28K > 236236AC > 214236CD || 634 || 260 || 4.5 || 5% || Anywhere ||
+|-
+| 632146AC, 6B > BC, 236A > 236236AC, 236D ~ 28K > 214236CD || 642 || 220 || 4.5 || 5% || Corner ||
+|}
+
+===5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light/Heavy Starter''' > 236K ~ 28K > 236236P > 236236BD, 236D ~ 28K > 236236AC || 695/806 || 340 || 5 || 25% || Anywhere || In the corner, you can add a cl.D > (236D) ~ 28K for 751/875 dmg.
+|}
+
+==External Links==
+{{#ev:youtube|WVNCvqoOluU|||'''Benimaru Combos by Meno'''|frame}}
+
+{{Navbox XV}}
+[[Category:The King of Fighters XV]]

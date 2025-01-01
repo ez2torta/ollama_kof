@@ -1,0 +1,72 @@
+==How similar is KOF XV to KOF XIV? What are the differences between the two?==
+On the surface, KOF XV seems like a more refined version of KOF XIV with one or two new system mechanics, but the truth is there are a lot of differences between the two games. A list of the most notable changes includes:
+* Max Mode now costs 2 bars to activate instead of just 1. This applies to both Raw activation and Quick activation.
+* Max Mode (Raw) now increases HP damage and guard bar damage, similar to how it worked in KOF '98.
+* Max Mode (Quick) now pauses time for a brief moment before your character automatically runs forward.
+* EX Moves can now be used outside of Max Mode for half a bar.
+* [[The King of Fighters XV/Meters and Gauges#ShatterStrike| Shatter Strike]] was added, and it is inputted with [[image:qcf.gif]]+[[image:c.gif]][[image:d.gif]] (236CD). It costs 1 bar to use and it refunds half a bar if it hits. Shatter Strike is a version of the Blowback Attack with super armor that crumples on ground hit and wallbounces on air hit. It can also be canceled into to extend combos, and it deals a large amount of damage to the guard bar if blocked.
+* Climax Super Special Moves now have a universal input of [[image:qcb.gif]][[image:hcf.gif]]+[[image:c.gif]][[image:d.gif]] (2141236CD).
+* Slight moveset adjustments across the cast.
+* The return of fan-favorite characters that had not been in a KOF game for years, such as Chizuru, Yashiro, Chris, Shermie, and Ash.
+* '''Rollback netcode.'''
+* Dash Block is no longer instant compared to XIV. Characters can only start a block on the 15th or up frame of dash.
+* Characters can normal throw immediately after waking up from hard knockdown state.
+
+If you had to put it simply, you could say the game plays like a combination of KOF XIII and KOF XIV.
+
+==How big is the roster?==
+On launch there will be 39 playable characters to choose from, with at least four DLC teams of three coming afterward for a total of 51 playable characters.
+
+==How similar is KOF to [insert fighting game]?==
+At first glance, KOF seems like Street Fighter but with hops and two less buttons, but when you start playing a match you'll quickly learn that KOF plays pretty differently when compared to Street Fighter, or any other fighting game for that matter. Universal concepts such as neutral, pressure, and okizeme still apply to KOF of course, but KOF puts its own unique spin on these concepts. For example, neutral is a lot more fast-paced than Street Fighter due to the existence of four separate jump options, rolling, running, and whiff cancelling. Combos have the potential to do massive damage if you have the meter to spend. Just about one of the few similarities between KOF XV and SF is that Shatter Strike is somewhat similar to the Focus Attack from Street Fighter IV.
+
+==What's a good guide I can watch to get a grasp of the flow of KOF?==
+One of the best guides for KOF fundamentals is [https://youtu.be/VU8d2fsa2aU The Beginner's Incomplete Guide] by Dandy J. This guide was made before the release of The King of Fighters XII in 2009, but it is still very much applicable to KOF XV outside of system mechanics. You'll learn neutral, combo flow, mixups, command grabs, and other useful things from it. Even once you "get" KOF, it can serve as a good reference if you need to come back to it for whatever reason.
+
+{{#ev:youtube|VU8d2fsa2aU}}
+
+
+'''Additional Videos:'''
+
+- Dandy J's The King of Fighters XV Survival Guide - The KOF Zone
+
+{{#ev:youtube|rcMpCpee1TA}}
+
+
+Key ones from Dune's Japanese (with English subtitles) Video Series for KOFXV:
+
+[https://youtu.be/Gb_BOFqsbfU - 1. Mechanics Tutorial in KOFXV(15) Vol 1]
+
+[https://youtu.be/WB20EVwueMk - 2. Mechanics Tutorial in KOFXV(15) Vol 2]
+
+[https://youtu.be/3XAACIFSYEA - 3. Basic tactics in KOFXV15]
+
+[https://youtu.be/Wwd-eiRke5E - 4. Basic of "Anti-Air" in KOFXV(15)]
+
+[https://youtu.be/Wwd-eiRke5E - 5. KOFXV(15) 25-minutes tutorial for basics of "jump"]
+
+[https://youtu.be/GY2cDMPdjiw - 6. KOFXV(15) 25-minutes tutorial of tactics after jump]
+
+[https://youtu.be/nJCYTB9fjKg - 7. KOFXV(15) 7 tips regarding okizeme]
+
+==How do I get the Garou Terry and Classic Leona costumes?==
+Players received Terry's Garou: MOTW costume as an early purchase bonus if they bought the game before March 9, 2022, physical or digital. It is now available as DLC. Leona's classic outfit is available for those who purchase the Digital Deluxe Edition.
+
+==How do I do combos?==
+If you want to combo after a jump attack, you have to make sure you press it late enough in your jump arc so the enemy is still in hitstun by the time you land.
+
+The general rule is you can cancel attacks into each other in the following order: normals -> command normals -> specials -> supers -> higher level supers.  
+
+Light normals can usually be chained into other lights like 2B 2A or close A close B.  The timing for these chains can vary.  Generally you want to press the next button as the previous one makes contact. There's a small handful of links from light normals to heavy normals; most commonly close A to close C.  Not all normals can be canceled into command normals or special moves, but most grounded normals can be canceled into supers or quick max.
+
+The properties of command normals can change depending on if you perform them by themselves or cancel into them from a normal.  Most commonly overheads are not special cancelable when performed raw, but if you chain into them they become a faster special cancelable mid suitable for combo filler.
+
+When you're canceling into special moves and supers, you can enter the directional commands during the animation of your previous attack, and then hold the button(s) needed to finish performing the move.  Holding the button(s) will buffer the input and queue it up when your character becomes actionable.  How long the input is held depends on the move so it is possible to be too early.  Generally supers can be held longer than specials. Also if the special and super commands overlap then the special input will count towards the super input. For example if you're cancelling a 236P special into a 236236P super, you can get both moves out with 236P236P. In this example you only have to do two quarter circles total instead of three.
+
+Ex moves cannot be canceled into supers.  Some of them will extend combos in other ways.
+
+[https://www.youtube.com/watch?v=Der3Otd8X0g&pp - KOF 101: Light Combo Timing]
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

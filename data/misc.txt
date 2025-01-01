@@ -1,0 +1,262 @@
+==Character Height==
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Visual Height Chart" data-collapsetext="Hide">[[File:KOFXV_Height_Chart.png|x400px]]</div>
+
+===Standing Height for Hurtboxes===
+17 being the tallest while 14 being the shortest for standing hurtboxes. 
+{| class="wikitable"
+!colspan="1"|Height
+!colspan="1"|Characters
+|-
+|-
+|17
+|Heidern, Yashiro, Orochi Yashiro, Maxima, Antonov, King of Dinosaurs, Geese, Yamazaki, Omega Rugal, Goenitz
+|-
+|-
+|16
+|Shun'ei, Benimaru, Dolores, Chizuru, Ash, Elisabeth, Kukri, Krohnen, Shermie, Orochi Shermie, Ralf, Clark, Joe, Ryo
+Robert, Gato, Hoahmaru, Darli, Kim, Najd, Duolon
+|-
+|15.5
+|K', Vanessa, Luong
+|-
+|15
+|Meitenkun, Kyo, Iori, Angel, Chris, Orochi Chris, Ramon, Terry, Andy, King, Blue Mary, Rock, B. Jenet, Billy, Shingo
+|-
+|14.5
+|Isla, Kula, Whip, Sylvie, Hinako
+|-
+|14
+|Leona, Athena, Mai, Yuri, Nakoruru
+|}
+
+===Standing Height for Pushboxes===
+14 being the tallest while 11.5 being the shortest for standing hurtboxes. 
+{| class="wikitable"
+!colspan="1"|Height
+!colspan="1"|Characters
+|-
+|-
+|14
+|Heidern, Yashiro, Orochi Yashiro, Maxima, Antonov, King of Dinosaurs, Yamazaki, Omega Rugal, Goenitz
+|-
+|-
+|13
+|Shun'ei, Meitenkun, Benimaru, Dolores, Kyo, Iori, Chizuru, Ash, Elisabeth, Kukri, Krohnen, Angel, Shermie, 
+Orochi Shermie, Chris, Orochi Chris, K', Whip, Ramon, Ralf, Clark, Terry, Andy, Joe, Ryo, Robert, 
+King, Blue Mary, Vanessa, Luong, Rock, B. Jenet, Gato, Geese,
+Billy, Hoahmaru, Darli, Shingo, Kim, Najd, Duolon
+|-
+|-
+|11.5
+|Isla, Kula, Leona, Athena, Mai, Yuri, Nakoruru, Sylvie, Hinako
+|}
+
+==Close-Far distance==
+
+Most characters normal standing moves have a close and far version, with different hitboxes and property. 
+The average distance where the game considers it shall resolve a button with a Close or a Far version is as follow :
+
+{| class="wikitable"
+!colspan="1"|Characters
+!colspan="1"|Far A
+!colspan="1"|Far B
+!colspan="1"|Far C
+!colspan="1"|Far D
+|-
+|8
+|8
+|10
+|9
+|}
+
+but in reality, each normal button has is own distance that you can find in the following detailled list.
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Click here to view jump/hop durations for all characters" data-collapsetext="Click to Hide">
+{| class="wikitable sortable"
+|-
+! Character !! Far A !! Far B !! Far C !! Far D
+|-
+|	Andy	||	8	||	8	||	9	||	7
+|-
+|	Angel	||	7,5	||	8,5	||	10	||	10
+|-
+|	Antonov	||	11	||	11	||	12	||	10
+|-
+|	Ash	||	8	||	9	||	10	||	7,5
+|-
+|	Athena	||	7	||	8	||	10	||	7,5
+|-
+|	B, Jenet	||	8	||	6	||	10	||	7,5
+|-
+|	Benimaru	||	9	||	8	||	9,5	||	8
+|-
+|	Billy	||	6,5	||	9	||	9	||	9
+|-
+|	Blue Mary	||	7,5	||	8	||	10	||	9,5
+|-
+|	Chizuru	||	8	||	7	||	7,5	||	10
+|-
+|	Chris	||	8	||	9	||	8	||	7,5
+|-
+|	Clark	||	7	||	7,5	||	10,5	||	8
+|-
+|	Darli	||	8	||	9	||	10	||	9,5
+|-
+|	Dolores	||	9	||	8	||	10	||	9
+|-
+|	Duo Lon	||	8	||	9	||	8	||	10
+|-
+|	Elisabeth	||	8	||	6	||	10	||	7,5
+|-
+|	Gato	||	8	||	9	||	10	||	10
+|-
+|	Geese	||	8,5	||	8	||	10,5	||	8
+|-
+|	Goenitz	||	8	||	8	||	10	||	9
+|-
+|	Haohmaru	||	8	||	N/A	||	13,5	||	7,5
+|-
+|	Heidern	||	7,5	||	12	||	10	||	9,5
+|-
+|	Hinako	||	9	||	8	||	10	||	9
+|-
+|	Iori	||	8	||	8	||	11	||	8
+|-
+|	Isla	||	8	||	9	||	10	||	7,5
+|-
+|	Joe	||	8	||	8	||	8	||	11
+|-
+|	K'	||	8	||	9	||	9	||	9
+|-
+|	Kim Kaphwan	||	9	||	8	||	10	||	10
+|-
+|	King	||	7,5	||	8	||	9	||	8
+|-
+|	KOD	||	8	||	10	||	11	||	7,5
+|-
+|	Krohnen	||	8	||	7	||	10	||	7,5
+|-
+|	Kukri	||	8	||	9	||	8	||	8,5
+|-
+|	Kula	||	8,5	||	8,5	||	8,5	||	8
+|-
+|	Kyo	||	9	||	9,5	||	11	||	10
+|-
+|	Leona	||	8,5	||	8,5	||	10	||	9
+|-
+|	Luong	||	8,5	||	8	||	8	||	13,5
+|-
+|	Mai	||	7,5	||	7,5	||	9	||	8
+|-
+|	Maxima	||	8	||	8	||	9	||	9
+|-
+|	Meitenkun	||	8	||	8	||	8	||	7,5
+|-
+|	Najd	||	8	||	8	||	10	||	10
+|-
+|	Nakoruru	||	8,5	||	N/A	||	8	||	7,5
+|-
+|	Omega Rugal	||	8	||	9	||	10	||	11
+|-
+|	Orochi Chris	||	8	||	9	||	8	||	7,5
+|-
+|	Orochi Sherime	||	8	||	N/A	||	10	||	10
+|-
+|	Orochi Yashiro	||	8	||	8	||	10	||	10
+|-
+|	Ralf	||	7	||	8	||	10	||	9,5
+|-
+|	Ramon	||	8	||	5	||	10	||	8,5
+|-
+|	Robert	||	9	||	9	||	8,5	||	9,5
+|-
+|	Rock	||	8	||	7	||	10,5	||	9,25
+|-
+|	Ryo	||	7,5	||	7,5	||	10	||	13,5
+|-
+|	Shermie	||	8	||	N/A	||	10	||	10
+|-
+|	Shingo Yabuki	||	9	||	9,5	||	10	||	10
+|-
+|	Shunei	||	8	||	9	||	10	||	7,5
+|-
+|	Sylvie Paula Paula	||	7	||	7	||	10	||	10
+|-
+|	Terry	||	8	||	7,5	||	10	||	10
+|-
+|	Vanessa	||	8	||	8	||	10,75	||	9
+|-
+|	Whip	||	6	||	8,5	||	10,5	||	8
+|-
+|	Yamazaki	||	9,5	||	8	||	9,5	||	10,5
+|-
+|	Yashiro	||	8	||	8	||	10	||	10
+|-
+|	Yuri	||	7	||	7	||	10	||	9
+|}
+</div>
+
+==Buffer Window during Normal Attacks==
+
+One feature in KOF XV and XIV, that differentiates from the rest of the 2D series, is the removal of the old 4-frame buffer window for single-button normal attacks and command moves.
+
+When a normal button attack is pressed in XIII and before, the 4-frame buffer window will start and end then the normal attack will begin startup. 
+
+Characters can still move and block during this buffer window which allows them to do the old close heavy/block OS.
+
+The buffer window allowed easier execution of command moves, special moves, and two-button moves such as AB roll and CD attack. Special, roll and CD attacks will begin startup instantly.
+
+However, characters' normal attacks are 4 frames slower in non-block neutral situations.
+
+In XV and XIV the buffer window now happens during the startup of normal attacks which means they are just as fast as special moves. KOFXIV has a 1-frame buffer window while KOF XV has a two-frame window for special moves, roll, and CD attacks. Special moves have buffer windows into ex-special and super moves.
+
+
+''Buffer window example between KOF XIV and KOF XIII:''
+
+-[https://drive.google.com/file/d/1cLg300LzOp3OQ1A9uluaKjJyvMt7FWu8/view Kyo's Heavy K]
+
+-[https://drive.google.com/file/d/1tcv9STYe0ah5K3_90QAOUWeprHupYd7_/view Kyo's Stand CD]
+
+
+''Buffer window example between KOF XV and KOF 98 Ultimate Match Final Edition:''
+
+- [https://drive.google.com/file/d/1E7NQu-UgGAcv-sjvpXtng3HZDo8Gcy58/view?usp=share_link Kyo's cl. 5C]
+
+- [https://drive.google.com/file/d/17JxPCaI7LS_LJPff7BEQCBWqOkUqmMt_/view?usp=share_link Kyo's Stand CD]
+
+- [https://drive.google.com/file/d/17JxPCaI7LS_LJPff7BEQCBWqOkUqmMt_/view?usp=share_link Normal to CD Buffer window]
+
+- [https://drive.google.com/file/d/1zDmPHB-tQaITHS8eoZJSOnhAr02J-Ff9/view?usp=share_link Normal Throw Buffer Window]
+
+
+''Visual image for the buffer windows between old KOF, KOFXIV, and KOFXV:''
+
+[[File:KOF_Buffer_Window.png]]
+
+==Taunts==
+
+Long time favorite for KOF players, KOFXV features in-game animation, a.k.a. Taunts, for each character.
+The input to execute a taunt is the same for every character : A+D
+
+Your character need to be in neutral state and you have not pushed any button in the last 25 frames.
+(if you let a button pushed down, it will only count first frame. If for example, you input [A] button and push the button for 3 frames, Taunt will work if you stay buttonless/directionless for 23frames and then push [A]+[D])
+
+Once inputed, the animation will start, with an uncancellable duration of 49 frames. 
+Most taunts animations would last longer, so if you do nothing, it will execute until the end (duration differs from character to character)
+But after the first 49 frames, you can cancel your taunt animation immediatly.
+
+In KOFXV, taunt gives you no practical advantage , it's only a flavorful option, and an occasional mind trick to play to your opponent.
+/!\ Even if it's a feature from the game, some players really resent this behavior and could respond with irrational level of hatred.
+
+==More Resources==
+
+[https://docs.google.com/spreadsheets/d/16_x97bxQujwlDQvfk1UDlojX3uNKWto4oII6zuBtt7E/edit?usp=sharing KOFXV Technical Resource Spreadsheet] - A Google spreadsheet that contains frame data, links to video guides by various players in the KOF community, discord links, link to the hitbox viewer, and more.
+
+[https://drive.google.com/file/d/1sKNp3tjQgyMAXVSdgIAaW-clkkX-5aKt/view?usp=sharing KOFXV Hitbox Viewer (English Translation and Frame Data Display for pc)] - A modified version of the Chinese Hitbox Viewer by 473671866 on Github.
+
+[https://www.mediafire.com/folder/z12q820i7kiof/KOFXV_Files KOFXV Hitbox Viewer Direct Link]
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

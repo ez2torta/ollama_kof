@@ -1,0 +1,184 @@
+== Attacks ==
+
+A - Light Punch
+
+B - Light Kick
+
+C - Strong Punch
+
+D - Strong Kick
+
+CD - Blowback Attack
+
+P - With either Light Punch or Strong Punch
+
+K - With either Light Kick or Strong Kick
+
+AB - Evasive Roll, neutral or forward Ab while make the character roll forward, pressing it in the backward direction will make the character roll backward
+
+GCAB - Guard Cancel Roll, press AB when guarding an attack, can also be done while using a normal, costs one meter 
+
+GCCD - Guard Cancel Blowback Attack, press CD when guarding an attack, costs one meter. Often referred as CD Counter
+
+cl.C - Standing close hit strong punch. Since most far hits are non-cancelable, standing attacks such as cl.C are always the close version
+
+Far D - Standing far D
+
+cr.B - Crouching or down B
+
+
+== Input Priority ==
+
+This is the way you call what happens when multiple buttons are pushed together.
+This knowledge is interresting to know on its own, but it's mostly used for lab grinders to find "Option Select"s
+
+In KOFXV, the priority works mostly in a standard way :
+
+'''MaxMode/QuickMode > Roll  > Blowback > D > C > Taunt > B > A'''
+
+Unless you are crouch, in that case, 2C > 2D
+
+Which means :
+
+- if you jump and press CD, you'll get j.CD, 
+
+- if you jump and press AC, you'll get j.C
+
+- if you crouch and press CD, you'll get 2C
+
+- if you have no bar and press ABCD, you'll get a roll
+
+- if you crouch and have no bar and press ABCD, you'll get 2C
+
+etc.
+
+== Movement ==
+
+                        
+                  up (u)
+                    |
+  (ub)  up left - 7 8 9 - up right (uf)
+      
+     (b)   left - 4 5 6 - right (f)
+ 
+ (db) down left - 1 2 3 - down right (df)
+                    | 
+                  down (d)
+
+j. - Jump/jumping - Press and hold up-back/up/up-forward
+
+Hyperjump - Press down-back/down/down-forward, then quickly press and hold up-back/up/up-forward
+
+Hop - Tap up-back/up/up-forward
+
+Hyperhop - Tap down-back/down/down-forward, then quickly tap up-back/up-forward
+
+cl. – Close – Close standing attack (e.g. cl.C)
+
+cr. – Crouch – Crouching attack (e.g. cr.B)
+
+st. – Stand – Standing attack (e.g. st.B)
+
+bb. – Backdash – Tap back twice quickly
+
+ff. - Dash - Tap forward twice quickly
+
+> - Follow-up - qcf+D > K means inputting K during qcf+D triggers a follow-up move.
+
+== Attack Motions ==
+
+[[image:qcf.gif]] qcf - 236 - d/df/f - Quarter circle forward
+
+[[image:qcb.gif]] qcb - 214 - d/db/b - Quarter circle backward 
+
+[[image:hcf.gif]] hcf - 41236 - b/db/d/df/f - Half circle forward 
+
+[[image:hcb.gif]] hcb - 63214 - f/df/d/db/d - Half circle backward 
+
+[[image:dp.gif]] dp - 623 - f/d/df - Dragon Punch motion 
+
+[[image:rdp.gif]] rdp - 421 - b/d/db - Reverse Dragon Punch motion 
+
+[[image:qcf.gif]][[image:uf.gif]] tk - 2369 - d/df/f/uf - Tiger Knee Motion
+
+[[image:hcb.gif]], [[image:fd.gif]] hcb f - 632146 - f/df/d/db/b/f - Half circle back forward motion
+
+[[image:bk.gif]]~ [[image:fd.gif]] b~f - [4]6 - Hold back then press forward
+
+[[image:dn.gif]]~[[image:up.gif]] d~u - [2]8 - Hold down then press up
+
+[[image:db.gif]], [[image:fd.gif]] db,f - 1,6 - press down back then forward
+
+[[image:dn.gif]], [[image:up.gif]] d,u - 2,8 - press down then up
+
+[[image:dn.gif]], [[image:dn.gif]] d,d - 2,2 - press down twice
+
+[[image:fd.gif]],[[image:bk.gif]],[[image:fd.gif]] f,b,f - 6,4,6 - press forward back forward
+
+[[image:qcb.gif]] [[image:hcf.gif]] qcb hcf - 2141236 - Quarter circle back half circle forward
+
+[[image:qcf.gif]] [[image:hcb.gif]] qcf hcb – 2363214 – d/df/f/df/d/db/b – Quarter circle forward half circle back
+
+[[image:fd.gif]],[[image:fd.gif]],~[[image:df.gif]] f/f~d/f – 66[3] – Running charge
+
+
+== Hit detection notes ==
+
+Although other sources may have different definitions, hit detection for this wiki is defined by the following:
+
+''Overhead'' - An attack that must be blocked high.
+
+''Mid'' - An attack that can be blocked either high or low.
+
+''Low'' - An attack that must be blocked low.
+
+
+== Short/Longcuts & Sequential Buffering ==
+
+[[image:qcb.gif]] [[image:hcf.gif]] = [[image:qcb.gif]] x2, [[image:fd.gif]] 
+
+[[image:qcb.gif]] [[image:hcf.gif]]  = [[image:qcb.gif]], [[image:db.gif]], [[image:fd.gif]] 
+
+[[image:qcb.gif]] [[image:hcf.gif]] = [[image:qcb.gif]], [[image:qcf.gif]]
+
+
+[[image:qcf.gif]] [[image:hcb.gif]] = [[image:qcf.gif]] x2, [[image:bk.gif]]
+
+[[image:qcf.gif]] [[image:hcb.gif]] = [[image:qcf.gif]], [[image:df.gif]], [[image:bk.gif]]
+
+[[image:qcf.gif]] [[image:hcb.gif]] = [[image:qcf.gif]] [[image:qcb.gif]]
+
+
+[[image:dp.gif]] = [[image:fd.gif]], [[image:qcf.gif]] 
+
+[[image:dp.gif]] = [[image:hcb.gif]], [[image:fd.gif]]
+
+[[image:rdp.gif]] = [[image:qcb.gif]] [[image:qcb.gif]] or [[image:bk.gif]], [[image:qcb.gif]]
+
+
+[[image:hcb.gif]] = [[image:fd.gif]], [[image:dn.gif]], [[image:bk.gif]]
+
+[[image:hcf.gif]] = [[image:bk.gif]], [[image:dn.gif]], [[image:fd.gif]]
+
+
+Run into Fireball without getting a DP = [[image:fd.gif]], [[image:fd.gif]], [[image:qcf.gif]][[image:uf.gif]] 
+
+[[image:qcf.gif]] + P/K, [[image:qcf.gif]] [[image:qcf.gif]] + P/K = [[image:qcf.gif]] + P/K, [[image:qcf.gif]] + P/K
+
+[[image:qcb.gif]] + P/K, [[image:qcb.gif]] [[image:qcb.gif]] + P/K = [[image:qcb.gif]] + P/K, [[image:qcf.gif]] + P/K
+
+[[image:qcb.gif]] + P/K,  [[image:qcb.gif]] [[image:hcf.gif]] P+K = [[image:qcb.gif]] + P/K, [[image:qcb.gif]], [[image:fd.gif]] + P/K
+
+[[image:dp.gif]] + P/K, [[image:qcb.gif]] [[image:hcf.gif]] P+K = [[image:dp.gif]] + P/K, [[image:qcb.gif]], [[image:qcb.gif]], [[image:fd.gif]]  P+K
+
+
+== Advanced and Climax Cancel Buffer ==
+
+The buffer window for Advanced and Climax Cancels is extremely generous and can be used to make some cancels much easier to perform, especially for supers with a big wind up before the final blow. As long as you perform the motions for the MAX Super or Climax Super and hold down the buttons for the super before the last hit, the Advanced or Climax Cancel will execute on the first possible frame.
+
+For example, take Vanessa's Crazy Puncher super where she does 3 punches before bobbing and weaving and finishing performing an uppercut. Once she starts her weaving motion, you can input [[image:qcb.gif]] [[image:hcf.gif]] and hold down either AC for MAX Champion Puncher or CD for Infinity Puncher '''while not letting go of the buttons'''. Once she finishes her uppercut, the Advanced or Climax Cancel will launch immediately.
+
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

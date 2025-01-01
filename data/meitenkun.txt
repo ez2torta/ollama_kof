@@ -1,0 +1,1905 @@
+{{CharNavbox_XV}}
+<section begin="image"/>[[File:KOFXV Meitenkun Profile.png|thumb|With pillow in hand, this sleepy young fighter is a master of the hidden martial arts technique, Hyakkyokuminminken, or Eight Extremities Slumber Fist. The family he knows today is his mentor Tung Fu Rue and fellow disciple/best friend Shun'ei. He is considered by many to be Tung's secret weapon, as the extent of his explosive power and technique is a mystery to all.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 44f
+<br>'''Hop:''' 34f
+<br>'''Backdash:''' 23f
+<br>'''Run Speed Ranking:''' 7
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+(*) = EX OK
+
+(!) = MAX OK
+
+[Input] = Hold input briefly.
+
+(Midair Only) = Can only be done in the air.
+
+'''Throws'''
+
+Feint Makura - [[image:bk.gif]] / [[image:fd.gif]] + [[image:c.gif]]
+
+Makura Bomb - [[image:bk.gif]] / [[image:fd.gif]] + [[image:d.gif]]
+
+'''Command Normals'''
+
+Nezou Rangeki - [[image:fd.gif]] / [[image:bk.gif]] (in cancels only) + [[image:b.gif]]
+
+Chinzankou - [[image:bk.gif]]  + [[image:a.gif]]
+
+'''Special Moves'''
+
+Makura Nage - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Sen-Siss Hou - [ [[image:bk.gif]] ][[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+:'''┗''' Follow Up - [[image:a.gif]] / [[image:c.gif]]
+
+Geki Hou - [ [[image:dn.gif]] ][[image:up.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Ressen Kyaku - [[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (*) (Midair Only)
+
+'''Super Special Moves'''
+
+Chou Geki Hou - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (!)
+
+Hakuchuu Musou - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (!)
+
+'''Climax Super Special Moves'''
+
+Seikaku Meitengyobu - [[image:qcb.gif]][[image:db.gif]][[image:qcf.gif]]+[[image:c.gif]]+[[image:d.gif]]
+
+==Quick Combo Reference==
+
+{| border="1" align="center" style="font-size:90%"
+|+ 
+===Quick Combo Reference===
+'''Notation'''
+|-
+| '''0 Meter'''
+|
+Placeholder<br/>
+Placeholder<br/>
+|
+( =  dmg<br/>
+( =  dmg<br/>
+|-
+| '''1 Meter'''
+|
+Placeholder<br/>
+Placeholder<br/>
+|
+( = dmg<br/>
+( = dmg<br/>
+|-
+| '''2 Meters'''
+|
+Placeholder<br/>
+Placeholder<br/>
+|
+( =  dmg <br/>
+( =  dmg<br/>
+|-
+|}
+
+==Gameplay Overview==
+{{StrengthsAndWeaknesses
+| intro = {{SUBPAGENAME}} is a defensive charge character who demands respect thanks to his high level of space control. 
+| pros=
+* '''Great Space Control''': With Makura Nage, his great air-to-air buttons, his long reaching f.C and CD normals, and his standing DP, Meitenkun is very difficult to approach. He can set the pace of the match however he desires, either playing a defensive jump-in punish game, an aggressive whiff punishment game, or a combination of the two. 
+* '''Makura Nage''': One of the best fireballs in the game. You can throw it into the air to anti-air certain approaches or demand space, you can use it as a combo starter with the EX version, and the A version is a pressure reset in the corner. The A version also goes very low to the ground, preventing it from being low-profiled. 
+* '''High Damage with Meter''': Meitenkun's metered combos are great, often dealing close to 450 damage for a single bar. His combos often have great corner carry too, and his corner damage in particular is sky high. 
+* '''Metered Utility''': All of Meitenkun's EX specials are great and offer him some kind of utility, whether that be for extending combos, projectile-invulnerable lariats, or forcing hard knockdown. 
+* '''Strong FK''': Geki Hou has barely any whiff recovery, making it incredibly difficult for most characters to punish. Combined with the EX version leading to incredible damage and oki, this move defines the character entirely and prevents most characters from being able to hop in on him.
+* '''Charge Character''': Meitenkun's charge character nature makes it quite easy to react to whatever option an opponent is doing in neutral.
+| cons=
+* '''Charge Character''': ... which makes some options not available without proper charge. As such, Meitenkun must turtle in order to be able to react.
+* '''Meterless Combos''': Without meter, Meitenkun's combos are mediocre at best. They deal low damage and have poor corner carry.
+* '''Mediocre Pressure''': As a tradeoff for the best zoning and defense in the game, with great neutral as well, Meitenkun's pressure is quite middling. Though his fireball pressure may seem great at first, Meitenkun's stubby lights, high pushback, bad confirms and reliance on charge make his offense mostly based around keeping the opponent blocking, and is quite linear. However, it's still workable and has very little risk.
+* '''Meter Hungry''': Meitenkun's gameplan based on abusing his EX specials means that he requires meter to work and do everything. Without it, he is not very good at all.
+}}
+
+==Normals==
+===Far Standing Normals===
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_fa
+|size = 18%
+|name=far A
+|input=f.A
+|description=A quick swipe. Surprisingly large, this is great for stopping hops.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_fb
+|size = 18%
+|name=far B
+|input=f.B
+|description= *Hits low
+
+Meitenkun slides forward with his foot. Hits low like the animation implies, but cannot be cancelled except into Max mode. Has further range than his 2B. Although it has variable frame advantage at proper spacing, Meitenkun has trouble capitalizing on it.
+
+The start up of this attack is similar to the start up if his 214A, and thus it can serve as a feint for his projectile. Meitenkun also moves forward slightly adding to it's extended reach. This allows you check ground approaches from opponents who are dashing at you, or attempting to escape the corner. 
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_fc
+|size = 18%
+|name=far C
+|input=f.C
+|description=* Special Cancellable
+
+Meitenkun swings his pillow. A cancellable far normal that lets Meitenkun establish fireball blockstrings or whiff punishes at a distance. It hits slightly high letting it pre-emptively stop hops, but it tends to go under hops when they're near their apex.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_fd
+|size = 18%
+|name=far D
+|input=f.D
+|description=* Plus on block
+
+Meitenkun steps forward and does a high kick. This is a unique advancing normal that gives Meitenkun an edge in the ground game. Plus on block and hit ensures Meitenkun gets at least some kind of reward when it lands, although no conversions outside of Quick Max cancels. Can be used to pre-emptively anti air as well. The slight hop Meitenkun does can be cancelled into special moves as early as frame 12, giving Meitenkun a pseudo-step command normal. However, the kick itself cannot be cancelled.
+}}
+
+===Close Standing Normals===
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_cla
+|size = 18%
+|description= * Plus on block
+
+Quick elbow jab. Meitenkun's most plus on block normal, though unfortunately he's out of range for a close heavy on block.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_clb
+|size = 18%
+|description=
+A small kick. Neutral on block and 4 frame start-up, making this his fastest normal.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_clc
+|size = 18%
+|description=
+A close headbutt. The start-up for this is longer than his cl.D, which is usually the reverse for most characters. The longer start-up lets Meitenkun buffer 6B early, giving you more time to charge.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_cld
+|size = 18%
+|description=
+A high angled split kick. This is Meitenkun's fastest heavy normal. The universal pushback on D normals sometimes causes cancels into 6B to whiff on block. Use this for punishes and the occasional anti-air. Can hit quite high giving Meitenkun more control over vertical space when up close or cornered. 
+}}
+
+===Crouch Normals===
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_2a
+|size = 18%
+|name=crouch A
+|input=2A
+|description= A crouching jab. Has longer range than 2B and is chainable into itself making for easy confirms.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_2b
+|size = 18%
+|name=crouch B
+|input=2B
+|description=A crouching kick. Hits low with decent range.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_2c
+|size = 18%
+|name=crouch C
+|input=2C
+|description=* Causes a soft knockdown
+
+Meitenkun swings his pillow at his opponent's feet. This is his sweep, which for most characters is usually assigned to their 2D button. Good range for a sweep, with slightly less range than far C, and cancellable on hit and whiff.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_2d
+|size = 18%
+|name=crouch D
+|input=2D
+|description=An upside down kick. This is a functional anti-air, but it needs to be done fairly early due to it's speed. Use [2]8P to anti-air instead when possible, but this is good for emergencies when you don't have charge.
+}}
+
+===Jump Normals===
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_ha,meitenkun_ja
+|size = 18%
+|name=jump A
+|input=j.A
+|description2=A downwards air jab. Decent jump in that can be used to make it look like you're doing an empty jump.
+}}
+
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_hb,meitenkun_jb
+|size = 18%
+|name=jump B
+|input=j.B
+|hitboxCaptions= Hop Version, Jump Version
+|description2= * Can cross up
+
+A quick air kick. Can cross up and also functions as a fast anti air.
+}}
+
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_hc,meitenkun_jc
+|size = 18%
+|name=jump C
+|input=j.C
+|description2=Meitenkun sticks out his pillow forward. Large horizontal hitbox that can be used to control upper air space.
+}}
+
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_hd,meitenkun_jd
+|size = 18%
+|name=jump D
+|input=j.D
+|description2=Air kick. Your best jump in to start combos, although if you want to hit crouchers with this, you have to do it very late, making it prone to anti-airs more than other characters would be.
+}}
+
+==Rush Moves==
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_rush1,meitenkun_rush2
+|size = 18%
+|name=rush
+|input=cl.AA/cl.AAX
+|description2=* Placeholder
+}}
+
+===Blowback===
+====Blowback====
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_cd
+|size = 18%
+|description= * Can be cancelled into command normals
+Meitenkun sticks out his pillow forward. This is one of the strongest CDs in the game, albeit a bit slow and hard to follow up outside of the corner. Interestingly you can cancel into command normals from this, most notably 4A.
+}}
+
+====ShatterStrike====
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_236cd
+|size = 18%
+|description=
+Much like his CD, one of the best in the game. Universal start-up alleviates the speed issue, so you just the benefits of the giant hitbox.
+}}
+
+====AdvanceStrike====
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_214cd
+|description=
+*Same animation and range as his CD.
+
+* The throw counter is on the feet.
+}}
+
+====jump CD====
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_hcd,meitenkun_jcd
+|size = 18%
+|name=jump CD
+|input=j.CD
+|description2= * Can cross up
+
+Meitenkun curls into a ball to strike the opponent. Despite the animation, the hitbox on this is huge, and is Meitenkun's best vertically aimed jump in.
+}}
+
+==Throws==
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_cthrow
+|size = 18%
+|name=Feint Makura 
+|input=(close) 4/6C
+|description=Sends them fullscreen to re-establish some zoning. If you throw them in the corner you can get a meaty jump-in or projectile.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_dthrow
+|size = 18%
+|name=Makura Bomb 
+|input=(close) 4/6D
+|description=Meitenkun gets very little advantage after this but is left nearly point blank, so your best offense is a grounded meaty.
+}}
+
+==Command Moves==
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_6b
+|size = 18%
+|name=Nezou Rangeki
+|input=4/6B
+|hitboxCaptions= Raw Version, Cancel Version
+|description=* Values in [] indicate cancel data
+* Standing overhead
+* Hits OTGs, you dont lose any oki after the OTG.
+
+An upside down kick. This hits overhead when done raw, giving Meitenkun an extra mix-up option. You can Quick Max this for extra damage with meter. When cancelled into you can special cancel. It even combos from lights, making his light confirms relatively strong. Although by itself you can only input this as 6B, in cancels, 4B is also an acceptable input. This gives you more time to charge for [4]6P. While the move is negative on block, the pushback is far enough to avoid most punishes.
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_4a
+|size = 18%
+|name=Chinzankou
+|input=4A
+|description=* Causes a juggle state
+
+Meitenkun tumbles forward. This is a unique command normal that recovers quickly on whiff and enters a specific animation on hit or block. If you space it out to whiff in front of the opponent, you can potentially throw the opponent before they can react, although this isn't foolproof. It's unsafe if it's blocked, but it can set up some stronger midscreen Quick Max combos on hit.  You can cancel CD into this to make some midscreen conversions easier, but if done on block it will usually whiff and leave Meitenkun at -10.
+}}
+
+==Special Moves==
+
+===Makura Nage===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_214a,meitenkun_214c,meitenkun_214ac
+|size = 18%
+|name=Makura Nage
+|input=214A/C/AC
+|hitboxCaptions= A Version, , C Version, , EX Version
+|description3=* A and EX version travels forward, C version travels diagonally upwards
+*C version causes air reset on air hit
+*EX version launches
+
+Meitenkun tosses out his pillow as a projectile. The A version goes in a straight line, traveling low enough to be unable to be low profiled under by most moves. This sets up Meitenkun's zoning game. He can use this to keep opponents out while anti airing with [2]8P or tagging rolls with [4]6P, or follow behind it to set up an offense.  The C version travels diagonally upwards, capable of catching jumps pre-emptively. On air hit, it causes an air reset making it unable to be comboed after. The EX version travels horizontally at a much faster speed than the A version, and causes a juggle state. This can be used as a combo starter or to go through other regular projectiles.
+
+When used in blockstrings, the A version sets up lots of plus frames to work with and reset your pressure. However, due to the slow speed of the A version, there will always be a significant gap between the normal and the projectile hitting, meaning your opponent can potentially hop over the projectile, although they won't have enough time to get a jump in deep enough to get a combo usually. They can also reversal through the projectile if they have that as an option.
+
+}}
+
+===Sen-Siss Hou===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_46p_1,meitenkun_46p_2,meitenkun_46p_3,meitenkun_46ac
+|size = 18%
+|name=Sen-Siss Hou
+|input=[4]6A/C/AC
+|hitboxCaptions= A Version /  C Version Level 1, C Version Level 2, C Version Level 3, EX Version
+|description4=* Combos from lights
+*Duration of [4] charge upgrades the special to travel further, faster, and do more damage
+* EX version goes through projectiles
+
+Meitenkun charges forward with a punch. Also referred to colloquially as "lunge punch". This is Meitenkun's primary combo starter and ender. It has some use in neutral as a high risk option to cover a large distance while being safe at certain spacings. This special move as a special trait; the longer you hold the 4 input, the stronger the special becomes, with 3 separate levels of strength. Each level causes the special to do more damage and travel further. The charge times are as follows:
+
+30f-80f = Level 1
+
+81f-119f = Level 2
+
+120f+ = Level 3
+
+The A version is always Level 1, so if you want to just pressure, use that version.
+
+The EX version is only ever one level, moving the same distance as the level 3 version. This has projectile invulnerability partway through the active frames. It also launches, leading to stronger combos.
+All versions including EX can advance over certain grounded projectiles such as Power Wave thanks to the small hop as part of the lunge. This hop does not translate to giving the move a 'low crush' status, it'll still trade with big lows like Khronen 2C or Yashiro 2D. 
+
+Many characters cannot deal with this nearly as well as others in neutral. Namely, characters without fast reversals or command grabs. Learn which characters can blow through this move on reaction and ones that can't, and play the matchup accordingly.
+
+}}
+
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_46p_1_p,meitenkun_46p_2_p,meitenkun_46p_3_p,meitenkun_46ac_p
+|size = 18%
+|name=Sen-Siss Hou (Follow up)
+|input=[4]6AC~A/C
+|hitboxCaptions= Normal Version, EX Version
+|description4=* Can be delayed
+* Causes a hard knockdown from level 2 and 3 [4]6P.
+
+A follow-up to [4]6P. This follow-up is even more unsafe than [4]6P by itself, so ideally you should only be using this on hit. However, you can delay the follow-up on a blocked [4]6P to frame trap someone trying to punish the initial punch. If you condition your opponent to look for the follow-up before punishing, you could potentially get away unpunished if you don't do the follow-up at all.
+
+The level 1 version causes a soft knockdown, but the level 2 and 3 versions, as well as the EX version, causes a hard knockdown.
+}}
+
+===Geki Hou===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_28p_1,meitenkun_28p_2,meitenkun_28p_3,meitenkun_28ac
+|size = 18%
+|name=Geki Hou
+|input=[2]8A/C/AC
+|hitboxCaptions= A Version /  C Version Level 1, C Version Level 2, C Version Level 3,, EX Version
+|description4=* Reversal and anti-air option
+* Much harder to punish than basically every other reversal in the game.
+Meitenkun causes an explosion around him. This is his primary anti-air, as all versions have upper body invincibility. This has the same charge level system as [4]6P. The level 1 version has full invincibility frames on start-up, but it runs out before the active frames start, making it an unreliable reversal against lows and some mids. Only the level 2, level 3, and EX versions have full body invincibility up till the active frames, but most lows will get whiff punished by level 1 anyway. The hitbox covers behind Meitenkun as well as in front, letting it beat cross-ups. If it does anti-air behind Meitenkun, you can land a small combo after. The A version is always Level 1, though unlike the lunge punch you don't really want to use the lower levels if you can help it. 
+
+The EX version's activity, hitbox, and juggle properties make it a nightmare to deal with. Use this to absolutely blow up any aerial approach attempt.
+}}
+
+===Ressen Kyaku===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_j214b,meitenkun_j214d,meitenkun_j214bd
+|size = 18%
+|name=Ressen Kyaku
+|input=j.214B/D/BD
+|hitboxCaptions= Normal Version, EX Version
+|description3=* Values in [] indicate when move is performed after a backdash
+* EX version causes a hard knockdown
+
+A rapid series of air kicks. The B version keeps your air momentum, the D and EX version drifts forward. This can be cancelled from instant hop j.A or j.B to get more advantage from it. You can also whiff the B version in neutral to build meter. EX autocorrects if you're over the opponent, allowing for some tricky crossup scenarios.
+
+You can cancel a backdash into this, though it always moves forward like the D version when done so, even when with the B version. Since backdashes are invincible to lows on frame 1, this essentially becomes a safe low reversal, albeit a slow one.
+
+}}
+
+==Super Special Moves==
+
+===Chou Geki Hou===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_236236p,meitenkun_236236ac
+|size = 18%
+|name=Chou Geki Hou
+|input=236236A/C/AC
+|hitboxCaptions= Normal Version, Max Version
+|description2=* Invincible start-up
+
+Meitenkun explodes in light. This is your best super as a reversal and anti-air, covering a large amount of space and having more than enough invincibility. This reliably super cancels from [2]8P to tack on some extra damage. Meitenkun dozes off after this, but the animation is interruptible with any action. Meitenkun builds meter while sleeping, but this is impractical in an actual match. (recuperation rate is 1 per frame sleeping)
+
+}}
+
+===Hakuchuu Musou===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_236236k,meitenkun_236236bd
+|size = 18%
+|name=Hakuchuu Musou
+|input=236236B/D/BD
+|hitboxCaptions= Normal Version, , , ,Max Version
+|description2=
+
+Meitenkun does a series of melee strikes. This is Meitenkun's ideal combo super, as it can Advanced and Climax cancel into his other supers. The level 2 version is invincible, but has trouble against airborne opponents so it's not recommended to use defensively over 236236AC.
+
+}}
+
+==Climax Super Special Moves==
+
+===Seikaku Meitengyobu===
+{{FrameDataCargo-KOFXV
+|moveId=meitenkun_2141236cd
+|size = 18%
+|input=2141236CD
+|description=
+
+Travels about 75% of the screen with invincibility about halfway through the animation. Meitenkun falls asleep after this similar to 236236P. (recuperation rate is 1 per frame sleeping)
+}}
+
+==Misc==
+
+===2.11 Patch Notes===
+''Mostly frame data changes and a few other noticeable changes.''
+
+- All versions of Follow-Up to C/EX Sen-Siss Hou: Active frames increased from 4 to 8. Recovery frames decreased from 29 to 25.
+
+- Hp Geki Hou Lv2: Charge time decreased from 80 to 60 frames. 
+
+- Hp Geki Hou Lv3: Charge time decreased from 120 to 90 frames.
+
+- Normal and Max Chou Geki Hou: Can cancel into climax on hit.
+
+
+===Quick Reference for Invincible Moves===
+
+- Geki Hou (Charge 2,8A/C/AC):
+* Level 1: Full Strike: 1 to 4 (4 Frames)/ Upper Body: 5 to 14 (10 Frames)
+* Level 2: Full Strike: 1 to 6 (6 Frames) / Upper Body: 7 to 14 (8 Frames)
+* Level 3: Full Body: 1 to 4 (4 Frames)/ Full Strike: 5 to 9 (5 Frames)/ Upper Body: 10 to 14 (5 Frames)
+* EX: Full Body: 1 to 6 (6 Frames)/ Full Strike: 7 to 9 (3 Frames)/ Upper Body: 10 to 14 (5 Frames)
+
+
+- Chou Geki Hou (236236A/C): Full Body: 1 to 12 (12 Frames)
+
+- Max Chou Geki Hou (236236AC): Full Body: 1 to 13 (13 Frames)
+
+
+- Hakuchuu Musou (236236B/D): Full Body: 1 to 9 (9 Frames)
+
+- Max Hakuchuu Musou (236236BD): Full Body: 1 to 11 (11 Frames)
+
+
+- Seikaku Meitengyobu (2141236CD): Full Body: 1 to 17 (17 Frames)
+
+{{Colors-KOFXV}}
+
+==Videos==
+{{#ev:youtube|i-cAk1hPt9Q|||'''Meitenkun Reveal Trailer'''|frame}}
+
+{{CharNavbox_XV}}
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]
+[[Category:Meitenkun]]
+
+
+{{CharNavbox_XV}}
+==General Gameplan==
+
+==Neutral==
+
+==Pressure==
+
+==Mixups==
+
+==Defense==
+
+==Safejumps==
+
+==Countering Meitekun==
+
+==External Resources==
+
+
+{{Navbox XV}}
+
+[[Category:Meitenkun]]
+[[Category:The King of Fighters XV]]
+
+{{CharNavbox_XV}}
+===Close Standing Normals===
+====close A====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_cla
+| name        = close A
+| input       = cl.A
+| images      = XV_meitenkun_cla_ima.png
+| hitboxes    = XV_meitenkun_cla.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 3
+| recovery    = 8
+| hitadv      = +4
+| blockadv    = +2
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====close B====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_clb
+| name        = close B
+| input       = cl.B
+| images      = XV_meitenkun_clb_ima.png
+| hitboxes    = XV_meitenkun_clb.png
+| damage      = 30
+| guard       = Mid
+| cancel      = command
+| startup     = 4
+| active      = 4
+| recovery    = 9
+| hitadv      = +2
+| blockadv    = 0
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====close C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_clc
+| name        = close C
+| input       = cl.C
+| images      = XV_meitenkun_clc_ima.png
+| hitboxes    = XV_meitenkun_clc.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 8
+| active      = 4
+| recovery    = 19
+| hitadv      = -2
+| blockadv    = -4
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====close D====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_cld
+| name        = close D
+| input       = cl.D
+| images      = XV_meitenkun_cld_ima.png
+| hitboxes    = XV_meitenkun_cld.png
+| damage      = 80
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 5
+| recovery    = 22
+| hitadv      = -6
+| blockadv    = -8
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Far Standing Normals===
+====far A====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_fa
+| name        = far A
+| input       = f.A
+| images      = XV_meitenkun_fa_ima.png
+| hitboxes    = XV_meitenkun_fa.png
+| damage      = 25
+| guard       = Mid
+| cancel      = super
+| startup     = 5
+| active      = 3
+| recovery    = 11
+| hitadv      = +1
+| blockadv    = -1
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====far B====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_fb
+| name        = far B
+| input       = f.B
+| images      = XV_meitenkun_fb_ima.png
+| hitboxes    = XV_meitenkun_fb.png
+| damage      = 30
+| guard       = Low
+| cancel      = super
+| startup     = 6
+| active      = 8
+| recovery    = 6
+| hitadv      = +1~+4
+| blockadv    = -1~+2
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====far C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_fc
+| name        = far C
+| input       = f.C
+| images      = XV_meitenkun_fc_ima.png
+| hitboxes    = XV_meitenkun_fc.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 13
+| active      = 3
+| recovery    = 22
+| hitadv      = -4
+| blockadv    = -6
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====far D====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_fd
+| name        = far D
+| input       = f.D
+| images      = XV_meitenkun_fd_ima.png
+| hitboxes    = XV_meitenkun_fd.png
+| damage      = 80
+| guard       = Mid
+| cancel      = super
+| startup     = 15
+| active      = 3
+| recovery    = 15
+| hitadv      = +3
+| blockadv    = +1
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Crouch Normals===
+====crouch A====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_2a
+| name        = crouch A
+| input       = 2A
+| images      = XV_meitenkun_2a_ima.png
+| hitboxes    = XV_meitenkun_2a.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 6
+| active      = 3
+| recovery    = 8
+| hitadv      = +4
+| blockadv    = +2
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====crouch B====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_2b
+| name        = crouch B
+| input       = 2B
+| images      = XV_meitenkun_2b_ima.png
+| hitboxes    = XV_meitenkun_2b.png
+| damage      = 15
+| guard       = Low
+| cancel      = command
+| startup     = 5
+| active      = 3
+| recovery    = 10
+| hitadv      = +2
+| blockadv    = 0
+| invul       = 
+| stun        = 15
+| guardDamage = 30
+}}
+
+====crouch C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_2c
+| name        = crouch C
+| input       = 2C
+| images      = XV_meitenkun_2c_ima.png
+| hitboxes    = XV_meitenkun_2c.png
+| damage      = 80
+| guard       = Low
+| cancel      = command
+| startup     = 7
+| active      = 4
+| recovery    = 21
+| hitadv      = KND (+24)
+| blockadv    = -6
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====crouch D====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_2d
+| name        = crouch D
+| input       = 2D
+| images      = XV_meitenkun_2d_ima.png
+| hitboxes    = XV_meitenkun_2d.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 8
+| active      = 4
+| recovery    = 17
+| hitadv      = 0
+| blockadv    = -2
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===jump normals===
+====hop A====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_ha
+| name        = hop A
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.A
+| images      = XV_meitenkun_ja_ima.png
+| hitboxes    = XV_meitenkun_ja.png
+| damage      = 40
+| guard       = High
+| cancel      = special
+| startup     = 6
+| active      = 6
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 50
+}}
+
+====jump A====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_ja
+| name        = jump A
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.A
+| images      = XV_meitenkun_ja_ima.png
+| hitboxes    = XV_meitenkun_ja.png
+| damage      = 40
+| guard       = High
+| cancel      = special
+| startup     = 6
+| active      = 8
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop B====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_hb
+| name        = hop B
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.B
+| images      = XV_meitenkun_jb_ima.png
+| hitboxes    = XV_meitenkun_hb.png
+| damage      = 40
+| guard       = High
+| cancel      = special
+| startup     = 6
+| active      = 6
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 50
+}}
+
+====jump B====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_jb
+| name        = jump B
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.B
+| images      = XV_meitenkun_jb_ima.png
+| hitboxes    = XV_meitenkun_jb.png
+| damage      = 40
+| guard       = High
+| cancel      = special
+| startup     = 6
+| active      = 8
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_hc
+| name        = hop C
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.C
+| images      = XV_meitenkun_jc_ima.png
+| hitboxes    = XV_meitenkun_jc.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 10
+| active      = 5
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_jc
+| name        = jump C
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.C
+| images      = XV_meitenkun_jc_ima.png
+| hitboxes    = XV_meitenkun_jc.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 10
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====hop D====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_hd
+| name        = hop D
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.D
+| images      = XV_meitenkun_jd_ima.png
+| hitboxes    = XV_meitenkun_jd.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 9
+| active      = 6
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump D====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_jd
+| name        = jump D
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.D
+| images      = XV_meitenkun_jd_ima.png
+| hitboxes    = XV_meitenkun_jd.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 9
+| active      = 8
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===rush moves===
+====rush 1====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_rush1
+| name        = rush 1
+| header      = yes
+| version     = cl.AA
+| orderId     = 1
+| input       = cl.AA
+| images      = XV_meitenkun_rush1_ima.png
+| hitboxes    = XV_meitenkun_rush1.png
+| damage      = 48 (25+25)
+| guard       = Mid
+| cancel      = 
+| startup     = 6
+| active      = 
+| recovery    = 
+| hitadv      = -4
+| blockadv    = -6
+| invul       = 
+| stun        = 30
+| guardDamage = 120 (60+60)
+}}
+
+====rush 2====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_rush2
+| name        = rush 2
+| header      = no
+| version     = cl.AAX
+| orderId     = 2
+| input       = cl.AAX
+| images      = XV_meitenkun_rush2_ima.png
+| hitboxes    = XV_meitenkun_rush2.png
+| damage      = 70 (25+25+25)
+| guard       = Mid
+| cancel      = 
+| startup     = 6
+| active      = 
+| recovery    = 
+| hitadv      = -6
+| blockadv    = -8
+| invul       = 
+| stun        = 30
+| guardDamage = 180 (60+60+60)
+}}
+
+===Command normals===
+====Nezou Rangeki====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_6b
+| name        = Nezou Rangeki
+| input       = 6B [4/6B]
+| images      = XV_meitenkun_6b_ima.png
+| hitboxes    = XV_meitenkun_6b.png, XV_meitenkun_6bC.png
+| damage      = 70 [60]
+| guard       = High [Mid]
+| cancel      = super [special]
+| startup     = 22 [13]
+| active      = 3
+| recovery    = 21
+| hitadv      = -3 / OTG (Hard Knockdown [+40])
+| blockadv    = -5
+| invul       = 
+| stun        = 60
+| guardDamage = 80 [60]
+}}
+
+====Chinzankou====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_4a
+| name        = Chinzankou
+| input       = 4A
+| images      = XV_meitenkun_4a_ima.png
+| hitboxes    = XV_meitenkun_4a.png
+| damage      = 60
+| guard       = Mid
+| cancel      = super
+| startup     = 14
+| active      = 6
+| recovery    = 12
+| hitadv      = KND (+20)
+| blockadv    = -15
+| invul       = 
+| stun        = 50
+| guardDamage = 60
+}}
+
+===Blowback===
+====Blowback====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_cd
+| name        = Blowback
+| input       = CD
+| images      = XV_meitenkun_cd_ima.png
+| hitboxes    = XV_meitenkun_cd.png
+| damage      = 75
+| guard       = Mid
+| cancel      = command
+| startup     = 17
+| active      = 4
+| recovery    = 25
+| hitadv      = Splat (+71~+87)
+| blockadv    = -6
+| invul       = 
+| stun        = 100
+| guardDamage = 160
+}}
+
+====Shatterstrike====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_236cd
+| name        = Shatterstrike
+| input       = 236CD
+| images      = XV_meitenkun_236cd_ima.png
+| hitboxes    = XV_meitenkun_236cd.png, XV_meitenkun_236cd2.png
+| damage      = 75
+| guard       = Mid
+| cancel      = 
+| startup     = 15
+| active      = 6
+| recovery    = 27
+| hitadv      = Crumple (+93)
+| blockadv    = -10
+| invul       = Full Body Armor: 4 to 14 (11 frames)
+| stun        = 0
+| guardDamage = 200
+}}
+
+====Advancestrike====
+{{MoveData-KOFXV | character = Meitenkun  | moveId = meitenkun_214cd
+| name        = Advancestrike
+| input       = 214CD
+| images      = XV_meitenkun_214cd_ima.png
+| hitboxes    = XV_meitenkun_214cd_hb1.png, XV_meitenkun_214cd_hb2.png
+| damage      = 100
+| guard       = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel      = 
+| startup	  = 28
+| active	  = 6
+| recovery	  = 37 (on whiff) / Recovers faster on hit and block.
+| hitadv	  =  HKD (68 - Non Throw Counter Hit) / Crumple (103 - Throw Counter Hit)
+| blockadv	  = 3
+| invul		  = Full Body Armor Frames: 7 to 33 (27 frames) / Throw Counter Frames: 4 to 27 (24 Frames)
+| stun        = 0
+| guardDamage = 150
+}}
+
+====hop CD====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_hcd
+| name        = hop CD
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.CD
+| images      = XV_meitenkun_jcd_ima.png
+| hitboxes    = XV_meitenkun_jcd.png
+| damage      = 80
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 5
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 80
+| guardDamage = 120
+}}
+
+====jump CD====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_jcd
+| name        = jump CD
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.CD
+| images      = XV_meitenkun_jcd_ima.png
+| hitboxes    = XV_meitenkun_jcd.png
+| damage      = 90
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 80
+| guardDamage = 140
+}}
+
+===Throws===
+====Feint Makura====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_cthrow
+| name        = Feint Makura 
+| input       = (close) 4/6C
+| images      = XV_meitenkun_cthrow_ima.png
+| hitboxes    = XV_meitenkun_cthrow.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = Hard Knockdown
+| blockadv    = 
+| invul       = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+====Makura Bomb====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_dthrow
+| name        = Makura Bomb 
+| input       = (close) 4/6D
+| images      = XV_meitenkun_dthrow_ima.png
+| hitboxes    = XV_meitenkun_dthrow.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = Hard Knockdown
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+==Specials==
+===Makura Nage===
+====214A====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_214a
+| name        = Makura Nage 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 214A
+| images      = XV_meitenkun_214a_ima.png
+| hitboxes    = XV_meitenkun_214a.png, XV_meitenkun_214a2.png
+| damage      = 65
+| guard       = Mid
+| cancel      = super
+| startup     = 18
+| active      = Full Screen Projectile
+| recovery    = 27
+| hitadv      = -1
+| blockadv    = -1
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====214C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_214c
+| name        = Makura Nage 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 214C
+| images      = XV_meitenkun_214c_ima.png
+| hitboxes    = XV_meitenkun_214c.png, XV_meitenkun_214c2.png
+| damage      = 65
+| guard       = Mid
+| cancel      = super
+| startup     = 19
+| active      = Diagonal Projectile
+| recovery    = 27
+| hitadv      = -1
+| blockadv    = -1
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====214AC====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_214ac
+| name        = Makura Nage 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 214AC
+| images      = XV_meitenkun_214a_ima.png
+| hitboxes    = XV_meitenkun_214ac.png, XV_meitenkun_214ac2.png
+| damage      = 90
+| guard       = Mid
+| cancel      = 
+| startup     = 15
+| active      = Full Screen Projectile
+| recovery    = 26
+| hitadv      = Juggle (+39)
+| blockadv    = 0
+| invul       = 
+| stun        = 0
+| guardDamage = 80
+}}
+
+===Sen-Siss Hou===
+====[4]6A/C lvl 1====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46p_1
+| name        = Sen-Siss Hou 
+| header      = yes
+| version     = Level 1
+| orderId     = 1
+| input       = [4]6A/C lvl 1
+| images      = XV_meitenkun_46a_ima.png
+| hitboxes    = XV_meitenkun_46p_1.png
+| damage      = 70
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 8
+| recovery    = 18
+| hitadv      = Soft Knockdown (+28)
+| blockadv    = -7
+| invul       = 
+| stun        = 60
+| guardDamage = 80
+}}
+
+====[4]6A/C lvl 2====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46p_2
+| name        = Sen-Siss Hou 
+| header      = no
+| version     = Level 2
+| orderId     = 2
+| input       = [4]6A/C lvl 2
+| images      = XV_meitenkun_46a_ima.png
+| hitboxes    = XV_meitenkun_46p_2.png
+| damage      = 85
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 9
+| recovery    = 17
+| hitadv      = Soft Knockdown (+28)
+| blockadv    = -7
+| invul       = 
+| stun        = 70
+| guardDamage = 90
+}}
+
+====[4]6A/C lvl 3====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46p_3
+| name        = Sen-Siss Hou 
+| header      = no
+| version     = Level 3
+| orderId     = 3
+| input       = [4]6A/C lvl 3
+| images      = XV_meitenkun_46c_ima.png
+| hitboxes    = XV_meitenkun_46p_3.png
+| damage      = 100
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 9
+| recovery    = 17
+| hitadv      = Soft Knockdown (+28)
+| blockadv    = -7
+| invul       = 
+| stun        = 80
+| guardDamage = 100
+}}
+
+====[4]6AC lvl 1====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46ac
+| name        = Sen-Siss Hou 
+| header      = no
+| version     = EX level 1
+| orderId     = 4
+| input       = [4]6AC lvl 1
+| images      = XV_meitenkun_46c_ima.png
+| hitboxes    = XV_meitenkun_46ac.png
+| damage      = 100 (30+30+40)
+| guard       = Mid
+| cancel      = 
+| startup     = 14
+| active      = 9
+| recovery    = 21 
+| hitadv      = Juggle (+35)
+| blockadv    = -7
+| invul       = 
+| stun        = 0
+| guardDamage = 100 (30+30+40)
+}}
+
+===Sen-Siss Hou (Follow up)===
+====[4]6A/C~A/C lvl 1====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46p_1_p
+| name        = Sen-Siss Hou (Follow up)
+| header      = yes
+| version     = Level 1
+| orderId     = 1
+| input       = [4]6A/C~A/C lvl 1
+| images      = XV_meitenkun_46p_1_p_ima.png
+| hitboxes    = XV_meitenkun_46p_1_p.png
+| damage      = 20
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 8
+| recovery    = 25
+| hitadv      = Soft Knockdown (+25)
+| blockadv    = -14
+| invul       = 
+| stun        = 20
+| guardDamage = 20
+}}
+
+====[4]6A/C~A/C lvl 2====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46p_2_p
+| name        = Sen-Siss Hou (Follow up)
+| header      = no
+| version     = Level 2
+| orderId     = 2
+| input       = [4]6A/C~A/C lvl 2
+| images      = XV_meitenkun_46p_1_p_ima.png
+| hitboxes    = XV_meitenkun_46p_1_p.png
+| damage      = 40
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 8
+| recovery    = 25
+| hitadv      = Hard Knockdown (+24)
+| blockadv    = -14
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====[4]6A/C~A/C lvl 3====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46p_3_p
+| name        = Sen-Siss Hou (Follow up)
+| header      = no
+| version     = Level 3
+| orderId     = 3
+| input       = [4]6A/C~A/C lvl 3
+| images      = XV_meitenkun_46p_1_p_ima.png
+| hitboxes    = XV_meitenkun_46p_1_p.png
+| damage      = 40
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 8
+| recovery    = 25
+| hitadv      = Hard Knockdown (+66)
+| blockadv    = -14
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====[4]6AC lvl 1====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_46ac_p
+| name        = Sen-Siss Hou (Follow up)
+| header      = no
+| version     = EX level 1
+| orderId     = 4
+| input       = [4]6AC lvl 1
+| images      = XV_meitenkun_46p_1_p_ima.png
+| hitboxes    = XV_meitenkun_46ac_p.png
+| damage      = 40
+| guard       = Mid
+| cancel      = 
+| startup     = 6
+| active      = 8
+| recovery    = 25
+| hitadv      = Hard Knockdown (+68)
+| blockadv    = -14
+| invul       = 
+| stun        = 0
+| guardDamage = 40
+}}
+
+===Geki Hou===
+====[2]8A/C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_28p_1
+| name        = Geki Hou
+| header      = yes
+| version     = Level 1
+| orderId     = 1
+| input       = [2]8A/C
+| images      = XV_meitenkun_28a_ima.png
+| hitboxes    = XV_meitenkun_28c_1.png
+| damage      = 80
+| guard       = Mid
+| cancel      = super
+| startup     = 7
+| active      = 8
+| recovery    = 27
+| hitadv      = Juggle (+32)
+| blockadv    = -16
+| invul       = Full Strike: 1 to 4 (4 Frames), Upper Body: 5 to 14 (10 Frames)
+| stun        = 80
+| guardDamage = 100
+}}
+
+====[2]8A/C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_28p_2
+| name        = Geki Hou
+| header      = no
+| version     = Level 2
+| orderId     = 2
+| input       = [2]8A/C
+| images      = XV_meitenkun_28a_ima.png
+| hitboxes    = XV_meitenkun_28c_2.png
+| damage      = 100
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 9
+| recovery    = 25
+| hitadv      = Juggle (+33)
+| blockadv    = -15
+| invul       = Full Strike: 1 to 6 (6 Frames), Upper Body: 7 to 14 (8 Frames)
+| stun        = 100
+| guardDamage = 110
+}}
+
+====[2]8A/C====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_28p_3
+| name        = Geki Hou
+| header      = no
+| version     = Level 3
+| orderId     = 3
+| input       = [2]8A/C
+| images      = XV_meitenkun_28ac_ima.png
+| hitboxes    = XV_meitenkun_28c_3a.png, XV_meitenkun_28c_3b.png
+| damage      = 120
+| guard       = Mid
+| cancel      = super
+| startup     = 5
+| active      = 10
+| recovery    = 23
+| hitadv      = Juggle (+41)
+| blockadv    = -14
+| invul       = Full Body: 1 to 4 (4 Frames), Full Strike: 5 to 9 (5 Frames), Upper Body: 10 to 14 (5 Frames)
+| stun        = 120
+| guardDamage = 120
+}}
+
+====[2]8AC====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_28AC
+| name        = Geki Hou
+| header      = no
+| version     = AC
+| orderId     = 4
+| input       = [2]8AC
+| images      = XV_meitenkun_28ac_ima.png
+| hitboxes    = XV_meitenkun_28ac_a.png, XV_meitenkun_28ac_b.png
+| damage      = 136 (60+80)
+| guard       = Mid
+| cancel      = 
+| startup     = 7
+| active      = 13
+| recovery    = 30
+| hitadv      = Juggle (+48)
+| blockadv    = -21
+| invul       = Full Body: 1 to 6 (6 Frames), Full Strike: 7 to 9 (3 Frames), Upper Body: 10 to 14 (5 Frames)
+| stun        = 0
+| guardDamage = 160 (80+80)
+}}
+
+===Ressen Kyaku===
+====j.214B====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_j214b
+| name        = Ressen Kyaku
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = j.214B
+| images      = XV_meitenkun_j214b_ima.png
+| hitboxes    = XV_meitenkun_j214b.png
+| damage      = 91~111 (25*4~5)
+| guard       = Mid
+| cancel      = 
+| startup     = 7 [14]
+| active      = (2 (2) 2) until on ground
+| recovery    = 11 on ground
+| hitadv      = -1 (backdash)
+| blockadv    = -1 (backdash)
+| invul       = 
+| stun        = 10 per hit
+| guardDamage = 10 per hit
+}}
+
+====j.214D====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_j214d
+| name        = Ressen Kyaku
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = j.214D
+| images      = XV_meitenkun_j214b_ima.png
+| hitboxes    = XV_meitenkun_j214b.png
+| damage      = 91~146 (25*4~7)
+| guard       = Mid
+| cancel      = 
+| startup     = 13 [14]
+| active      = (2 (2) 2) until on ground
+| recovery    = 11 on ground
+| hitadv      = -1 (backdash)
+| blockadv    = -1 (backdash)
+| invul       = 
+| stun        = 10 per hit
+| guardDamage = 10 per hit
+}}
+
+====j.214BD====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_j214bd
+| name        = Ressen Kyaku
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = j.214BD
+| images      = XV_meitenkun_j214b_ima.png
+| hitboxes    = XV_meitenkun_j214bd.png
+| damage      = 114~180 (40*3~6)
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = (2 (2) 2) until on ground
+| recovery    = 14 on ground
+| hitadv      = Hard Knockdown (+82)
+| blockadv    = -2
+| invul       = 
+| stun        = 0
+| guardDamage = 10 per hit
+}}
+
+==Supers==
+===Chou Geki Hou===
+====236236P====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_236236p
+| name        = Chou Geki Hou
+| header      = yes
+| version     = A or C
+| orderId     = 1
+| input       = 236236P
+| images      = XV_meitenkun_236236p_ima.png
+| hitboxes    = XV_meitenkun_236236p.png
+| damage      = 180
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 9
+| active      = 13
+| recovery    = 93
+| hitadv      = Hard Knockdown (+26)
+| blockadv    = -87
+| invul       = Full Body: 1 to 12 (12 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236AC====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_236236ac
+| name        = Chou Geki Hou
+| header      = no
+| version     = AC
+| orderId     = 2
+| input       = 236236AC
+| images      = XV_meitenkun_236236p_ima.png
+| hitboxes    = XV_meitenkun_236236ac.png
+| damage      = 320 (160*2)
+| guard       = Mid
+| cancel      = 
+| startup     = 8
+| active      = 22
+| recovery    = 75 (20 on ground)
+| hitadv      = Hard Knockdown (+35)
+| blockadv    = -77
+| invul       = Full Body: 1 to 13 (13 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+===Hakuchuu Musou===
+====236236K====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_236236k
+| name        = Hakuchuu Musou
+| header      = yes
+| version     = B or D
+| orderId     = 1
+| input       = 236236K
+| images      = XV_meitenkun_236236k_ima.png
+| hitboxes    = XV_meitenkun_236236k.png, XV_meitenkun_236236k2.png, XV_meitenkun_236236k3.png, XV_meitenkun_236236k4.png
+| damage      = 190 (40*3+70)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 10
+| active      = 2 (15) 2 (10) 2 (15) 2
+| recovery    = 40
+| hitadv      = Hard Knockdown (+53)
+| blockadv    = -25
+| invul       = Full Body: 1 to 9 (9 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236BD====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_236236bd
+| name        = Hakuchuu Musou
+| header      = no
+| version     = BD
+| orderId     = 2
+| input       = 236236BD
+| images      = XV_meitenkun_236236bd_ima.png
+| hitboxes    = XV_meitenkun_236236bd.png, XV_meitenkun_236236bd2.png, XV_meitenkun_236236bd3.png, XV_meitenkun_236236bd4.png, XV_meitenkun_236236bd5.png, XV_meitenkun_236236bd6.png, XV_meitenkun_236236bd7.png, XV_meitenkun_236236bd8.png
+| damage      = 345 (45+30*6+120)
+| guard       = Mid
+| cancel      = climax
+| startup     = 10
+| active      = 4 (12) 4 (14) 4 (9) 4 (15) 4 (15) 4 (18) 6 (17) 4
+| recovery    = 80
+| hitadv      = Hard Knockdown (+11)
+| blockadv    = -23
+| invul       = Full Body: 1 to 11 (11 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+===Climax super===
+====2141236CD====
+{{MoveData-KOFXV | character = Meitenkun | moveId = meitenkun_2141236cd
+| name        = Seikaku Meitengyobu
+| input       = 2141236CD
+| images      = XV_meitenkun_2141236cd_ima.png
+| hitboxes    = XV_meitenkun_2141236cd.png
+| damage      = 444 (50+28*9+142) Min:260
+| guard       = Mid
+| cancel      = 
+| startup     = 11
+| active      = 12
+| recovery    = 117
+| hitadv      = Hard Knockdown (+64)
+| blockadv    = -110
+| invul       = Full Body: 1 to 17 (17 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+[[Category:The King of Fighters XV]][[Category:{{#titleparts:{{BASEPAGENAME}}|2|2}}]]
+
+{{#lst:{{BASEPAGENAME}}/Combos|Links}}
+{{ComboLegend-KOFXV}}
+{{CharNavbox_XV}}
+
+==Combo Notation Guide==
+{|class="wikitable"
+! Notation !! Meaning
+|-
+| '''X Starter''' || Use the corresponding starter(s) from the 'Starters' section of this page.
+|-
+| '''>''' || Cancel the previous move into the following move.<br />If preceded by a move in brackets, must cancel the start of the preceding move (AKA a 'Kara Cancel').
+|-
+| ''',''' || Link the previous move into the following move.
+|-
+| '''(X)''' || A move in brackets must whiff (not hit).<br />Can also mean the move must be Kara Canceled.
+|-
+| '''~''' || Cancel the previous special into the following special.
+|-
+| '''cl.''' || Close to opponent.
+|-
+| '''f.''' || Far from opponent.
+|-
+| '''j.''' || Jumping move.
+|-
+| '''AA''' || Anti-air. Hit the opponent while they're mid-air.
+|-
+| '''[X]''' || Hold input briefly.
+|-
+| '''P & K''' || P and K each denote "Any Punch (A or C)" and "Any Kick (B or D)" respectively.
+|-
+| '''X/Y''' || Do either X move or Y move in a combo (Both final damage & stun values will be shown).
+|-
+| '''X * N'''<br>'''{X} * N''' || Repeat 'X' input 'N' amount of times.<br>Multiple inputs will be bundled into "{}".
+|-
+|}
+
+==Starters==
+'''Keep in mind:''' The combos in the "Combos" section have been tested using the first starter in each category '''(the combos in Bold)'''.<br/>
+The other starters in each table should also work in each case, but may not. 
+
+===Light Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''2B > 2A > 2A''' ||  || Standard low light confirm.
+|}
+
+===Heavy Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''j.X > cl.C > 6B''' ||  || Standard jump-in starter.
+|-
+| cl.D > 6B ||  || Surprisingly, cl.D is faster than cl.C. It still has less range and more pushback, so best used from a close jump-in or as a punish.
+|}
+
+===Other Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| CD || 75 ||
+|}
+('''Note:''' 'Other Starters' won't be referenced in the 'Combos' section.)
+
+==Combos==
+'''General Notes'''
+* Meitenkun's 6B can be cancelled later than most cancellable command normals. By inputting your normal > 6B as soon as possible, you can have enough time to charge 4 if you cancel the 6B late. This is important to getting combos where you don't have charge already, such as after running forward.
+
+===Rush Auto Combo===
+{|class="wikitable sortable"
+! Combo!! Damage !! Meter cost !! notes
+|-
+|  cl.A > A > A > B || 129 || 0 || Rush combo ending in a special move.
+|-
+|  cl.A > A > A > C || 231 || 1 || Rush combo ending in a super.
+|-
+|  cl.A > A > A > D || 360 || 2 || Rush combo ending in a Max super.
+|-
+|  cl.A > A > A > A || 448 || 3 || Rush combo ending in a Climax super.
+|}
+
+===Meterless===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6P ~ P || 150/179/192 || 170/200/210 || 0 || 20% || Anywhere || Damage will vary depending on how much back charge was accumulated before the combo.
+|-
+| '''Heavy Starter''' > [4]6P ~ P || 217 || 190 || 0 || 25% || Anywhere ||
+|-
+| '''Light Starter''' > [4]6P (level 2-3) ~ P, 6B || 216/229 || 250/260 || 0 || 30% || Corner || If you were able to charge a level 2 or above 46P, you can get an OTG 6B after. 
+|-
+| CD > 4A, [4]6P ~ P || 150/179/192 || 180/210/220 || 0 || 20% || Anywhere || Niche combo that doesn't require charge that can be used as a whiff punish, since CD > 4A is unsafe.
+|-
+| CD > 214A, [4]6P ~ (delay) P || 201 || 220 || 0 || 25% || Near Corner || CD corner combo for when the opponent is slightly away from the corner. You need the 214A to hit airborne so it causes a juggle. Delaying your cancel into 214A slightly can increase of likelihood of this happening.
+|-
+| CD > 214A, 2B > 2A > [4]6P ~ P, 6B || 287 || 360 || 0 || 40% || Corner || If 214A hits standing you can link a 2B and finish with your usual light confirm.
+|-
+| [2]8P (AA cross up), cl.D || 156/176/196 || 150/170/190 || 0 || 20% || Anywhere || Combo if [2]8P anti-airs a cross-up.
+|}
+
+===EX===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6AC ~ P || 191 || 90 || 0.5 || 10% || Anywhere || If you had enough time to charge a level 3 version of [4]6P, you dont need to spend the EX here.
+|-
+| '''Light Starter''' > 6B > 236CD, [4]6P ~ P || 230 || 210 || 1 || 75% || Anywhere || Although this combo technically costs 1 bar, due to the meter build from landing a Shatter Strike, this combo functionally costs less than half a bar, and ends up being more damaging than just cancelling into [4]6AC.
+|-
+| '''Heavy Starter''' > [4]6AC ~ P || 261 || 110 || 0.5 || 15% || Anywhere || Consistently more damage as a heavy combo.
+|-
+| '''Light Starter'''/'''Heavy Starter''' > [4]6AC, [2]8P, cl.D || 283/319 || 240/260 || 0.5 || 30% || Corner || Against smaller characters such as Yuri or Meitenkun himself, you can only get a cl.B after the [2]8P.
+|-
+| '''Light Starter''' > 6B > 214AC, [4]6P ~ P || 264 || 210 || 0.5 || 25% || Corner || Stronger than the previous combo if only a cl.B ender is possible. Note that 214AC won't combo if they're pushed too far back after the 6B.
+|-
+| CD, 214AC || 151 || 100 || 0.5 || 10% || Anywhere || Very consistent.
+|-
+| CD, 214A, [4]6P, [2]8AC, [2]8P, [4]6P ~ P, 6B || 446 || 450 || 0.5 || 60% || Near Corner || If the 214A causes a juggle, you can land this very powerful combo. 
+|-
+| [2]8AC, [4]6P ~ P || 216/246/260 || 80/110/120 || 0.5 || 15% || Anywhere || Combo from a [2]8AC. For the level 2 and 3 [4]6P, you have to hit them low enough to the ground so the P follow-up hits.
+|}
+
+===1 Bar===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6P ~ (delay) P > 236236K || 292/321/334 || 170/200/210 || 1 || 25% || Anywhere || You don't have to delay the P follow-up as much on level 2 or 3 [4]6P. You can input the P follow up as 236P and then input 236K to get the super. If you land this in the corner, you can get an OTG 6B after.
+|-
+| '''Heavy Starter''' > [4]6P ~ P > 236236P || 361 || 190 || 1 || 25% || Anywhere || 
+|-
+| '''Light Starter'''/'''Heavy Starter''' > [4]6AC, [2]8AC, [2]8P, [4]6P ~ P, 6B || 439/528 || 340/360 || 1 || 45% || Corner || Remember to input the [2]8 as [1]7 to build charge for [4]6P.
+|-
+| 236CD, [4]6P ~ P || 164 || 80 || 1 || 65% || Anywhere || Meitenkun's SS confirms are fairly straight forward, and will be identical to his regular confirms after the normals.
+|-
+| '''Light Starter''' > 6B/'''Heavy Starter''' > 214AC, [4]6AC, [2]8AC, [2]8P, [4]6P ~ P, 6B || 511/582 || 380/360 || 1.5 || 45% || Corner || Identical to the last combo, except fitting a 214AC at the beginning.
+|}
+
+===2 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6P ~ (delay) P > 236236BD || 405/434/447 || 170/200/210 || 2 || 25% || Anywhere || 
+|-
+| '''Heavy Starter''' > [4]6P ~ (delay) P > 236236BD || 493 || 190 || 2 || 25% || Anywhere || 
+|-
+| '''Light Starter'''/'''Heavy Starter''' > [4]6AC, [2]8AC, [2]8P, [4]6P ~ (delay) P > 236236K, 6B || 531/639 || 330/360 || 2 || 40% || Corner || 
+|-
+| ''(QM)'' '''Light Starter''' > 6B > BC, cl.D > 6B > [4]6P ~ (delay) P > 236236K || 369 || 320 || 2 || 15% || Anywhere || Meitenkun's only midscreen Max combo from a light confirm.
+|-
+| ''(QM)'' '''Heavy Starter''' > 4A > BC, [4]6AC, [2]8AC, [4]6P ~ P > 236236K || 491 || 230 || 2 || 15% || Anywhere || At 1500 Max Guage, Meitenkun gets a unique max combo that utilizes the knockdown of 4A.  Still weaker than a regular heavy confirm however.
+|-
+| ''(QM)'' '''Light Starter''' > BC, cl.D > 6B > [4]6AC, [2]8AC, [2]8P, [4]6P ~ P, 6B || 459 || 490 || 2 || 45% || Corner || 1000 Max Guage combo.
+|-
+| ''(QM)'' '''Light Starter''' > BC, cl.D > 214AC > [4]6AC, [2]8AC, [2]8P, [4]6P ~ P, 6B || 478 || 450 || 2 || 45% || Corner || 1250 Max Guage combo. Leaving out the usual 6B gives you just enough time to fit the 3 EX moves in. 
+|-
+| ''(QM)'' '''Light Starter''' > BC, cl.D > 6B > [4]6AC, [2]8AC, (delay) [4]6P ~ P > 236236K, 6B || 518 || 400 || 2 || 15% || Corner || 1500 Max Guage combo. You have just enough Max timer to fit this all in, so any excess delay can potentially cause you to miss the super.
+|-
+| '''Light Starter''' > 6B/'''Heavy Starter''' > 214AC, [4]6AC, [2]8AC, [2]8P, [4]6P ~ P, 236236K, 6B || 604/659 || 380/360 || 2.5 || 45% || Corner || 
+|-
+|}
+
+===3 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6P ~ (delay) P > 236236K > 236236AC || 516/545/558 || 170/200/210 || 3 || 20% || Anywhere ||
+|-
+| '''Heavy Starter''' > [4]6P ~ (delay) P > 236236K > 236236AC || 609 || 190 || 3 || 25% || Anywhere ||
+|-
+| '''Light Starter'''/'''Heavy Starter''' > [4]6AC, [2]8AC, [2]8P, [4]6P ~ (delay) P > 236236BD || 598/705 || 290/310 || 3 || 35% || Corner ||
+|-
+| (''QM'') '''Light Starter''' > 6B > BC, cl.D > 6B > [4]6P ~ (delay) P > 2141236CD || 534 || 320 || 3 || 15% || Anywhere || 1000 Max combo. Meitenkun's QM damage is comparable to his regular combos at 3 meters. Input the P follow up as 214P, then input 236CD for the Climax Cancel.
+|-
+| (''QM'') '''Light Starter''' > 6B > BC, 5C > [4]6P > 236236K > 2141236CD || 596 || 260 || 3 || 15% || Anywhere || 1250 Max combo. 5C is the most consistent after Quick Max to make sure you have enough Max gauge to fit everything no matter the spacing.
+|-
+| (''QM'') '''Light Starter''' > 6B > BC, cl.D > 6B > [4]6P ~ (delay) P > 236236K > 2141236CD || 629 || 320 || 3 || 15% || Anywhere || 1500 Max combo.
+|-
+| (''QM'') '''Light Starter''' > 6B > BC, cl.D > 6B > 214AC, [4]6P ~ (delay) P > 2141236CD || 583 || 320 || 3 || 15% || Corner || 1000 corner Max combo. At 1250 and 1500 gauge, use the midscreen combos.
+|-
+| '''Light Starter''' > 6B/'''Heavy Starter''' > 214AC, [4]6AC, [2]8AC, [2]8P, [4]6P ~ (delay) P > 236236BD || 661/741 || 330/310 || 3.5 || 45% || Corner ||
+|}
+
+===4 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6P ~ (delay) P > 236236K > 2141236CD || 598/627/640 || 170/200/210 || 4 || 20% || Anywhere || 
+|-
+| '''Heavy Starter''' > [4]6P ~ (delay) P > 236236K > 2141236CD || 700 || 190 || 4 || 25% || Anywhere ||
+|-
+| '''Light Starter'''/'''Heavy Starter''' > [4]6AC, [2]8AC, [2]8P, 4A > BC, (delay) [4]6P ~ (delay) P > 236236K > 2141236CD || 785/874 || 340/360 || 4 || 25% || Corner || Works with 1250 or 1500 Max Gauge.
+|-
+| ''(QM)'' '''Light Starter''' > 6B > BC, 5C > [4]6P > 236236BD > 2141236CD || 689/780 || 260/240 || 4 || 15% || Anywhere || 1250 Max combo. 
+|-
+| ''(QM)'' '''Light Starter''' > 6B > BC, cl.D > 6B > [4]6P ~ (delay) P > 236236K > 2141236CD || 706/777 || 320/300 || 4 || 15% || Anywhere || 1500 Max combo.
+|-
+| '''Light Starter''' > 6B/'''Heavy Starter''' > 214AC, [4]6AC, [2]8AC, [2]8P, 4A > BC, (delay) [4]6P ~ P > 236236K > 2141236CD || 856/928 || 380/360 || 4.5 || 25% || Corner || 
+|-
+|}
+
+===5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6P ~ (delay) P > 236236BD > 2141236CD || 711/740/753 || 170/200/210 || 5 || 20% || Anywhere || 
+|-
+| '''Heavy Starter''' > [4]6P ~ (delay) P > 236236BD > 2141236CD || 819 || 190 || 5 || 25% || Anywhere ||
+|-
+| '''Light Starter'''/'''Heavy Starter''' > [4]6AC, [2]8AC, [2]8P, 4A > BC, (delay) [4]6P ~ (delay) P > 236236BD > 2141236CD || 862/951 || 340/360 || 5 || 25% || Corner || 
+|}
+
+==External Links==
+{{#ev:youtube|aRKsRr6cbM0|||'''Meitenkun Combos by Meno'''|frame}}
+
+{{Navbox XV}}
+[[Category:The King of Fighters XV]]

@@ -1,0 +1,285 @@
+==Running==
+Press Forward twice to dash. Hold forward on the control stick or pad in order to continue running forward. 
+The character will run towards the opponent. As long as the player keeps the directional button held down, they will run forward until the player puts the control stick or pad back in neutral. Warning: There is a slight delay upon stopping the run regularly. However, you can prevent the delay by pressing an attack button or by crouching under normal circumstances. There is also a 14-frame window at the start of a run where the player can interrupt the run with anything except blocking, jumping backward or up, or back dashing. Take advantage of the run in order to close the gap between yourself and the opponent or to implement an offensive approach. The run speed of each of the characters will vary.
+
+An immediate run block is possible at 15 frames. Run normal throw is possible at 16 frames.
+
+===Run Speed===
+1.25 being the fastest while .69 being the slowest. 
+{| class="wikitable"
+!colspan="1"|Run Speed Rank
+!colspan="1"|Characters
+|-
+|-
+|1.25
+|Chris
+|-
+|1.20
+|Heidern, Vanessa, Luong, Iori, Nakoruru, Sylvie
+|-
+|1.149
+|Shun'ei, Isla, Elisabeth, Krohnen, Benimaru, Gato, Orochi Chris, Goenitz, Najd, Duo Lon
+|-
+|1.125
+|Rock, Leona, Yuri
+|-
+|1.10
+|Kyo, Chizuru, Kukri, Billy, Ángel, Yashiro, K', Ramón, Terry, Joe, Andy, Robert, Blue Mary, B. Jenet, Shermie, Hoahmaru, Shingo, Kim, Hinako
+|-
+|1.04
+|Orochi Yashiro
+|-
+|1
+|Meitenkun, Whip, Yamazaki, Geese, Dolores, Ash, Kula, Antonov, Ralf, Clark, Ryo, King, Darli, Orochi Shermie, Omega Rugal
+|-
+|.89
+|Mai, Athena, Maxima
+|-
+|.69
+|King of Dinosaurs
+|}
+
+==Backdashing==
+Backdashing is done by pressing back on the control stick or twice. The character will move backward a certain distance to quickly move away from the opponent. The distance and the speed of the backdash will vary between the characters, along with their animations. In many cases, when you perform a backdash, you are in a midair state. All backdashes are invincible to physical low attacks and grabs (including air grabs) during startup and mid-air. 
+
+Backdash invincibility against physical low attacks:
+
+[[File:Backdash_KOFXV.png|500px]]
+
+==Jumps and Hops==
+[[File:KOFXV_jump_arcs.jpg|thumb|Credits to [https://twitter.com/KuriNyankoF/status/1490824960587313153 KuriNyankoF] for the image.]]
+In KOF XV, there are 4 different types of jumps:
+*<span style="color:blue">Hop</span> - Lightly tap up. The character will hop upwards a very short distance. The amount of time your up input should last is 4F or less.
+*<span style="color:green">Normal Jump</span> - Press up regularly or hold up. This is a traditional jump and it can take time to be able to differ the two.
+*<span style="color:red">Hyperhop</span> - Press down but then tap up lightly within 14F. The character quickly jumps slightly off of the ground an a higher speed. This can be useful for approaching the opponent.
+*Hyperjump - Press down and then hold up within 14F. This is essentially a super jump. 
+
+All jumps have 4 prejump frames. (pre-jump frames are frames where you are still on the ground, but considered in air for all other purpose. If you are hit during pre-jump frames, you are considered on the ground for your opponent to continue combo. If you get hit during pre-jump frames of a HOP, you are considered on the ground AND with counter hit bonus added to injury)
+
+You can not block while you are in the air. Some moves may only be available while the character is the air.
+
+You cannot block or act for one frame upon landing. This window can be longer if a special move is done in the air, but not normals.
+
+If you hop/jump during a run, it will hyper hop/hyper jump instead
+
+A few character are able to triangle jump : when your jump reaches the border of the screen, inputing opposite direction allow this character to make another jump from that point. Useful to escape a corner or a surprise attack.
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Click here to view jump/hop durations for all characters" data-collapsetext="Click to Hide">
+{| class="wikitable sortable"
+|-
+! Character !! Hop !! Jump !! Backdash (total) !! Backdash recovery (included in total) !! Triangle Jump
+|-
+|Andy || 32 || 44 || 22 || 5 ||
+|-
+|Angel || 32 || 40 || 22 (*19) || 4 ||
+|-
+|Antonov || 33 || 40 || 19 || 4 ||
+|-
+|Ash || 32 || 40 || 23 || 5 ||
+|-
+|Athena || 37 || 46 || 22 (*19) || 5 ||
+|-
+|B Jenet || 32 || 40 || 23 || 5 ||
+|-
+|Benimaru || 32 || 40 || 22 || 5 ||
+|-
+|Billy || 33 || 42 || 22  || 5 ||
+|-
+|Blue Mary || 33 || 42 || 23 || 4 ||
+|-
+|Chizuru || 37 || 46 || 23 || 5 ||
+|-
+|Chris || 32 || 40 || 23 || 5 ||
+|-
+|Clark || 32 || 40 || 21 || 4 ||
+|-
+|Darli || 33 || 42 || 21 || 5 ||
+|-
+|Dolores || 32 || 40 || 23 || 5 ||
+|-
+|DuoLon || 32 || 40 || 23 || 5 ||
+|-
+|Elisabeth || 32 || 40 || 23 || 5 ||
+|-
+|Gato || 32 || 40 || 22 || 4 ||
+|-
+|Geese || 33 || 42 || 22 || 5 ||
+|-
+|Goenitz || 32 || 40 || 23 || 5 ||
+|-
+|Haomaru || 32 || 40 || 22 || 4 ||
+|-
+|Heidern || 32 || 40 || 21 || 4 ||
+|-
+|Hinako || 40 || 46 || 23 || 5 ||
+|-
+|Iori || 32 || 40 || 22 (*19) || 5 ||
+|-
+|Isla || 32 || 40 || 23 || 5 ||
+|-
+|Joe || 33 || 41 || 21 || 4 ||
+|-
+|K' || 32 || 40 || 22 || 5 ||
+|-
+|Kim || 32 || 40 || 23 || 5 ||
+|-
+|King || 35 || 42 || 20 || 4 ||
+|-
+|King of Dinosaurs || 35 || 40 || 28 || 4 ||
+|-
+|Krohnen || 32 || 42 || 23 || 5 ||
+|-
+|Kukri || 32 || 42 || 21 || 4 ||
+|-
+|Kula || 32 || 43 || 21 || 4 ||
+|-
+|Kyo || 32 || 43 || 24 (*25~21) || 5 ||
+|-
+|Leona || 33 || 43 || 22 || 5 ||
+|-
+|Luong || 35 || 45 || 22 || 5 ||
+|-
+|Mai || 33 || 43 || 22 || 5 || Yes
+|-
+|Maxima || 35 || 41 || 21 || 4 ||
+|-
+|Meitenkun || 34 || 44 || 23 || 5 ||
+|-
+|Najd || 32 || 40 || 23 || 5 ||
+|-
+|Nakoruru || 32 || 40 || 22 || 4 || Yes
+|-
+|O.Chris || 32 || 40 || 23 || 5 ||
+|-
+|O.Shermie || 32 || 40 || 23 || 5 ||
+|-
+|O.Yashiro || 32 || 40 || 23 || 5 ||
+|-
+|Ralf || 33 || 41 || 22 || 5 ||
+|-
+|Ramon || 33 || 41 || 22 || 5 || Yes
+|-
+|Robert || 33 || 41 || 26 || 5 ||
+|-
+|Rock || 33 || 40 || 21 || 4 ||
+|-
+|Rugal || 32 || 43 || 23 || 5 ||
+|-
+|Ryo || 32 || 39 || 22 || 5 ||
+|-
+|Shermie || 32 || 40 || 23 || 5 ||
+|-
+|Shingo || 32 || 43 || 24 || 5 ||
+|-
+|Shun'ei || 32 || 40 || 23 || 5 ||
+|-
+|Sylvie || 32 || 40 || 23 || 5 ||
+|-
+|Terry || 33 || 41 || 21 || 4 ||
+|-
+|Vanessa || 32 || 40 || 21 || 4 ||
+|-
+|Whip || 35 || 42 || 21 || 4 ||
+|-
+|Yamazaki || 32 || 40 || 26  || 4 ||
+|-
+|Yashiro || 32 || 40 || 23 || 5 ||
+|-
+|Yuri || 33 || 40 || 19 || 5 ||
+|}
+
+Coutresy of [https://twitter.com/cidelfus ChaseHD].</div>
+
+==Other Movement Lists==
+
+===Forward Walk Speed===
+.50 being the fastest while .30 being the slowest. 
+{| class="wikitable"
+!colspan="1"|Forward Walk Speed Rank
+!colspan="1"|Characters
+|-
+|-
+|.5
+|Shunei, Chris, Orochi Chris, Duo Lon
+|-
+|.44
+|Isla, Angel, Leona, Terry, King, Mai, Yuri, Blue Mary, Vanessa, Geese, Billy, Najd
+|-
+|.40
+|Benimaru, Heidern, Dolores, Kyo, Iori, Ash, Elisabeth, Kukri, Krohnen, Yashiro, Oroshi Yashiro, Shermie, Maxima, Whip
+Ramon, Ralf, Andy, Robert, Athena, Luong, Rock, B. Jenet, Gato, Yamazaki, Nakoruru, Shingo, Kim, Sylvie
+|-
+|.34
+|Kula, K', Joe, Ryo, Darli, Goenitz, Hinako
+|-
+|.30
+|Meitenkun, Chizuru, Antonov, King of Dinosaurs, Clark, Orochi Shermie, Haohmaru, Omega Rugal
+|}
+
+===Back Walk Speed===
+.40 being the fastest while .10 being the slowest. 
+{| class="wikitable"
+!colspan="1"|Back Walk Speed Rank
+!colspan="1"|Characters
+|-
+|-
+|.40
+|Leona
+|-
+|.34
+|Terry
+|-
+|.33
+|Ramon
+|-
+|.30
+|Shunei, Benimaru, Isla, Heidern, Kyo, Iori, Kukri, Krohnen, Yashiro, Orochi Yashiro, Chris, Orochi Chris, Andy, Ryo, Robert
+Yuri, Blue Mary, Vanessa, Luong, Rock, B. Jenet, Gato, Billy, Nakoruru, Shingo, Kim, Sylvie, Goenitz, Najd, Duo Lon, Hinako
+|-
+|.29
+|Kula
+|-
+|.28
+|Angel, Maxima, Ralf, Mai
+|-
+|.25
+|Dolores, Chizuru, Ash, Shermie, Orochi Shermie, Whip, Joe, King, Athena, Geese, Darli
+|-
+|.23
+|King of Dinosaurs, Haohmaru
+|-
+|.21
+|K', Antonov, Omega Rugal
+|-
+|.20
+|Elisabeth, Clark, Yamazaki
+|-
+|.10
+|Meitenkun
+|}
+
+==Ground Game==
+
+Fighting on the ground in 2d games can often be described with the following three actions:
+
+>1: Preemptive space control - This is putting out an attack to fill the space in front of you and stop your opponent from moving forward.  It's preemptive because you don't know if your opponent will run into your button.  It's difficult to always respond to someone running at you from closer ranges, so you stick something out in case they do.  KoF disables blocking when beginning to run so this can be taken advantage of.
+
+>2: Whiff punishing - This is punishing someone for missing an attack.  When you commit to an attack, you can't block until it finishes animating.  If your opponent swings and misses then you may be able to hit them back before they have finished recovering from their attack.  Depending on the hitboxes of the specific attacks at play, it may be possible to hit an outstretched limb.
+
+>3: Aggressive movement - This is just moving forward.  If someone is sitting back and trying to whiff punish you may be able to surprise them by just running at them.  If they're actively filling space you might get hit.  Remember that you can't block when you start to run, but you can once you get past the inital dash.  This means running becomes safer when starting from further away.  If you're already inside the range of a particularly threatening poke then you might want to just walk instead.
+
+This is a gross oversimplification but it can be a useful framework for thinking about a match.  If you find yourself running into the other player's buttons continuously, you can try to slow down and see if they keep swinging and give you an opportunity to whiff punish.  If you're getting mauled, then maybe you're playing too passively and you need to try holding your ground.
+
+===What happens when you add jumping to the mix?===
+
+You need to consider an attack's height in addition to its length.  You can hop over many ground attacks.  Other ground attacks hit high enough to stop hops consistently.  Some ground attacks that hit hops will not hit high enough to stop a jump.  Hops are faster than jumps so they're generally the bigger threat.  However if someone is zeroed in on stopping hops, then a jump might catch them off guard.
+
+Hops can be used to supplement all three points of the ground game described above.  Most obviously hopping forward is an aggressive movement option that can be difficult to respond to.  You can use jumps to punish long active pokes if they also have long recovery to go with it.  You can also wall off space by neutral hopping with a big air button and stop a lot of approaches.
+
+==The Corner==
+
+Jockeying for position is a critical component of fighting games.  While moving around the screen you want to keep in mind the effective range of your and your opponent's key attacks as well as your position on the stage.  When you back up outside your opponent's threat range you also bring yourself closer to the corner.  Similarly if you drive your opponent back, you can claim the space they just vacated and leave them less room to work with on the stage.  Whoever gets cornered is placed at a terrible disadvantage because they lose the power to back up and make attacks miss.  The attacker's turns can last longer because the defender can't be pushed back any more from blocking.  The guard bar often comes into play in the corner which forces the defender into some tough choices.  It's very common to try to jump or roll out of the corner but they have a fixed distance.  If the attacker backs up a little bit, they can cut off these options.  Doing so does give the defender some breathing room on the ground to start inching their way forward and fighting back.
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

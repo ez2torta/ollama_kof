@@ -1,0 +1,146 @@
+==Health==
+Depending on how much time is left on the clock determines how much life you regenerate the next round. The health values in XV are standardized once more like KOFXIII.
+
+*42-60sec: Recover 300 HP
+*30-41sec: Recover 250 HP
+*18-29sec: Recover 150 HP
+*0-17sec:  Recover 100 HP
+
+==Stun==
+Every caracter in KOFXV has the same amount of Stun he can sustain before entering a Dizzy state. Damage indicated in frame data is noted for a 1000 Stun bar.
+
+Stun damage is not subject to Damage Reduce, which means every hit you add in a combo will count fully for Stun matters.
+
+After you receive some Stun damage, your Stun gauge begins to refill itself after 150f, at the rate of 1stun per frame.
+Each hit after the first will reinitiate this 150f pause before bars begin to refill again. Being hit on the guard won't impair the ability to regain Stun meter, though.
+
+When a player's caracter Stun gauge drops under 200, it starts to flash (blue for your opponent portait, red for your portrait)
+
+Once stunned, a timer begins once your character lies on the floor (the fall doesn't count).
+
+If no input is made, your character stays out of controle for 230frames (counted when character first lies still).
+
+* Each button input after character stands stunned reduce this duration by 5f (all buttons having same effect)
+
+* Each direction (2/4/6/8) input after character stands stunned reduce this duration by 5f (all directions having same effect)
+
+Due to input priority, if you input AC then AC, it will count as 2 inputs, whereas if you input and hold A, then C, it will also count as 2 inputs.
+
+==Combo Damage Scaling==
+The first hit of a combo will deal 100% of base damage and each subsequent "hit" will reduce the combo multiplier by 5%, to a minimum of 20%. All supers, including MAX and Climax Supers, will always do a minimum of 50% damage. Scaling damage is rounded down. Neither Super, Advanced or Climax cancels affect damage scaling in any way. Some other Supers (usually Climax) work differently and will always do a minimum amount of damage in certain parts that is usually more than 50%.
+
+What constitutes as a "hit" in combos varies when it comes to special and super moves but others there are a few general rules
+* Multi-hitting normals such as Terry and Vanessa's c.C only count as 1 "hit", no matter if cancelled from the first or second hit.
+* Multi-hitting command normals only count as 1 "hit" no matter if cancelled from the first or second hit. The exception being Vanessa's 6A, which counts as 1 hit each.
+* Multiple special inputs such as Kyo rekkas add 1 "hit" to the combo each.
+
+Certain actions work differently with regards to the scaling
+{| class="wikitable sortable"
+|-
+! Action !! Scaling
+|-
+| Raw Shatter Strike || 15%
+|-
+| Combo Shatter Strike || 30%
+|-
+| Advanced Strike crumple || 50%
+|-
+| Quick Max || 10%
+|-
+| Quick Max (Overhead Command Normal) || 35%
+|-
+| Blowback (CD) Wall Splat || 30%
+|-
+| Overhead || 30% (including the hit)
+|-
+| EX Counter (Rock) || 45%
+|-
+| Shinkuu Nage (Rock) || 30%
+|}
+
+==Meter Mechanics==
+[[File:KOFXV full meter.png|frame|right|Meter display in game]]
+At the bottom of the screen is a number next to a meter that can gradually fill up over the course of a round.  This is the '''Power Gauge''', and the number represents how many stocks of meter the character currently has stored.  As the number of stocks increases, certain additional actions become available to the character:
+
+*½ stock: Can perform EX Special Moves and Advance Strike (214CD).
+*1 stock: Can perform Super Special Moves, Guard Cancel Roll (GCAB), Guard Cancel CD (GCCD) and Shatter Strike (236CD).
+*2 stocks: Can perform MAX Super Special Moves and activate MAX Mode (including Quick MAX).
+*3 stocks: Can perform a Climax Super Special Move.
+
+The maximum number of stocks available to a character depends on the character’s position in the team order. The first character may store up to 3 stocks, the second may store up to 4, and the final character may store up to 5 stocks of super meter.  Meter accumulated by a character who was knocked out will carry over to the next character, and the next character will automatically gain 1 stock when it is their turn. For example, if character A had 1 stock out of 3 when they were KO'ed, then the next character will have 2 stocks out of 4.
+
+Managing the Power Gauge and effectively spending this resource on both offense (EX Special Moves, Quick MAX, etc.) and defense (Guard Cancels) is a crucial component of KOF, one that will have drastic implications on the outcome of a match. 
+
+===Meter Gain===
+Meter can be gained by:
+
+*Connecting with attacks besides normal/air throws (this includes if the attack was blocked).
+*Blocking your opponent's attacks.
+*Performing a special move, regardless of whether they were hit, blocked, or whiffed (with some exceptions).
+
+in most cases (there are exceptions) :
+
+* Normals - Command normals - Grab : 
+** on hit : 
+*** you gain raw damage value (not counting damage reduce or Counter Hit or BlueMaxMode)
+*** opponent gains 60% (rounded down)
+** on block :
+*** you gain half raw damage value
+*** opponent gains 35% (rounded down)
+* Spéciaux - Supers :
+** whiffing : 
+*** you gain a given value (cf. Excel file)
+** On hit :
+*** you gain Whiffed value  + raw damage value
+*** opponent gains 60% (rounded down) of raw damage value
+** On block :
+*** you gain Whiffed value + 50% raw damage value
+*** opponent gains 60% (rounded down) of raw damage value (same as onHit)
+
+===Shatter Strike===
+{{#ev:youtube|FHd9b--6fXk|360|center}}
+New to KOF XV is the Shatter Strike. At the cost of 1 stock of the Power Gauge, you can input [[File:qcf.gif]]+[[File:c.gif]][[File:d.gif]] (236CD) to perform the Shatter Strike. The Shatter Strike is an enhanced version of your character's blowback attack that absorbs attacks performed by the opponent starting on frame 4 of its startup. This includes projectiles, Super Special Moves and Climax Super Special Moves. In addition, Shatter Strike applies a 15% combo scaling when used as a combo starter.
+
+Shatter Strike behaves differently depending on whether or not it was performed raw. If Shatter Strike hits as the first hit in a combo, they will be crumpled on a grounded hit and any subsequent followup will air reset the opponent if the attack does not have juggle properties attached to it. If a raw Shatter Strike hits an airborne opponent, the opponent is wallbounced. If Shatter Strike was used in the middle of a combo, the opponent will still be treated as grounded, making it a combo extender that, unlike a raw shatter strike, can be followed up with normal attacks (usually a close heavy normal). Although Shatter Strike costs 1 stock to use, you gain half a stock back if it hits the opponent. This stock refund does not occur on whiff, block, or in either MAX Mode.
+
+Shatter Strike’s armor property is useful for countering an opponent's poke in neutral if your reads are good enough, as well as breaking through gaps in the opponent's block pressure. It can even be used as a high-risk anti-air. However, in addition to being vulnerable to throws, Shatter Strike’s armor is not active until frame 4. This limits its use as a reversal, especially on wakeup, and makes it susceptible to frame-traps. Because Shatter Strike reuses your character's Blowback Attack animation (in most cases; there are a few exceptions), its usefulness will vary depending on the character and their ability to convert a hit into big damage.
+
+===Advanced Strike===
+{{#ev:youtube|B4NzSQdzU9g|360|center}}
+New to KOFXV since the 2.30 patch, the advanced Strike is a unique mechanic that costs half a bar of meter, but refunds its entire cost on block or hit. Advanced Strike is a new way to counter throws, since it activates a throw counter on frame 3. Currently, Advance Strike will not counter airborne throws, such as the ones used by Chris, Blue Mary or Ángel.
+The move is very slow (slower than Shatter Strike or CDs), but you gain super armor after 8 frames. Since it's +3 on block, you can use it as a "meaty" move on your opponent wake-up, and since it has a built-in throw counter, if opponent tries to throw you with a reversal throw, they will be hit by this Advanced Strike throw counter, and thus gets crumpled. If they try a regular attack, they will be launched for a hard knockdown.
+
+Advance Strike cannot be canceled into, and it does not cancel into anything. As long as the player has at least 0.5 meter and is not currently in the active or recovery frames of an attack, Advance Strike can be activated with [[File:qcb.gif]]+[[File:c.gif]][[File:d.gif]]
+
+===MAX Mode===
+{{#ev:youtube|YbNLMYDlzTM|360|center}}
+When you have 2 or more stocks in the Power Gauge, the MAX Mode indicator will appear above the Power Gauge. This means you can activate MAX Mode by pressing [[image:b.gif]] and [[image:c.gif]] at once. MAX Mode comes in two varieties depending on when you activate it, either done raw or when cancelled into from a normal or command normal. Both cost 2 stocks to use. These are referred to as MAX Mode (Raw) and MAX Mode (Quick) respectively.
+
+* MAX Mode (Raw) is indicated by a blue visual effect. It takes 30f to fully execute. It increases the damage and Guard Gauge damage dealt by the character's Normals, Normal Throws, Command Moves and Special Moves (''but '''not''' EX Special Moves'') by 25%. Additionally, it allows EX Special Moves, Shatter Strike, and Super Special Moves to be performed for free as long as the mode is active, taking small and large chunks respectively out of the MAX Mode Gauge instead of the Power Gauge. MAX Super Special Moves take the same amount of Max Mode Gauge as Super Special Moves, but also cost 1 stock of the Power Gauge. Climax Super Special Moves immediately end MAX Mode regardless of how much time is left in the MAX Mode Gauge, as well as 1 stock of the Power Gauge.
+
+The MAX Mode Gauge varies in size depending on what the number of maximum stocks for that character is. For example, the first character on a team, who has a maximum stock number of 3, will have 1000 Max Mode Gauge, the second character will have 1250 Max Mode Gauge, and the last character will have 1500 Max Mode Gauge.
+
+{{#ev:youtube|6cne0DSJE8E|360|center}}
+MAX Mode (Quick) is indicated by a pink/red visual effect. It cancels the recovery of your current attack, stops time for a brief moment, and makes your character automatically run towards the opponent. This will allow you extend a combo or blockstring, or it can situationally be used to make an unsafe attack become safe. MAX Mode (Quick) is otherwise identical to MAX Mode (Raw) in functionality except for three major differences:
+
+* The MAX Mode Gauge is significantly shorter.
+* Damage and Guard Gauge damage are not increased.
+* A 10% damage scaling value is applied if Quick MAX is used to extend a combo. This scaling is not applied if a fighter starts a new combo while Quick MAX is still active (such as a Quick MAX activation on block).
+
+Any grounded normal attack or command normal can be used to activate Quick MAX as long as the fighter is not considered airborne at the time of activation.
+
+===EX Special Moves===
+EX Special Moves are powered-up special moves (and in Duo Lon’s case, powered up Command Normals). EX Special Moves use half of a stock, and in MAX Mode they take out a small chunk of the MAX Mode Gauge instead of costing half a stock. They vary in functionality, from simply doing more damage to extending combos to changing a move's function entirely (for example, Kyo's Kototsuki Yo is normally blockable, but the EX version is an unblockable command grab). Experiment with your character's EX Special Moves to get the most out of your special moves.
+
+===Super Special Moves===
+Super Special Moves are powerful special moves activated with specific command inputs, often more complex than normal special move inputs. They use 1 stock of the Power Gauge, or a large chunk of the MAX Mode Gauge if in MAX Mode.
+
+===MAX Super Special Moves===
+MAX Super Special Moves are even more powerful versions of the Super Special Moves. They use 2 stocks of the Power Gauge, or 1 stock and a large chunk of the MAX Mode Gauge if in MAX Mode.
+
+===Climax Super Special Moves===
+Climax Super Special Moves are your character's strongest attack. They use 3 stocks of the Power Gauge, or 1 stock and the remaining MAX Mode Gauge if in MAX Mode. In KOF XV, all Climax Super Special Moves are performed with a universal command, 214236CD. Some characters may also have an alternative Climax attack activated with 236214CD. Krohnen, Rock and Geese can also activate Climax by using 1632143CD (famously known as the “Pretzel Motion”), but this is merely an Easter egg and does not modify or enhance the attack in any way at all.
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

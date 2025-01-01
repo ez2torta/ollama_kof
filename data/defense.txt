@@ -1,0 +1,90 @@
+==Rolling==
+Press [[image:a.gif]]+[[image:b.gif]] to perform an evasive movement.
+
+Press [[image:bk.gif]]+[[image:a.gif]]+[[image:b.gif]] to roll backwards. 
+
+Rolling is an evasive option that augments players defensive options. They universally last 33f. From frames 1-24, the character is completely invincible to every move except for throws and command grabs. Rolling is not completely foolproof, however. Upon performing a roll, there are 9 frames of recovery that makes the user vulnerable to any attack. As stated before, throws and command grabs will also beat out the roll mechanic. Be sure to use the roll mechanic wisely so that you can get out of pressure carefully or find a method of implementing an offense. Discretion is heavily advised when fighting stronger players.
+
+==Recovery Roll==
+Also known as Tech Roll or Quick Rise. By pressing or holding [[image:a.gif]]+[[image:b.gif]] right before hitting the ground when you get knocked back from some attacks, you can perform a Recovery Roll to avoid the knockdown state. Some combos can be used on fallen opponents, so try using Recovery roll to evade them. It also prevents your opponent from having more time to set up a mix-up. However, Recovery Roll cannot be used against some attacks that have hard knockdown properties. It also eliminates the natural throw invincibilty after getting up from a knockdown, making meaty throws another mix-up to consider, although they are still breakable or jumpable.
+
+All normal throws and supers cause hard knockdowns and cannot be recovered from using this technique.
+
+Recovery rolls will have you waking up 27f earlier than if you don't recover on your Soft Knockdown 
+(Lab in Progress)
+
+==Just Defend / Instant Block==
+An Instant Block is a slightly more advanced form of normal blocking.
+
+Input a block shortly before the opponent's attack connects (8 frame window) to perform a Just Defend/Instant Block.
+
+The defender will flash white on a successful Instant Block. However, note that inputting any backwards direction without performing an Instant Block locks out any subsequent Instant Block attempts for 30 frames. This is to prevent mashing Instant Block.
+
+'''The benefits of an Instant Block are:'''
+* Builds extra super meter [+20]
+* Lowers the amount of guard damage received
+
+==Guard Cancel Roll (GCAB)==
+While in block stun, the player can press A+B or Back+A+B to implement a Guard Cancel Roll. The character will roll out of their block stun animation at the cost of 1 bar of meter that they built during the match. What makes this useful is the fact that the user is completely invulnerable while performing the Guard Cancel Roll, even on its delay. However, it is still possible to fall into heavy disadvantage when it is mistimed. Use this to safely get out of pressure or out of the corner. This can also be used to catch the opponents whiffing and then punishing them accordingly after performing the Guard Cancel Roll. 
+
+==Guard Cancel CD (GCCD)==
+While in blocking incoming moves, the player can press C+D to perform the characters blowback attack out of block stun. 
+What this does is allow the character to attack and send the opponent flying away to produce a neutral situation again. The use of the Guard Cancel CD will vary between the characters as many of them have different animations for CD attacks. These can also be baited out for a whiff punish, so use these wisely. 
+When a Guard Cancel C+D attack lands, it normally does a very small amount of damage upon sending the opponent reeling backwards. 
+Much like the Guard Cancel Roll, this costs 1 bar of meter. 
+*All GCCD's start up in 7f, active for 5f, on guard is -9f apart for those who are - 10
+**Heidern
+**Krohnen
+**Shermie
+**Whip
+**Robert
+**King
+**Athena
+**Mai
+**Billy
+**Yamazaki
+**Oroshi Shermie
+
+*Against air moves, the start-up is 11f.
+*They all do 5 damages onHit (6 when in MaxMode), none onBlock
+
+==Shatter Strike==
+Performed by inputting [[image:qcf.gif]]+[[image:c.gif]][[image:d.gif]], this move costs 1 bar to perform and will refund half of the bar if it hits the opponent. Shatter Strike causes opponent to crumple on hit and allows you to guard through moves without decreasing your guard bar, do note, that this move can also be thrown. 
+*Guard Point: Starts at frame 4, lasts for 11f, -10 on block, active for 6f.
+
+Shatter Strike can be followed by moves that have 19 or fewer frames of startup. Except Kukri (12 frames or Less)
+
+==Advance Strike==
+Performed by inputting [[image:qcb.gif]]+[[image:c.gif]][[image:d.gif]], Advance Strike costs half a bar to perform and will refund that meter on hit or block. Advance Strike is slow, and cannot be cancelled into, but has a built-in throw counter from frame 3, armor from frame 8 and is +3 on block. It also does a significant amount of damage to the guard bar.
+
+It's impossible to cancel into it, so you need to be in a neutral state.
+
+* Startup : '''28F''' </br>
+* Strike armor from frame 8 onwards, throw counter from frame 3 onwards </br>
+* Frame Advantage on block : '''+3''' </br>
+* Frame Advantage on Hit (without throw counter) : '''+67''' </br>
+* Damage : '''100''' ('''125''' on Counter Hit) </br>
+* Throw counter causes a crumple similar to Shatter Strike, but with slightly different timing and ***50% damage scaling*** for any followup combo performed. </br>
+* Does a slight amount of chip damage on block. </br>
+
+==Backdash==
+Backdash puts you airborne immediately so it has some use on defense.  This will avoid throws and lows.  Backdashes can be counterhit throughout their duration so if you get hit out of the air, the attacker can potentially juggle.  There's also some grounded recovery at the end of the backdash.  The duration of the backdash is character specific.
+
+==Antiair==
+There's several methods to deal with people jumping at you.  First is moving around to throw their spacing off.  If you sit still for too long the enemy can more easily cross you up or place their jump button at a particularly difficult angle to deal with.  If you give yourself space it's also going to be easier to see a jump and respond to it in time.  Also if the enemy jumps and fails to make contact with you then you can use the time they're stuck in their jump arc to reposition yourself and take initiative.
+
+If you want to dp a jump, you can prepare it ahead of time by buffering the 623 motion and just press the attack button when you confirm they've jumped.  You won't be able to block while you buffer a dp so be wary of doing it inside the range of strong grounded pokes.  You can buffer a dp while running and there isn't much downside there since you can't block when starting to run anyway.  It's important to recognize the properties of each character's dp.  Some move forward so it won't hit an enemy right over their head.  Some move straight up so an opponent could bait them by empty jumping to avoid sticking a button into the dp.  Some characters can super cancel their dp for more damage.
+
+You can interrupt hops with stand jab.  This is most useful when the enemy hops at close range so you hit them on their way up before they're able to get an attack out.    If the enemy is approaching from further away with a big jump attack already extended, your jab is likely going to lose.  If the enemy jumps instead of hops, then you probably need to pick a more vertical attack.  If you find an attack that tends to cover the ground and hop space at the same time, then that can reduce your guesswork a little bit.
+
+It is important to note that the startup of hop normals are counterhit state. Some characters can counterhit a hop and then followup with juggles.  A common example is Iori 2C rekkas.  If the enemy jumps instead of hops they cannot be counterhit.  If the enemy hops but doesn't press anything, they cannot be counterhit.
+
+Meeting the opponent in the air is an option.  Neutral hopping with a horizontal normal is generally a low risk way to cut off approaches.  Jumping back with a button is good at denying crossups.  If your opponent is jumping at you expecting you to be on the ground, they have to wait until they start descending to press their button so they have hitstun/blockstun to work with after landing.  If you instead jump into them with a fast button, you could strike first and win the exchange.  If the attacker wishes to deny an air to air defense, they have to press their button earlier and might put themselves at a disadvantage if you stay grounded.
+
+Pressing 2B tends to shrink a character and will let them duck under some air attacks.  If successful you should punish the attacker's landing recovery and score a combo.  If not you'll probably eat a combo so this is high risk high reward.  You can reduce the risk a little if you run under the enemy and get behind them.  You still have to watch out for strong crossups like Yashiro jC when attempting that.  This ties into that mindgame of pressing an air button early vs late.  If the attacker presses their jump button early they may run out of active frames before they get low enough to hit your 2B.  What air button the enemy uses is also important to note.  Horizontal moves like Iori jB tend to be weak against low profile 2Bs.  If Iori presses jC instead that will usually hit low enough to clobber a 2B.
+
+Dune made an excellent video when XV launched demonstrating these concepts: [https://youtu.be/Wwd-eiRke5E Basic of "Anti-Air" in KOFXV(15)]
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

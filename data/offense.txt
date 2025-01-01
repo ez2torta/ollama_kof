@@ -1,0 +1,196 @@
+{{TOClimit|3}}
+==Offense==
+===Wall Splat Blowback Attack===
+Returning from KOF XIV, the Blowback Attack (C+D) will send a grounded opponent to the wall, where they'll crumple to the ground. The Blowback Attack is usually special cancelable, which means that it can be followed up with a combo or blockstring.
+
+===Rush Auto Combo System===
+
+If you repeatedly press standing light punch when you're close to an opponent, the character will activate a combo that leads to a Special Move. The final attack will vary depending on your power gauge and what button was pressed. Ending with A will use the most powerful move available with your current gauge, up to a Climax. B will be a special move. C will be a Super Special Move and D will be a MAX Super Special Move.
+
+===Counter Hit===
+
+A counter hit will take place if you manage to hit the opponent at the startup of their special attacks, command normals, (hyper)hop attack, or the entire duration of their back dash. Counter hits tend to do a little bit more damage while also adding extra properties to the said move that was used to counter hit the opponent. Some counter hits may be used as actual combo starters or launchers. When an anti air is perform that counter hits the opponent it typically will put the opponent in a juggle state for combos.
+
+===Counter-Hit Juggle Rules against Air Opponents===
+
+'''Normal attacks and command moves that air reset:''' Characters can immediately cancel and connect with moves that startup at 14 frames or less when they hit opponents with counter-hit air resets. It is better to cancel into moves that start up at 13 or less. This only applies to 1st hit of the counter-hit air reset. Mutli-hit moves must be canceled during the first hit to follow up after air reset with a special move or super move.
+
+'''Ground and air CD:''' All counter-hit CDs put the opponent in a free juggle state. Characters can follow up with any move before the opponent touches the ground.
+
+'''Specials, Supers, and Climaxes:''' All counter-hit special and above moves put the opponent in a free juggle state. Characters can follow up with any move before the opponent touches the ground. Even moves like Shunei's 623A can be followup if it counter-hits the opponent.
+
+===On The Ground (OTG)===
+
+These are moves that can hit the opponent, even while they are on the ground in a floored position. Some OTG moves will function as striking moves while others will function as grappling moves. These are best used after scoring a hard knockdown against a player and the input the command for the said OTG move in order for character to get extra damage. 
+
+===Move Cancelling===
+
+All Normals and Command Moves in the game follow a universal hierarchy-based canceling in the following order: Command Moves > Special Moves > Super Moves (Super Special Moves, MAX Super Special Moves and Climax Super Special Moves). If a normal or Command Move is able to be canceled into a Command Move, it also will be able to cancel into moves down the hierarchy (i.e. Special and Super Moves) by default. As a departure from previous KOF titles, almost all normals in this game are able to at least cancel to into supers, even traditionally uncancelable far normals. Shatter Strike counts as a special move for the purpose of move cancelling.
+
+Certain Special Moves can also be canceled into Super Moves during certain parts of their animation, this is known as a Super Cancel.
+
+Super Special Moves have a different canceling mechanic. Certain Super Special Moves (a.k.a level 1 supers) can cancel into MAX Super Special Moves (a.k.a level 2 supers) or Climax Super Special Moves (a.k.a level 3 supers) during certain parts of their animation. Canceling level 1 supers into level 2 supers is known as an '''Advanced Cancel''' and can only be done if the level 1 and level 2 super are not of the same type - e.g. you cannot cancel Kyo's Orochinagi (2141236A or C) into MAX Orochinagi (2141236AC). Canceling level 1 or level 2 supers into level 3 supers is known as a '''Climax Cancel'''.
+
+===Kara Cancelling===
+
+You can Kara the first two frames of any special move into any EX move.
+
+For example, let's say you play Shingo, and input a DP C, and then immediatly BD, you can benefit from the first frame(s) of invulnerability of the DP, and then have the command grab resolve
+Doing that, if you Kara the first frame, you get one frame of invul from the DP and the startup of your grab is now 1+8. 
+If you Kara the second frame, then you get two and your grab is now 2+8
+
+===Throws===
+
+====Normal Throw====
+
+Normal throws are performed by inputting [[File:bk.gif]]/[[File:fd.gif]][[File:c.gif]] or [[File:bk.gif]]/[[File:fd.gif]][[File:d.gif]] when near an opponent to execute an unblockable normal throw. Some characters (like Athena for example) can perform mid-air throws. Normal throws have 1 frame startup allowing them to beat meaties. The range is quite short meaning a throw attempt at poor spacing can be beaten by a meaty.
+
+To break normal throw, press [[File:bk.gif]]/[[File:fd.gif]][[File:c.gif]] or [[File:bk.gif]]/[[File:fd.gif]][[File:d.gif]] during the first 11 frames during the throw animation. A normal throw break is not possible if a character is thrown during normal roll or during a move's recovery.
+
+If you and your opponent enter a throw command at the same time, you can execute a throw dodge or throw break. The first player who inputted the throw command will recover 2 frames faster than the other player. If both players inputted their throw on the same frame, the game will essentially pick a random player to have the advantage.
+
+There is natural throw invincibility for 10f immediately after hitstun, blockstun, getting up from a knockdown, and landing from an air reset. This means that if someone is attempting to tick throw (throwing after hitting an opponent to set it up easier), the defender can potentially mash out of it as long as it's within this 10f window.
+
+Every character gains 12F of throw protection after proximity block ends to avoir proximity block tick-thow, unless you break the animation (apart from K' that seems to have 35f of returning to idle state instead of 12f).
+
+Also, it's good to remember here that pre-jump frames are throw-invincible. So does backdash until it enters recovery stage.
+
+A Recovery Roll (pressing [[File:a.gif]]+[[File:b.gif]] when landing from a soft knockdown) has no throw invincibility however, meaning that meaty throws are much more of a threat here.
+
+To input a throw while running, run up to your opponent and press [[File:bk.gif]]+[[File:c.gif]]/[[File:d.gif]]. The earliest normal run throw is 16 frames: Run for fourteen frames, walk back for one frame at frame 15, b+C/D on frame 16.
+
+{| class="wikitable"
+!colspan="1"|Distance
+!colspan="1"|Characters
+|-
+|-
+|7.24
+|King of Dinosaurs
+|-
+|-
+|6.74
+|Dolores normal throw C
+|-
+|5.74
+|The rest
+|}
+
+====Command Throw (also known as Command Grab or Special Move Throw)====
+
+All command throws have a motion sequence similar to other special moves. Some command throws must have your opponent close to them to connect, while some have running animations. All command throws have whiff animations, and some may be blocked or easily evaded.
+
+If both a normal throw and a command throw are active at the same time, the command grab wins. If two command throws are active at the same time, both throws will whiff.
+
+===Universal Hitstun and Blockstun===
+
+Most normal attacks share the same blockstun across the cast. For example, Kyo's cl.C has the same blockstun as Iori's f.C. The difference in frame advantage is a result of each move's distinct active and recovery frames. Note that there are exceptions, such Iori's j.4B, which have a unique amount of blockstun.
+
+For grounded attacks, hitstun is technically identical to blockstun. However, the person getting hit experiences two additional frames of hitstop. This effectively means that hitstun is always 2 frames longer than blockstun. Air attacks also share this hitstop discrepancy, but possess a unique amount of hitstun that is independent of blockstun.
+
+These values begin the count from the connecting active frame. As such, you will be looking at lights cancelled into 14f startup specials/command normals for combos and 20f for heavies, and for airtight strings you will be looking at 12f and 18f for lights and heavies respectively.
+
+{| class="wikitable" style="margin: 1em auto 1em auto"
+!colspan="1"|Move
+!colspan="1"|Hitstun
+!colspan="1"|Blockstun
+|-
+|-
+|-
+|Grounded A/B
+|14
+|12
+|-
+|Grounded C/D
+|20
+|18
+|-
+|Ground CD (Blowback)
+|KND
+|22
+|-
+|Grounded Command Normal
+|Various
+|Various
+|-
+|Air A/B
+|12
+|12
+|-
+|Air C/D
+|12
+|15
+|-
+|Hop CD (Blowback)
+|KND
+|18
+|-
+|Jump CD (Blowback)
+|KND
+|22
+|}
+
+Info courtesy of [https://twitter.com/bearhugprime Gelatin]
+
+===Chip Damage===
+
+All special attacks and super attacks can inflict "chip damage" when blocked, provided that the hit does damage at all (i.e. no chip damage on attacks whose first hit does 0 damage, such as hitgrabs). Notably, Haohmaru and Darli can also deal chip damage on block with their AC command normals, but there are no other exceptions.
+Of course, chip damage is still much less damaging than taking the hit. Chip damage in this game '''can and will''' kill a defender if it brings their health bar to 0. Perfect blocking does not reduce chip damage.
+
+The amount of chip damage a defender receives is determined via the following:
+'''Chip damage = trunc(Normal Damage / 6)'''
+
+Trunc meaning you round down to the integer; in other words, just divide the attack’s damage on hit by 6 and remove all numbers after the decimal to get your chip damage value. For example, the truncated value of 57.88 is 57.
+
+If a move does 60 damage on hit, the defender will take 10 damage on block.
+If a move does 65 damage on hit, the defender will take 10 damage on block.
+If a move does 66 damage on hit, the defender will take 11 damage on block.
+
+==Offensive Strategy==
+
+===Frametraps===
+
+A frametrap is a series of attacks that leaves a gap in blockstun too small for the opponent to interrupt with normal attacks.  The fastest normals in KoF XV start in 4f so these strings have a smaller gap than that.  Jumping also has 4f startup and the guard point on shatter strike starts in 4f so a proper frametrap beats several options from the defender.  
+
+You can make frametraps by using a fast button after a move with frame advantage. Many characters have a close A that's plus on block and a close C that will frametrap afterwards.  You can also frametrap by cancelling normals into command normals or special moves.  Some special moves can frametrap with their followups as well.  
+
+You can test frametraps by setting the training dummy to reversal shatter strike.  If the dummy blocks the second hit of your string then they were stuck in blockstun and unable to act.  If the dummy gets hit out of shatter strike startup then the string is a solid frametrap that leaves a 1-3f gap in blockstun. If the shatter strike works then the string has a 4f or bigger gap in blockstun. 
+
+You may want to sometimes use strings with a gap wider than 3f.  You'll lose if the defender mashes out immediately, but this can punish delayed button presses aka fuzzy mash.
+
+===Pressure Resets===
+
+When a frametrap is blocked, the attacker is generally pushed away.  Once the attacker is pushed away enough, their turn ends and the game returns to a somewhat neutral state in midrange. A pressure reset aims to get close to the defender again so the attacker can continue their turn.  The attacker is generally open to counterattack while they attempt to reset pressure.  This is the opposite of a frametrap.  The two concepts complement each other.  The attacker aims to make it ambiguous when they will use a frametrap or a pressure reset so the defender has to guess when they should or should not try to interrupt.   
+
+General examples of pressure resets are 2A run or 2A hop.  The 2A doesn't put the defender in enough blockstun to prevent them from contesting the approach.  The attacker is counting on the defender to hesitate.  
+
+Some characters have moves that are plus on block with long startup as a tradeoff.  These are another type of pressure reset.  Sylvie 214C is a good example.
+
+===Strike/Throw Mixups===
+
+Throws explicitly beat blocking but they can only be applied at close range.  Because of the throw invincibility the defender is given, they have to sit there for awhile in order to be thrown.  This ties in with the above topics: frametraps dissuade the defender from mashing or jumping while pressure resets get the attacker close enough to threaten throw. 
+
+The defender has to stand up to break a throw.  This means they cannot block low at the same time.  Strings with multiple lows can catch opponents that are looking to break a throw.  Run up throw can be made more effective with run up 2B as long as you stop short of point blank range to avoid getting thrown out of your normal.
+
+The defender also has to press a button to break a throw.  This can be taken advantage of as well.  Any frametrap where the attacker is outside of throw range will result in the opponent performing a standing heavy attack and then getting hit out of the startup of that attack.
+
+Advance Strike can be used to punish the defender for trying to break a throw.  Keep in mind the throw invincibility doesn't start on frame 1.
+
+===Dealing with wakeup throw specifically===
+
+Throws beat strikes inside of throw range. Throw range is incredibly short. Take literally one step back before you meaty and you eliminate throw as an option. This also applies to air reset situations. You can't throw the defender in either case so you have no reason to be point blank.
+
+Depending on character you can neutral jump before they get up to punish their close heavy whiffing but some of those buttons hit really high like Iori close C and will tag you anyway.
+
+Advance strike works here too.
+
+===Safejump===
+
+A safejump lets you attack a downed opponent without fear of their reversal attacks.  You perform a jumping attack early enough to land and block their dp.  If you're too early, then your attack won't make contact with them and you might get thrown after landing.  If it works then you can punish their dp or continue pressure if they blocked.  You can check if you have time to safejump off different knockdowns by setting the dummy to wakeup with a 4f dp because those are fastest.  Some examples are Ryo/Kyo/Iori/Krohnen ex dps.  You can experiment with different jump arcs, whiffing a button beforehand, running or rolling to find the right timing.
+
+Some characters have counters that become active on frame 1 so they cannot be safejumped.  Geese counter super for example.  
+
+Grapplers with invincible command grabs make this a little more complicated.  These throws are delayed so if you do a safejump then your air button will pass through them, and then you will get thrown after landing if you stay grounded. You have time to either hop again or backdash to avoid the throw and get your punish.   
+
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]

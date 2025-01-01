@@ -1,0 +1,1921 @@
+{{CharNavbox_XV}}
+<section begin="image"/>[[File:KOFXV Orochi Yashiro Profile.png|thumb|Yashiro revealed his true form as one of the Four Heavenly Kings of Orochi. With the goal of reviving Orochi, he leads Shermie and Chris headfast into battle. Unlike his usual self, he actions and demeanor are much more cruel, and he fights boldly using the power of the earth and his fearsome monstrous strength.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 40f
+<br>'''Hop:''' 32f
+<br>'''Backdash:''' 23f
+<br>'''Run Speed Ranking:''' 6
+</big></div>]]<section end="image"/>
+{{TOClimit|3}} 
+==Movelist==
+
+('''*''') = EX OK
+
+('''!''') = MAX OK 
+
+'''Throws'''
+
+Baku - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:c.gif]]
+
+Beki - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:d.gif]]
+
+'''Command Normals'''
+
+Saku - [[image:fd.gif]] + [[image:a.gif]]
+:Gou - [[image:c.gif]] + [[image:d.gif]]
+
+Bu - [[image:fd.gif]] + [[image:b.gif]]
+:Gou - [[image:c.gif]] + [[image:d.gif]]
+
+Ki - [[image:a.gif]] > [[image:c.gif]]
+
+'''Special Moves'''
+
+Niragu Daichi - [[image:hcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Musebu Daichi - [[image:hcb.gif]][[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Odoru Daichi - [[image:hcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Kujiku Daichi - [[image:qcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+:Tsubusu Daichi - [[image:a.gif]] / [[image:c.gif]]
+
+'''Super Special Moves'''
+
+Araburu Daichi - [[image:qcb.gif]][[image:qcb.gif]] + [[image:b.gif]] / [[image:d.gif]] (!)
+
+Ankoku Jigoku Gokuraku Otoshi - [[image:hcb.gif]][[image:hcb.gif]] + [[image:a.gif]] / [[image:c.gif]] (!)
+
+'''Climax Super Special Moves'''
+
+Shuuen no Daichi - [[image:qcb.gif]][[image:db.gif]][[image:qcf.gif]]+[[image:c.gif]]+[[image:d.gif]]
+
+==Quick Combo Reference==
+
+{| border="1" align="center" style="font-size:90%"
+|+ 
+===Quick Combo Reference===
+'''Notation'''
+|-
+| '''0 Meter'''
+|
+Anywhere <br/>
+Anywhere <br/>
+Corner<br/>
+|
+cl.C > 6B > CD > 6246C = 296 dmg<br/>
+426C > 66 > 6A (HKD) = 131 dmg<br/>
+|-
+| '''1 Meter'''
+|
+Anywhere<br/>
+Anywhere<br/>
+|
+cl.C > 6B > CD > 426BD > 6246AC (corner carry) = 377 dmg<br/>
+cl.C > 6B > CD > 6246C > 624624P (damage) = 480 dmg<br/>
+|-
+| '''2 Meters'''
+|
+Anywhere<br/>
+|
+cl.C > 6B > BC > cl.C > 6B > CD > 632146P > 63214663214P = 507 dmg<br/>
+|-
+|}
+
+==Gameplay Overview==
+What do you get when you cross the godly normals of Yashiro with nearly every grounded command grab in existence? You get Orochi Yashiro, a committal yet oppressive grappler that demands respect for his level of mixups and screen presence.
+
+Orochi Yashiro has nearly every grounded command grab you could wish for in a grappler: frame-1 command grab, invincible command grab, running command grab... even a leaping, side-switching command grab (if you've got half a bar). Having so many options to snag the opponent with can make Orochi Yashiro frightening to deal with.
+
+Orochi Yashiro has been changed up a bit since his last appearances in decades past—but only for the better. Kujiku Daichi (214P[P]) now has a followup (P) that he can use to apply pressure from the air, making his close-range presence all the more terrifying. Musebu Daichi (632146P[P]) can now grab opponents ''in the air'' (6246C) as well as on the ground (6246AC). Lastly, Orochi Yashiro's CD now causes a wallbounce on counterhit and a sliding hard knockdown on air hit. Overall, these improvements make Orochi Yashiro very threatening to approach, as any predictable movements can easily result in taking a lot of damage. The '''EX''' version of Odoru Daichi (41236K[[K]) even has projectile invincibility during its active frames, making it easy for Orochi Yashiro to muscle through zoning attempts up close.
+
+Another bonus Orochi Yashiro has is his above-average super damage. Ankoku Jigoku Gokuraku Otoshi (624624P[P]) has full body invincibility on startup and barely any scaling, making it an excellent, highly damaging combo ender. While Araburu Daichi (214214K[K]) doesn't combo from specials, it instead serves as a long-range punishment tool that is very useful against obvious zoning attempts, all the while doing significantly more damage than any other supers in the game (250 for level 1, 400 for level 2). Both of these supers are very difficult to punish if done correctly, which contributes to Orochi Yashiro's pressure-based gameplan. Finally, his level 3 deals nuclear damage, and can beat safejumps for those rare hard reads. All three supers grant diabolical oki, creating a snowball effect that Orochi Yashiro needs to succeed.
+
+In the end, Orochi Yashiro essentially serves as the grappler that everyone else wishes they were. Be it close quarters, mid-range, or long range, Orochi Yashiro can grab you from any distance, as long as you have the meter to do so. 
+{{StrengthsAndWeaknesses
+| intro = '''''Orochi Yashiro is a pressure and mixup-based grappler who seeks to duke it out in midrange and capitalize off any opening to get his game started.''''' 
+
+| pros=
+* '''Great Combo Damage''': Be it point, mid, or anchor, Orochi Yashiro tops the damage charts when it comes to grapplers. Fantastic scaling on D Odoru Daichi and C Musebu Daichi grant him terrific super cancel options, and the damage of his combos, on average, are above any other grappler's. 
+* '''Actually Good Pressure''': Yashiro's stagger pressure gets a sidegrade with closer staggers being a lot more reactable with (cancel)6A CD. Because of this and other aspects of his kit, Orochi Yashiro can get constant tick throws, frametraps, and pressure resets. He also has a greedy, slow pressure reset (that can cross up), which can catch opponents sleeping when used very sparingly. Having all of this puts Yashiro's pressure above any other grappler's except Clark's, who receives less reward off said frametraps and must spend more bar to retain both oki and damage.
+* '''Big Fat Buttons''': Having every normal Yashiro does grants Orochi Yashiro great midrange and aerial capabilities, allowing him to play neutral in most matchups with great efficiency.
+* '''Fantastic Light Confirms''': Orochi Yashiro's target combos give him very lengthy, very powerful hitconfirms that have ridiculous range. A keen player will be able to use this to their advantage to take any opportunity to start their pressure game. Much like his more chill counterpart, he can also link from clA into 2C, but from a further range than normal Yashiro due to dodging the nerfs.
+* '''Ridiculous Corner Carry''': Odoru Daichi has half a screen of corner carry ''all on its own''. Srsly what else needs to be said?
+* '''Offensive Potential''': Sporting one of the best crossups in the game with j.C, a great standing overhead, and the invulnerable, meter building, corner carrying, juggling Niragu Daichi, Orochi Yashiro has any nearly any mixup option a grappler would want. Additionally, his cl.A does extreme heavy lifting in making sure his worst oki isn't disadvantageous, as it gives him a great opportunity for strike throw and a hitconfirmable frametrap all in one.
+* '''Explosive Vortex''': With just one bar, Orochi Yashiro can turn the tides off any unscaled conversion. ALL of the supers Orochi Yashiro can combo into give him enough oki to go for either a safejump or a very ambiguous crossup. And don't even think of rolling, because his far.C is so large that a keen player can react to any roll direction and punish you for it. It is one of the most devious left/right mixups in the game, and results in high damage to boot. This is further empowered if he has another bar, allowing him to end games off just 2 or three interactions. 
+* '''Meter Build''': Due to being able to combo two command grabs in one combo meterlessly, Orochi Yashiro tends to have better meter economy than his peers.
+| cons=
+* '''Committal''': Much of Orochi Yashiro's gameplan is committal, and a messed up confirm, whiffed command grab, or simply accidentally confirming off a stuffed shorthop with a ground throw can mean his demise. This means Orochi Yashiro can't simply do normal > cancel like his less grapply counterpart, which will end up with him overall getting less openings from neutral.
+* '''Counter Hit Punishable''': Building on the last con, all of Orochi Yashiro's command grabs are counter hit punishable on whiff, making a mistake on offense or defense more costly than for other characters. The wrong command grab at the wrong time could mean death when other characters would survive guessing wrong. 
+* '''Bad Oki on Highest Damage Grab''': OYash's oki on his highest damage grab (and best ender) is so bad that he requires a microwalk back in order to not get hit with a reversal throw in the corner, leaving his damage off raw meterless command grabs lower than other grapplers if he wants to maintain okizeme.
+* '''Easily Kept Out''': Not so much a victim to zoning thanks to 41236BD, but Orochi Yashiro's speed and size, very stubby CD, and lack of neutral skips makes him have to play neutral very honestly, allowing him to be kept out quite easily by characters with large, fast, safe buttons such as Geese, Isla, and Heidern. This means his matchup spread across the best characters in the game leaves him at a bit more of a disadvantage compared to other characters.
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_fa
+|description=
+* Special/Super cancelable
+* Chains into and from light normals
+* Target Combos into far C.
+A quick jab with plus frames. Has good range for a f.A. This not only helps it fare better in neutral, but also lets Yashiro perform longer light normal blockstrings than many other characters (e.g 2A, 2B, f.A, f.A, f.B). End light normal chains with this normal if you want to keep the pressure. Chains into itself and other A and B normals.
+
+Hit-confirming this normal into far C from other lights is what gives Orochi Yashiro some of the best light confirms in the game. This is one of the most important parts of his abare, neutral, punishment, and stagger.
+}}
+
+====Far B====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_fb
+|description=
+* Chains from light normals
+A massive quick kick. This button is excellent at controlling space and can even lead to good reward with Max Cancel. Use frequently to pester the opponent, but remember to take advantage of their annoyance to get bigger hits. Also keep in mind that the recovery is longer than your average light normal, so be wary of abusing this. Chains from A normals, making for easy Max confirms.
+}}
+
+====Far C====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_fc
+|captions=Say hi to the corner.
+|description=
+* Special/Super Cancellable.
+A far reaching punch that's cancellable. Having a cancellable far heavy in KOF is often a boon, and this normal is no exception. It's quite fast as well giving Yashiro potentially stronger punishes than other characters in certain situations.
+}}
+
+====Far D====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_fd
+|description=
+* Whiffs on crouching opponents.
+A massive roundhouse. This move as a similarly large hitbox to f.B, but has bigger damage and reaches higher, making it good at catching jumps as well. However, compared to f.B it has an even higher whiff recovery, so the commitment is higher. It also whiffs on crouchers. Still effective, but must be used more carefully, such as against opponents who hop in neutral frequently.
+}}
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_cla
+|description=
+* Special/Super Cancellable.
+* Can chain into and from lights.
+An upwards jab. With a 4 frame startup, this is a solid defense against close range hops. Has frame advantage on hit and block, and chains into other A and B normals. You can link into cl.C or 2C on hit.
+}}
+
+====Close B====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_clb
+|description=
+* Special/Super Cancelable.
+* Can chain from lights.
+A close-hitting knee. Has the same frame advantage as cl.A, and can be used in similar ways. This normal shifts Yashiro's collision box in a way that pushes him out of throw range when done on a knocked down opponent. You can use this to bait throws.
+}}
+
+====Close C====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_clc
+|description=
+* Special/Super Cancellable.
+A standard close punch. Yashiro's fastest heavy normal; use for punishes. Can link from cl.A and cl.B. Also functions as an anti air.
+}}
+
+====Close D====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_cld
+|description=
+* Special/Super Cancellable.
+* Hits low.
+
+A kick to the legs. This is a low hitting heavy normal, which gives Yashiro stronger low conversions than most of the cast. Yashiro has an easy time making his heavy normals safe as well. Use frequently to open opponents up.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_2a
+|description=
+* Can chain into and from lights.
+A crouching jab. Like Yashiro's f.A, this has good range for a 2A, leading to the same advantages. Chains into itself and other A and B normals, making for easy light confirms. Plus on block, allowing for stagger pressure.
+}}
+
+====Crouch B====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_2b
+|description=
+* Can chain into and from lights.
+* On block up close, perfectly sets up the tick throw timing for all versions of 426P (beats guard and 4 frame normals).
+A low kick. Your go-to low starter. Doesn't chain into itself or cancel into specials, but does chain into and from A normals.
+}}
+
+====Crouch C====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_2c
+|description=
+A heavy uppercut. Unlike regular Yashiro, Orochi Yashiro is still capable of connecting this move from cr.B, cl.A links, giving him an excellent low conversion game. This is typically your go-to anti-air, but if you're clever or your opponent isn't very savvy, you can just go for 6246C.
+}}
+
+====Crouch D====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_2d
+|description=
+* First hit is cancellable.
+A spinning sweep. Has great range, hits twice, and the first hit is cancellable. Shrinks Yashiro's hurtbox, allowing him to go under some jump ins. You can cancel the first hit into 214A and 214C to prevent it from being whiff punished, but you can be punished even harder if they know you're going to do this.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_jha,oyashiro_ja
+|name=jump A
+|input=j.A
+|hitboxCaptions= Hop Version, Jump Version
+|description2=
+A downwards jab. Deceptively good. This is Yashiro's fastest air button, and also has considerable active frames. Use early j.A to mix up your jump ins, or a very late j.A to trick people thinking you will empty jump low/throw.
+}}
+
+====Jump B====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_jhb,oyashiro_jb
+|name=jump B
+|input=j.B
+|hitboxCaptions= Hop Version, Jump Version
+|description2=
+An upwards kick. Good at meeting opponents in the air. Hard to hit crouchers with.
+}}
+====Jump C====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_jhc,oyashiro_jc
+|name=jump C
+|input=j.C
+|hitboxCaptions= Hop Version, Jump Version
+|description2=A downwards punch. This is Yashiro's best jump in for offense. The hitbox is wide enough to cross opponents up, especially if they're crouching.
+* Insanely active
+* Deceptively good at crossing up
+* Quite large underneath him as well.
+
+UNLIKE normal Yashiro, Orochi Yashiro lands like a normal person, and therefore this doesn't combo as leniently. Still, it's one of the best crossup tools in the game and is absolutely ridiculous.
+}}
+
+====Jump D====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_jhd,oyashiro_jd
+|name=jump D
+|input=j.D
+|hitboxCaptions= Hop Version, Jump Version
+|description2=
+An arcing kick. Has incredible horizontal range. Neutral hop j.D to control space. This is easier to low profile than j.C so be careful.
+}}
+
+===Rush Moves===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_rush1,oyashiro_rush2
+|name=rush
+|input=cl.AA/cl.AAX
+|description2=
+* Enders include 632146A, punch super, and Climax. 
+
+Unlike Dinosaur and Clark, Orochi Yashiro has no need for rush combo. Anything this can do is done better either by a three-light sequence or his target combo.
+
+In addition to being outclassed, Orochi Yashiro's rush combo ends in a command grab, making it genuinely terrible on block. 
+}}
+
+===Blowback===
+====Blowback====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_cd
+|description= A shoulder tackle blowback.
+* On hit, Yashiro can always confirm with a 6B provided he runs far enough.
+* Causes a sliding hard knockdown on air hit.
+* Wall bounces on air or ground counter-hit.
+* Can whiff-cancel into any of his command grabs to give them more range.
+
+Very high reward blowback with horrible range for its startup. Orochi Yashiro leans back during the start-up which lets him dodge some moves making this somewhat of an effective counter poke. You can sometimes try to use this after blocked A normals to evade your opponent's attempt to take their turn and effectively steal your turn back. Safe on block and even plus on at the perfect spacing.
+
+When compared with normal Yashiro, Orochi Yashiro's blowback is 2 frames slower and has shorter range, but it wallbounces on counterhit and knocks down on air hit. These aspects make it quite a bit more rewarding than your average stand CD, and make up both for OYash's lack of good CD cancel options and slower startup.
+}}
+
+====ShatterStrike====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_236cd
+|description=
+Good hitbox for a Shatter Strike.
+}}
+
+====AdvanceStrike====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_214cd
+|description=
+*Same animation and range as his CD.
+
+* The throw counter is at the feet.
+
+}}
+
+====jump CD====
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_jhcd,oyashiro_jcd
+|name=jump CD
+|input=j.CD
+|hitboxCaptions= Hop Version, Jump Version
+|description2=
+A upwards kick. Great horizontal range. Can use for jumping in and for controlling space in neutral. When used as a jump in, make sure to delay it a little to avoid being low-profiled.
+}}
+
+==Throws==
+===Baku===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_cthrow
+|name=Baku 
+|input=(close) 4/6C
+|description=
+* Grants a safe jump anywhere with manual timing. 
+* Alternatively, you can do empty 214C after the grab and still be plus.
+
+You'd think that a character with frame 1 and invincible command grabs would have no use for his regular throw, but that's where you'd be wrong. 
+
+This throw is actually amazing on defense. If an opponent tries to hop or jump to bait out your other command grabs, they have to deal with Orochi Yashiro's 4f close C, which not only is extremely fast for a heavy, but is more than capable of stuffing hops and jumps while being safe against, if not hitting, backdashes. It also gives Orochi Yashiro a safe jump anywhere on the screen on hit, although you may have to manually time your jump. Alternatively, you can do an empty 214C after the throw to follow and potentially threaten your opponent into some kind of panic reversal.
+}}
+===Beki===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_dthrow
+|name=Beki 
+|input=(close) 4/6D
+|description=
+* Using 2A as a frame kill lets Yashiro hop in for a safe jump if you corner the opponent with this throw.
+
+Orochi Yashiro's only (meterless) throw that switches sides, which alone makes it pretty useful. Keep in mind that if you input 6D against more passive players while you're point blank, either they're blocking low and they get thrown, or they're trying to walk out of throw range and they get hit by Yashiro's strongest starter. Not something you actively want to go for every time, since there are ways to play around it, but it's worth thinking about.
+}}
+
+==Command Moves==
+===Saku===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_6a
+|name=Saku 
+|input=6A
+|hitboxCaptions= Raw Version, Cancel Version
+|description=
+* Overhead.
+* Values in [] indicate when move is cancelled into
+* 6246AC is guaranteed after the raw overhead version.
+* Raw overhead or otg version can be followed with cl.A (whiff) > immediate hop/hyper hop safe jump vs 4 frame reversals.
+
+A slamming overhead. When done by itself, hits overhead and causes a hard knockdown. Hits OTG (off the ground), tacking on additional damage after a super and setting up a safe jump with whiffed cl.A > immediate hop. The range is good, and while it can't be comboed after with a Max Cancel, it is unique among overhead command normals in having substantial reward meterless with its knockdown. Safe on block. When canceled from a normal, combos from heavy normals and can be canceled, and is generally quite safe, giving it some niche use cases over 6B. When canceled from light normals, this acts as a frame trap and is incredibly important in Orochi Yashiro's pressure game.
+}}
+
+===Bu===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_6b
+|name=Bu 
+|input=6B
+|hitboxCaptions= Raw Version, Cancel Version
+|description=A step kick. Has a lot of range and is cancellable giving it potential use in neutral. It even causes a juggle state on air hit, allowing for combos if your opponent gets hit out of a hop. It's quite slow however and vulnerable on whiff. This does more damage than 6A and functions the same when canceled from heavies, and also can be used to extend juggle combos.
+}}
+
+===Gou===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_6a_cd
+|name=Gou 
+|input=6B/6B~CD
+|description=* CD cancel after command normals.
+* Can be followed up with 6246C, 426BD, or 214C~P.
+
+While this has the same input and animation as Orochi Yashiro's blowback, it has different properties. Only usable after canceling into one of his command normals (6A or 6B), this move will '''not''' cause a wallsplat, and does less damage that his regular blowback. It is essentially used to tack on extra damage in Orochi Yashiro's combos and allow comboing into 632146C or 214C~P.
+}}
+
+===Ki===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_a_c
+|name=Ki
+|input=5A~C
+|description=
+* This unique chain works from both close A and far A.
+* The C has much more recovery than raw far C and is punishable on block from most distances.
+}}
+
+==Special Moves==
+===Niragu Daichi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_41236a,oyashiro_41236c,oyashiro_41236ac
+|name=Niragu Daichi
+|input=41236A/C/AC
+|imageCaptions= You'll only see this animation if you whiffed. Try not to do that.
+|hitboxCaptions= Normal Version, , EX Version
+|description3=
+* All versions are strike and throw invulnerable on frame 1.
+* The 426AC EX version has more range than the normal version.
+* All versions can be followed up with OTG 6A (max damage and hard knock down for no additional meter).
+* 426P > roll forward > 2A (whiff) > normal jump forward will safe jump 4-frame reversals. Midscreen you can dash~super jump after 2A to set up cross up j.C.
+* The EX version scales damage less than the regular versions, leading to quite efficient damage with 6B 6246C > 624624P/AC super cancel.
+* A/C versions adds 25% DR. EX adds 20% DR (hence damage values in parenthesis)
+
+Orochi Yashiro's slower, but invincible command grab. It can snag opponents trying to press against Orochi Yashiro, but most importantly, by following up this command grab with 6B > 6246C, Orochi Yashiro can increase its relatively weak damage output, send the opponent closer to the corner, and even after 6246C he can follow it up with his 624624P super or level 3. These options make this command grab all the more scarier.
+}}
+
+===Musebu Daichi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_632146a,oyashiro_632146c,oyashiro_632146ac
+|name=Musebu Daichi
+|input=632146A/C/AC
+|hitboxCaptions= A Version (Ground Grab), C Version (Air Grab), , EX Version (OTG Grab)
+|description3=
+* Light version grabs grounded opponents, heavy version grabs aerial opponents.
+* EX version only confirms OTG.
+* Has bad oki that becomes genuinely horrible in the corner.
+* Great scaling.
+
+Orochi Yashiro's signature frame-1 command grab. Compared to his previous iterations, it has significantly more utility. Now, this command grab can snatch an opponent regardless of what state they are in, be it grounded, aerial, or knocked down. Thus, this command grab is a signature part of Orochi Yashiro's pressure/combo game.
+
+Musebu is a great combo filler thanks to its lengthy animation, good scaling and multiple different versions. The A version Yashiro's primary mixup option, and the C version allows for comboing off of 6B~CD or snagging opponents trying to jump. The EX version is notable in that it removes OTG and pulls opponents off of the ground., but the scaling is generally pretty bad at the end of a long combo. It's best used after Odoru (426K). 
+
+Musebu's greatest feature is it's extremely lengthy cancel window into Ankoku Jigoku (624624P). This allows O.Yashiro to buffer a super any time he has one bar, jacking up the combo damage of his confirms to incredible heights. Turning a normal command grab into nearly 250 damage, or jacking up a basic heavy confirm into 500~ damage is a great way to terrify your opponent into submission. 
+}}
+
+===Odoru Daichi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_41236b,oyashiro_41236d,oyashiro_41236bd
+|name=Odoru Daichi
+|input=41236B/D/BD
+|hitboxCaptions= B Version, D Version, EX Version
+|description3=
+* Light version is a true running grab, heavy version is a hitgrab but does more damage.
+* EX version is also a hitgrab, but goes through projectiles during the running animation and leaves the opponent right in front of Orochi Yashiro.
+* Heavy and EX versions do not inflict any guard or chip damage if blocked.
+
+Orochi Yashiro's running command grab. The light version has little use, beyond catching the opponent off guard. The heavy version, although being a hitgrab and thus needing to be confirmed, is much more important. It has better damage, better oki, and can be comboed into 6246AC in the right scenarios.
+
+While the EX version can only be followed up with 6246AC, it is powerful in its own right. Its active frame vulnerability makes it go through projectiles, allowing Orochi Yashiro to shrug off zoning attempts. Furthermore, it knocks the opponent down right in front of Orochi Yashiro, leading to better oki.
+}}
+
+===Kujiku Daichi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_214a,oyashiro_214c,oyashiro_214ac
+|name=Kujiku Daichi
+|input=214A/C/AC
+|imageCaptions= , Sideswitch grab from previous games.
+|hitboxCaptions= Normal Version, EX Version
+|description3=
+* 214AC is Orochi Yashiro's old hitgrab and applies a scaling penalty of 20% (80 > 64 / 70 > 56)
+
+Kujiku Daichi is a strange command jump with a single followup if used meterless. This special is useful as a knowledge-check; if they don't try to anti-air you, use the follow-up late to stay plus. If they try to anti-air you, use the follow-up early to condition them into not anti-airing.
+
+The '''EX''' version is unblockable with a +20 frame advantage, giving Orochi Yashiro plenty of time to run up and perform a close heavy starter. Do note that it will scale the following combo, starting at 20%.
+
+
+
+}}
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_214a_p,oyashiro_214c_p
+|name=Tsubusu Daichi
+|input=214A/C~P
+|imageCaptions= Condition them into not anti-airing you
+|hitboxCaptions= A Version, C Version
+|description2= The followup you should be doing.
+* ~+3-~+6 when done as late as possible.
+* Deals 16/20 chip damage.
+
+Decent pressure reset, but it's on a grappler so it's actually a good ass pressure reset. Considering that you can frametrap 2A 5A after this ''and'' it will beat shatter strike, this tool is quite important to keeping the opponent scared, as it adds yet another option to Orochi Yashiro's pressure game. In addition to pressure, 214C~P combos from [[The_King_of_Fighters_XV/Orochi_Yashiro#Gou|Gou]], doing less damage than other combo options but giving much better oki.
+
+Speaking of options: Orochi Yashiro can actually do quirky ambiguous crossups with this move, though they are very unsafe. Alternatively, he can also do plus on block but reactable crossups with 214A vs 214C. There are also many ways to set up leftrights where crossup is plus and unreactable, while same side is punishable and unreactable. Why do these two moves have so much that you can do with them? Because he needs it.
+}}
+
+==Super Special Moves==
+===Ankoku Jigoku Gokuraku Otoshi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_6321463214p,oyashiro_6321463214ac
+|name=Ankoku Jigoku Gokuraku Otoshi
+|input=6321463214A/C/AC
+|hitboxCaptions= Normal Version, Max Version
+|description2=
+* ''The'' combo ender super.
+
+Orochi Yashiro's signature command grab super, and the only one out of his two Super Special moves that can be used as a combo ender after a special. It's also the only one you need.
+
+Comboing into this can immediately jack up the damage of any confirm. A basic heavy confirm can deal upwards of 500 damage ''without any EXs'' thanks to this move, not to mention the MAX version. O.Yash wants to keep meter banked to access this move, though it's noteworthy that the damage can be heavily scaled depending on what you cancel into it from. 
+
+For a grappler, this move does a lot of damage, even more than Clark and Shermie. This is probably the move that will be on your opponent's mind the most during a match, as comboing into this will hurt a ''lot.''
+}}
+
+===Araburu Daichi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_214214k,oyashiro_214214bd
+|name=Araburu Daichi
+|input=214214B/D/BD
+|hitboxCaptions= Normal Version, Max Version
+|description2=
+* D version causes Orochi Yashiro to leap farther than the B version.
+
+Orochi Yashiro's leaping command grab super. Does more damage than his other command grab super, but it is not as useful or easy to perform as a combo ender. This move is mostly intended to catch the opponent off guard if they try to run away from Orochi Yashiro or for punishing fireballs.
+}}
+
+==Climax==
+===Shuuen no Daichi===
+{{FrameDataCargo-KOFXV
+|moveId=oyashiro_2141236cd
+|input=2141236CD
+|description=
+* Counter by default. Transitions into a standard super if cancelled from specials.
+
+Frame-1 counter/climax super with great damage. Combined with Orochi Yashiro's already high damage output, this can easily spell the end of a round if used properly.
+
+}}
+
+==Misc==
+
+{{Colors-KOFXV}}
+ 
+==Videos==
+{{#ev:youtube|fnQ3zwO5N_A|||'''TEAM AWAKENED OROCHI Reveal Trailer'''|frame}}
+
+{{CharNavbox_XV}}
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]
+[[Category: Orochi Yashiro]]
+
+{{CharNavbox_XV}}
+==General Gameplan==
+
+==Neutral==
+
+==Pressure==
+
+==Mixups==
+
+==Defense==
+
+==Safejumps==
+{{#ev:youtube|fR7KbndViL4|||'''Orochi Yashiro Safe Jumps by B Cole'''|frame}}
+
+<ul><li> (after 6321463214P in corner) '''cl.5A 2A jump''' - 4F safe, or 6F safe against wide opponents that push Yashiro out of cl.5A's proximity. Is not safe against Ryo as he is wide and possesses a 4F reversal. <div class="mw-collapsible mw-collapsed" data-expandtext="show video example" data-collapsetext="hide video example">{{#ev:youtube|fK3TpmBZvRM}}</div></ul>
+
+==Countering Orochi Yashiro==
+
+==External Resources==
+
+
+{{Navbox XV}}
+
+[[Category:Orochi Yashiro]]
+[[Category:The King of Fighters XV]]
+
+{{CharNavbox_XV}}
+===Close Standing Normals===
+====close A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_cla
+| name        = close A
+| input       = cl.A
+| images      = XV_oyashiro_cA_ima.png
+| hitboxes    = XV_oyashiro_cla.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 4
+| active      = 4
+| recovery    = 6
+| hitadv      = +5
+| blockadv    = +3
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====close B====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_clb
+| name        = close B
+| input       = cl.B
+| images      = XV_oyashiro_cB_ima.png
+| hitboxes    = XV_oyashiro_clb.png
+| damage      = 30
+| guard       = Mid
+| cancel      = command
+| startup     = 6
+| active      = 5
+| recovery    = 5
+| hitadv      = +5
+| blockadv    = +3
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====close C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_clc
+| name        = close C
+| input       = cl.C
+| images      = XV_oyashiro_cC_ima.png
+| hitboxes    = XV_oyashiro_clc.png, XV_oyashiro_clc2.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 4
+| active      = 6
+| recovery    = 17
+| hitadv      = -2
+| blockadv    = -4
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====close D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_cld
+| name        = close D
+| input       = cl.D
+| images      = XV_oyashiro_cD_ima.png
+| hitboxes    = XV_oyashiro_cld.png
+| damage      = 80
+| guard       = Low
+| cancel      = command
+| startup     = 6
+| active      = 5
+| recovery    = 13
+| hitadv      = +3
+| blockadv    = +1
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Far Standing Normals===
+====far A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_fa
+| name        = far A
+| input       = f.A
+| images      = XV_oyashiro_fA_ima.png
+| hitboxes    = XV_oyashiro_fa.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 4
+| recovery    = 8
+| hitadv      = +3
+| blockadv    = +1
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====far B====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_fb
+| name        = far B
+| input       = f.B
+| images      = XV_oyashiro_fB_ima.png
+| hitboxes    = XV_oyashiro_fb.png
+| damage      = 30
+| guard       = Mid
+| cancel      = super
+| startup     = 6
+| active      = 4
+| recovery    = 15
+| hitadv      = -4
+| blockadv    = -6
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====far C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_fc
+| name        = far C
+| input       = f.C
+| images      = XV_oyashiro_fC_ima.png
+| hitboxes    = XV_oyashiro_fc.png
+| damage      = 70
+| guard       = Mid
+| cancel      = special
+| startup     = 9
+| active      = 3
+| recovery    = 20
+| hitadv      = -2
+| blockadv    = -4
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====far D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_fd
+| name        = far D
+| input       = f.D
+| images      = XV_oyashiro_fD_ima.png
+| hitboxes    = XV_oyashiro_fd.png
+| damage      = 80
+| guard       = Mid
+| cancel      = super
+| startup     = 9
+| active      = 4
+| recovery    = 27
+| hitadv      = -10
+| blockadv    = -12
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Crouch Normals===
+====crouch A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_2a
+| name        = crouch A
+| input       = 2A
+| images      = XV_oyashiro_2A_ima.png
+| hitboxes    = XV_oyashiro_2a.png
+| damage      = 25
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 4
+| recovery    = 8
+| hitadv      = +3
+| blockadv    = +1
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====crouch B====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_2b
+| name        = crouch B
+| input       = 2B
+| images      = XV_oyashiro_2B_ima.png
+| hitboxes    = XV_oyashiro_2b.png
+| damage      = 15
+| guard       = Low
+| cancel      = super
+| startup     = 7
+| active      = 3
+| recovery    = 13
+| hitadv      = -1
+| blockadv    = -3
+| invul       = 
+| stun        = 15
+| guardDamage = 
+}}
+
+====crouch C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_2c
+| name        = crouch C
+| input       = 2C
+| images      = XV_oyashiro_2c_ima.png
+| hitboxes    = XV_oyashiro_2c.png, XV_oyashiro_2c2.png
+| damage      = 70
+| guard       = Mid
+| cancel      = command
+| startup     = 5
+| active      = 4
+| recovery    = 24
+| hitadv      = -8
+| blockadv    = -10
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====crouch D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_2d
+| name        = crouch D
+| input       = 2D
+| images      = XV_oyashiro_2d_ima.png
+| hitboxes    = XV_oyashiro_2d.png, XV_oyashiro_2d2.png
+| damage      = 80
+| guard       = Low
+| cancel      = command
+| startup     = 10
+| active      = 5 (3) 5
+| recovery    = 23
+| hitadv      = SKD (13: Tech / 40: Non-tech) - 1st hit
+| blockadv    = -9
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===jump normals===
+====hop A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jha
+| name		  = hop A
+| header      = yes
+| version	  = hop A
+| orderId	  = 1
+| input		  = jh.A
+| images	  = XV_oyashiro_jA_ima.png
+| hitboxes	  = XV_oyashiro_hA.png
+| damage	  = 40
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|High]]
+| cancel	  = 
+| startup	  = 6
+| active	  = 10
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 30
+| guardDamage = 50
+}}
+====jump A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_ja
+| name		  = jump A
+| header      = no
+| version	  = jump A
+| orderId	  = 2
+| input		  = j.A
+| images	  = XV_oyashiro_jA_ima.png
+| hitboxes	  = XV_oyashiro_jA.png
+| damage	  = 45
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|High]]
+| cancel	  = 
+| startup	  = 6
+| active	  = 12
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop B====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jhb
+| name		  = hop B
+| header      = yes
+| version	  = hop B
+| orderId	  = 1
+| input		  = jh.B
+| images	  = XV_oyashiro_jB_ima.png
+| hitboxes	  = XV_oyashiro_hB.png
+| damage	  = 40
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|High]]
+| cancel	  = 
+| startup	  = 8
+| active	  = 9
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 30
+| guardDamage = 50
+}}
+====jump B====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jb
+| name		  = jump B
+| header      = no
+| version	  = jump B
+| orderId	  = 2
+| input		  = j.B
+| images	  = XV_oyashiro_jB_ima.png
+| hitboxes	  = XV_oyashiro_jB.png
+| damage	  = 45
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|High]]
+| cancel	  = 
+| startup	  = 8
+| active	  = 9
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+
+====hop C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jhc
+| name		  = hop C
+| header      = yes
+| version	  = hop C
+| orderId	  = 1
+| input		  = jh.C
+| images	  = XV_oyashiro_jC_ima.png
+| hitboxes	  = XV_oyashiro_hC.png, XV_oyashiro_hC2.png
+| damage	  = 70
+| guard		  = [[The_King_of_Fighters_XV/Defense#High|High]]
+| cancel	  = 
+| startup	  = 9
+| active	  = 6
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 70
+| guardDamage = 100
+}}
+====jump C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jc
+| name		  = jump C
+| header      = no
+| version	  = jump C
+| orderId	  = 2
+| input		  = j.C
+| images	  = XV_oyashiro_jC_ima.png
+| hitboxes	  = XV_oyashiro_jC.png, XV_oyashiro_jC2.png
+| damage	  = 70
+| guard		  = [[The_King_of_Fighters_XV/Defense#High|High]]
+| cancel	  = 
+| startup	  = 9
+| active	  = 7
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+====hop D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jhd
+| name		  = hop D
+| header      = yes
+| version	  = hop D
+| orderId	  = 1
+| input		  = jh.D
+| images	  = XV_oyashiro_jD_ima.png
+| hitboxes	  = XV_oyashiro_hD.png
+| damage	  = 70
+| guard		  = [[The_King_of_Fighters_XV/Defense#High|High]]
+| cancel	  = 
+| startup	  = 8
+| active	  = 7
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jd
+| name		  = jump D
+| header      = no
+| version	  = jump D
+| orderId	  = 2
+| input		  = j.D
+| images	  = XV_oyashiro_jD_ima.png
+| hitboxes	  = XV_oyashiro_jD.png
+| damage	  = 70
+| guard		  = [[The_King_of_Fighters_XV/Defense#High|High]]
+| cancel	  = 
+| startup	  = 8
+| active	  = 8
+| recovery	  = 1 on ground
+| hitadv	  = 
+| blockadv	  = 
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===rush moves===
+====rush 1====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_rush1
+| name        = rush 1
+| header      = yes
+| version     = cl.AA
+| orderId     = 1
+| input       = cl.AA
+| images      = XV_oyashiro_rush1_ima.png
+| hitboxes    = XV_oyashiro_rush1.png
+| damage      = 23
+| guard       = Mid
+| cancel      = 
+| startup     = 5
+| active      = 4
+| recovery    = 
+| hitadv      = -6
+| blockadv    = -8
+| invul       = 
+| stun        = 0
+| guardDamage = 60
+}}
+
+====rush 2====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_rush2
+| name        = rush 2
+| header      = no
+| version     = cl.AAX
+| orderId     = 2
+| input       = cl.AAX
+| images      = XV_oyashiro_rush2_ima.png
+| hitboxes    = XV_oyashiro_rush2.png
+| damage      = 22
+| guard       = Mid
+| cancel      = 
+| startup     = 6
+| active      = 5
+| recovery    = 
+| hitadv      = -5
+| blockadv    = -7
+| invul       = 
+| stun        = 0
+| guardDamage = 60
+}}
+
+===Command normals===
+====Saku====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_6a
+| name        = Saku 
+| input       = 6A
+| images      = XV_oyashiro_6A_ima.png
+| hitboxes    = XV_oyashiro_6a.png, XV_oyashiro_6a2.png
+| damage      = 70 [35]
+| guard       = High [Mid]
+| cancel      = max [special]
+| startup     = 24 [15]
+| active      = 3
+| recovery    = 19 [21]
+| hitadv      = KND (+42) [-3]
+| blockadv    = -3 [-5]
+| invul       = 
+| stun        = 90 [40]
+| guardDamage = 110 [60]
+}}
+
+====Bu====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_6b
+| name        = Bu 
+| input       = 6B
+| images      = XV_oyashiro_6B_ima.png
+| hitboxes    = XV_oyashiro_6b.png, XV_oyashiro_6b2.png
+| damage      = 50
+| guard       = Mid
+| cancel      = special
+| startup     = 15 [18]
+| active      = 5
+| recovery    = 24
+| hitadv      = -8
+| blockadv    = -10
+| invul       = 
+| stun        = 40
+| guardDamage = 80
+}}
+
+====Gou====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_6a_cd
+| name        = Gou
+| input       = 6A/6B~CD
+| images      = XV_oyashiro_fCD_ima.png
+| hitboxes    = XV_oyashiro_6A_CD.png
+| damage      = 60
+| guard       = Mid
+| cancel      = special
+| startup     = 16
+| active      = 3
+| recovery    = 25
+| hitadv      = SKD (30: Tech / 70: Non-tech)
+| blockadv    = -5 (Close) to -3 (Max Range)
+| invul       = 
+| stun        = 50
+| guardDamage = 50
+}}
+
+====Ki====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_a_c
+| name        = Ki
+| input       = 5A~C
+| images      = XV_oyashiro_ac_ima.png
+| hitboxes    = XV_oyashiro_fc.png
+| damage      = 72 (25+50)
+| guard       = Mid
+| cancel      = special
+| startup     = 9
+| active      = 3
+| recovery    = 30
+| hitadv      = -12
+| blockadv    = -14
+| invul       = 
+| stun        = 80 (30+50)
+| guardDamage = 
+}}
+
+===Blowback===
+====Blowback====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_cd
+| name		  = Blowback
+| input		  = CD
+| images	  = XV_oyashiro_fCD_ima.png
+| hitboxes    = XV_oyashiro_cd.png
+| damage      = 75
+| guard       = Mid
+| cancel      = special
+| startup     = 16
+| active      = 5
+| recovery    = 20
+| hitadv      = Splat (+75~+91)
+| blockadv    = -2 (Close Range) to 2 (Max Range)
+| invul       = 
+| stun        = 100
+| guardDamage = 160
+}}
+
+====ShatterStrike====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_236cd
+| name		  = ShatterStrike
+| input		  = 236CD
+| images	  = XV_oyashiro_236CD_ima.png
+| hitboxes    = XV_oyashiro_236cd.png, XV_oyashiro_236cd2.png
+| damage      = 75
+| guard       = Mid
+| cancel      = 
+| startup     = 15
+| active      = 6
+| recovery    = 27
+| hitadv      = Crumple (+93)
+| blockadv    = -10
+| invul       = Full Body Armor: 4 to 14 (11 frames)
+| stun        = 0
+| guardDamage = 200
+}}
+
+====AdvanceStrike====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214cd
+| name        = AdvanceStrike
+| input       = 214CD
+| images      = XV_oyashiro_214cd_ima.png
+| hitboxes    = XV_oyashiro_214cd.png, XV_oyashiro_214cd2.png
+| damage      = 100
+| guard       = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel      = 
+| startup	  = 28
+| active	  = 6
+| recovery	  = 37 (on whiff) / Recovers faster on hit and block.
+| hitadv	  =  HKD (68 - Non Throw Counter Hit) / Crumple (103 - Throw Counter Hit)
+| blockadv	  = 3
+| invul		  = Full Body Armor Frames: 7 to 33 (27 frames) / Throw Counter Frames: 4 to 27 (24 Frames)
+| stun        = 0
+| guardDamage = 150
+}}
+
+====hop CD====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jhcd
+| name		  = hop CD
+| header      = yes
+| version	  = hop CD
+| orderId	  = 1
+| input		  = jh.CD
+| images	  = XV_oyashiro_jCD_ima.png
+| hitboxes    = XV_oyashiro_hcd.png
+| damage      = 80
+| guard       = Mid
+| cancel      = 
+| startup     = 12
+| active      = 8
+| recovery    = 1 on ground
+| hitadv      = SKD
+| blockadv    = 
+| invul       = 
+| stun        = 80
+| guardDamage = 120
+}}
+====jump CD====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_jcd
+| name		  = jump CD
+| header      = no
+| version	  = jump CD
+| orderId	  = 2
+| input		  = j.CD
+| images	  = XV_oyashiro_jCD_ima.png
+| hitboxes    = XV_oyashiro_jcd.png
+| damage      = 90
+| guard       = Mid
+| cancel      = 
+| startup     = 12
+| active      = 10
+| recovery    = 1 on ground
+| hitadv      = SKD
+| blockadv    = 
+| invul       = 
+| stun        = 80
+| guardDamage = 140
+}}
+
+===Throws===
+====Baku====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_cthrow
+| name        = Baku 
+| input       = (close) 4/6C
+| images      = XV_oyashiro_fthrow_ima.png
+| hitboxes    = XV_oyashiro_cthrow.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = HKD (55)
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+====Beki====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_dthrow
+| name        = Beki 
+| input       = (close) 4/6D
+| images      = XV_oyashiro_bthrow_ima.png
+| hitboxes    = XV_oyashiro_dthrow.png
+| damage      = 100
+| guard       = N/A
+| cancel      = 
+| startup     = 1
+| active      = 1
+| recovery    = 0
+| hitadv      = HKD (50)
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+==Specials==
+===Niragu Daichi===
+====41236A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_41236a
+| name        = Niragu Daichi
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 41236A
+| images      = XV_oyashiro_41236a_ima.png
+| hitboxes    = XV_oyashiro_41236a.png, XV_oyashiro_41236a2.png
+| damage      = 105 (0+150)
+| guard       = 
+| cancel      = 
+| startup     = 9
+| active      = 1
+| recovery    = 37
+| hitadv      = HKD (67)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 to 9 (9 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+====41236C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_41236c
+| name        = Niragu Daichi
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 41236C
+| images      = XV_oyashiro_41236a_ima.png
+| hitboxes    = XV_oyashiro_41236a.png, XV_oyashiro_41236a2.png
+| damage      = 105 (0+150)
+| guard       = 
+| cancel      = 
+| startup     = 9
+| active      = 1
+| recovery    = 37
+| hitadv      = HKD (67)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 to 9 (9 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+====41236AC====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_41236ac
+| name        = Niragu Daichi
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 41236AC
+| images      = XV_oyashiro_41236ac_ima.png
+| hitboxes    = XV_oyashiro_41236ac.png, XV_oyashiro_41236ac2.png
+| damage      = 192 (80+150)
+| guard       = 
+| cancel      = 
+| startup     = 9
+| active      = 1
+| recovery    = 31
+| hitadv      = HKD (67)
+| blockadv    = Unblockable
+| invul       = Upper body: 1 (1 Frame) / Full body against Physical Air Strike: 2 to 9 (9 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+===Musebu Daichi===
+====632146A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_632146a
+| name        = Musebu Daichi
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 632146A
+| images      = XV_oyashiro_632146a_ima.png
+| hitboxes    = XV_oyashiro_632146a.png
+| damage      = 160 (30+30+30+70)
+| guard       = 
+| cancel      = super
+| startup     = 1
+| active      = 1
+| recovery    = 39
+| hitadv      = HKD (10)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 (1 Frame)
+| stun        = 
+| guardDamage = 
+}}
+
+====632146C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_632146c
+| name        = Musebu Daichi 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 632146C
+| images      = XV_oyashiro_632146c_ima.png
+| hitboxes    = XV_oyashiro_632146c.png, XV_oyashiro_632146c2.png
+| damage      = 140 (30+30+30+50)
+| guard       = 
+| cancel      = super
+| startup     = 7
+| active      = 4
+| recovery    = 41
+| hitadv      = HKD (10)
+| blockadv    = 
+| invul       = Upper body invulnerable: 1 (1 frame) / Full body against non-projectile air moves: 2 to 10 (9 frames)
+| stun        = 
+| guardDamage = 
+}}
+
+====632146AC====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_632146ac
+| name        = Musebu Daichi 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 632146AC
+| images      = XV_oyashiro_632146ac_ima.png
+| hitboxes    = XV_oyashiro_632146ac.png
+| damage      = 20+20+20+60
+| guard       = 
+| cancel      = 
+| startup     = 7
+| active      = 4
+| recovery    = 30
+| hitadv      = HKD (10)
+| blockadv    = 
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+===Odoru Daichi===
+====41236B====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_41236b
+| name        = Odoru Daichi
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 41236B
+| images      = XV_oyashiro_41236b_ima.png
+| hitboxes    = XV_oyashiro_41236b.png
+| damage      = 100
+| guard       = 
+| cancel      = 
+| startup     = 20
+| active      = 5
+| recovery    = 36
+| hitadv      = HKD (41)
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+====41236D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_41236d
+| name        = Odoru Daichi
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 41236D
+| images      = XV_oyashiro_41236b_ima.png
+| hitboxes    = XV_oyashiro_41236d.png
+| damage      = 120 (0+120)
+| guard       = Mid
+| cancel      = 
+| startup     = 12
+| active      = 7
+| recovery    = 36
+| hitadv      = HKD (41)
+| blockadv    = -24
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+====41236BD====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_41236bd
+| name        = Odoru Daichi
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 41236BD
+| images      = XV_oyashiro_41236bd_ima.png
+| hitboxes    = XV_oyashiro_41236bd.png
+| damage      = 130 (0+130)
+| guard       = Mid
+| cancel      = 
+| startup     = 8
+| active      = 15
+| recovery    = 36
+| hitadv      = HKD (41)
+| blockadv    = -32
+| invul       = Projectile Invincibility: 8 to 22 (15 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+===Kujiku Daichi===
+====214A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214a
+| name        = Kujiku Daichi 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 214A
+| images      = XV_oyashiro_214a_ima.png
+| hitboxes    = XV_oyashiro_214a.png
+| damage      = 
+| guard       = 
+| cancel      = 
+| startup     = 
+| active      = 
+| recovery    = 48 (13 on ground)
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+====214C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214c
+| name        = Kujiku Daichi 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 214C
+| images      = XV_oyashiro_214c_ima.png
+| hitboxes    = XV_oyashiro_214a.png
+| damage      = 
+| guard       = 
+| cancel      = 
+| startup     = 
+| active      = 
+| recovery    = 48 (6 on ground)
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+====214AC====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214ac
+| name        = Kujiku Daichi 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 214AC
+| images      = XV_oyashiro_214ac_ima.png
+| hitboxes    = XV_oyashiro_214ac.png
+| damage      = 
+| guard       = 
+| cancel      = 
+| startup     = 32
+| active      = 10
+| recovery    = 28
+| hitadv      = 20
+| blockadv    = Unblockable
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+===Tsubusu Daichi===
+====214A/C~A====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214a_p
+| name        = Tsubusu Daichi 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 214A~P
+| images      = XV_oyashiro_214a_p_ima.png
+| hitboxes    = XV_oyashiro_214p_a.png
+| damage      = 100
+| guard       = Mid
+| cancel      = 
+| startup     = 11
+| active      = 7
+| recovery    = 15 on ground
+| hitadv      = HKD (+?)
+| blockadv    = 3 (Lowest height) to -8 (Highest height)
+| invul       = 
+| stun        = 80
+| guardDamage = 
+}}
+
+====214A/C~C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214c_p
+| name        = Tsubusu Daichi 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 214C~P
+| images      = XV_oyashiro_214a_p_ima.png
+| hitboxes    = XV_oyashiro_214p_c.png
+| damage      = 120
+| guard       = Mid
+| cancel      = 
+| startup     = 11
+| active      = 7
+| recovery    = 12 on ground
+| hitadv      = HKD
+| blockadv    = 6 (Lowest height) to -7 (Highest height)
+| invul       = 
+| stun        = 80
+| guardDamage = 
+}}
+
+==Supers==
+===Ankoku Jigoku Gokuraku Otoshi===
+====6321463214A/C====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_6321463214p
+| name        = Ankoku Jigoku Gokuraku Otoshi
+| header      = yes
+| version     = A or C
+| orderId     = 1
+| input       = 6321463214A/C
+| images      = XV_oyashiro_6321463214p_ima.png
+| hitboxes    = XV_oyashiro_6321463214p.png
+| damage      = 200 (30*6+20)
+| guard       = N/A
+| cancel      = climax
+| startup     = 3
+| active      = 2
+| recovery    = 60
+| hitadv      = HKD (+67)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 to 4 (4 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+====6321463214AC====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_6321463214ac
+| name        = Ankoku Jigoku Gokuraku Otoshi
+| header      = no
+| version     = AC
+| orderId     = 2
+| input       = 6321463214AC
+| images      = XV_oyashiro_6321463214ac_ima.png
+| hitboxes    = XV_oyashiro_6321463214ac.png
+| damage      = 350 (20+30*7+120)
+| guard       = N/A
+| cancel      = climax
+| startup     = 1
+| active      = 2
+| recovery    = 59
+| hitadv      = HKD (+42)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 to 2 (2 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+===Araburu Daichi===
+====214214B/D====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214214k
+| name        = Araburu Daichi
+| header      = yes
+| version     = B or D
+| orderId     = 1
+| input       = 214214B/D
+| images      = XV_oyashiro_214214k_ima.png
+| hitboxes    = XV_oyashiro_214214k.png
+| damage      = 250 (50+50+150)
+| guard       = N/A
+| cancel      = climax
+| startup     = 20
+| active      = 10
+| recovery    = 48
+| hitadv      = HKD (+57)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 to 5 (5 Frames) / Projectile Invincibility: 6 to 29 (24 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+====Araburu Daichi====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_214214bd
+| name        = Araburu Daichi
+| header      = no
+| version     = BD
+| orderId     = 2
+| input       = 214214BD
+| images      = XV_oyashiro_214214bd_ima.png
+| hitboxes    = XV_oyashiro_214214bd.png
+| damage      = 400 (20*4+40+80+200)
+| guard       = N/A
+| cancel      = climax
+| startup     = 17
+| active      = 10
+| recovery    = 48
+| hitadv      = HKD (+62)
+| blockadv    = Unblockable
+| invul       = Full Body: 1 to 5 (5 Frames) / Projectile Invincibility: 6 to 26 (21 Frames)
+| stun        = 
+| guardDamage = 
+}}
+
+===Shuuen no Daichi===
+====2141236CD====
+{{MoveData-KOFXV | character = Orochi Yashiro | moveId = oyashiro_2141236cd
+| name        = Shuuen no Daichi
+| input       = 2141236CD
+| images      = XV_oyashiro_climax_ima.png, XV_oyashiro_climax_2_ima.png
+| hitboxes    = XV_oyashiro_2141236cd.png
+| damage      = 450 (120+330) Min: 225
+| guard       = 
+| cancel      = 
+| startup     = 1
+| active      = 10 (Counter Window)
+| recovery    = 35
+| hitadv      = HKD (+74)
+| blockadv    = 
+| invul       = 
+| stun        = 
+| guardDamage = 
+}}
+
+
+
+[[Category:The King of Fighters XV]][[Category:{{#titleparts:{{BASEPAGENAME}}|2|2}}]]
+
+{{#lst:{{BASEPAGENAME}}/Combos|Links}}
+{{ComboLegend-KOFXV}}
+{{CharNavbox_XV}}
+
+==Combo Notation Guide==
+{|class="wikitable"
+! Notation !! Meaning
+|-
+| '''X Starter''' || Use the corresponding starter(s) from the 'Starters' section of this page.
+|-
+| '''>''' || Cancel the previous move into the following move.<br />If preceded by a move in brackets, must cancel the start of the preceding move (AKA a 'Kara Cancel').
+|-
+| ''',''' || Link the previous move into the following move.
+|-
+| '''(X)''' || A move in brackets must whiff (not hit).<br />Can also mean the move must be Kara Canceled.
+|-
+| '''~''' || Cancel the previous special into the following special.
+|-
+| '''cl.''' || Close to opponent.
+|-
+| '''f.''' || Far from opponent.
+|-
+| '''j.''' || Jumping move.
+|-
+| '''AA''' || Anti-air. Hit the opponent while they're mid-air.
+|-
+| '''[X]''' || Hold input briefly.
+|-
+| '''P & K''' || P and K each denote "Any Punch (A or C)" and "Any Kick (B or D)" respectively.
+|-
+| '''X/Y''' || Do either X move or Y move in a combo (Both final damage & stun values will be shown).
+|-
+| '''X * N'''<br>'''{X} * N''' || Repeat 'X' input 'N' amount of times.<br>Multiple inputs will be bundled into "{}".
+|-
+|}
+
+==Starters==
+'''Keep in mind:''' The combos in the "Combos" section have been tested using the first starter in each category '''(the combos in Bold)'''.<br/>
+The other starters in each table should also work in each case, but may not. 
+
+===Light Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''2B > 2A > 5A~C''' || 102 || Technically not a '''Light Starter''', but the routes are often distinct from '''Heavy Starter''' combos.
+|}
+
+===Heavy Starters===
+'''Note:''' All '''Light Starter''' combos can be accessed by any '''Heavy Starter'''
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''2C > 6B''' || 117 || Most basic heavy starter. The decreased number of hits grants better scaling in longer combos (i.e., meter dumps). cl.D does more damage but lacks 2C's speed and forward momentum.
+|-
+| 2B > cl.A, 2C > 6B || 143 || Heavy link from a light low confirm. Fantastic damage and stun.
+|-
+| cl.A > cl.B, 2C > 6B || 158 || Highest damage and stun from a light mid confirm. Great after j.C crossups.
+|}
+
+==Combos==
+'''General Notes'''
+
+===Rush Auto Combo===
+{|class="wikitable sortable"
+! Combo!! Damage !! Meter cost !! notes
+|-
+|  cl.A > A > A > B || 204 || 0 || Rush combo ending in a special move.
+|-
+|  cl.A > A > A > C || 260 || 1 || Rush combo ending in a super.
+|-
+|  cl.A > A > A > D || 364 || 2 || Rush combo ending in a Max super.
+|-
+|  cl.A > A > A > A || 430 || 3 || Rush combo ending in a Climax super.
+|}
+
+===Meterless===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > 41236D  || 198 || 125 || 0 || 0.285 || Anywhere || Fantastic corner carry. Safejump with manual timing.
+|-
+| '''Heavy Starter''' > CD > 632146C || 296 || 160 || 0 || 0.37 || Anywhere || Great damage but abysmal oki, especially in the corner.
+|}
+
+===EX===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > 41236BD || 206 || 125/180 || .5 || 0.115 || Anywhere || 41236BD leaves the opponent much closer than 41236D, enabling left/right oki.
+|-
+| '''Light Starter''' > 41236D, 632146AC || 288 || 125 || .5 || .285 || Midscreen || If 41236D reaches the corner, 632146AC can OTG for added damage.
+|-
+| '''Heavy Starter''' > CD > 41236BD || 281 || 160 || .5 || 0.18 || Anywhere || 41236BD can hit juggled opponents, allowing for higher damage after 6B > CD.
+|-
+| 2C > 6B > 41236AC, 6B > 632146C || 325 || 150 || .5 || .36 || Anywhere || Incredible damage but the starter must be 2C > 6B.
+|-
+| 6A, 632146AC || 154 || 90 || .5 || .07 || Anywhere || OTG after a raw overhead to add some damage.
+|}
+
+===1 Bar===
+'''Note:''' O. Yashiro cannot meaningfully string multiple EX moves in combos, so he'll generally cash out with supers.
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| 632146A > 6321463214P || 290 || 0 || 1 || .16 || Anywhere || Very meter inefficient but ~300 damage from a 1F attack is incredibly valuable.
+|-
+| '''Light Starter''' > 41236D > 6321463214P || 370 || 125 || 1 || 0.285 || Anywhere || Basic 1 bar meter dump off his '''Light Starter'''
+|-
+| '''Heavy Starter''' > CD > 632146C > 6321463214P || 480 || 160 || 1 || 0.37 || Anywhere || Basic 1 bar meter dump off his '''Heavy Starter'''
+|-
+| '''Heavy Starter''' > 236CD, cl.A > cl.B, 2C > 6B > CD > 632146C || 376 || 330 || 1 || 0.545 || Anywhere || Meter positive combo that deals significant damage and stun. Omit 6B when starting with 2B.
+|-
+| '''Heavy Starter''' > 236CD, 2C > 6B > 41236AC, 6A || 338 || 220 || 1.5 || 0.28 || Anywhere || Very meter inefficient but OTG 6A oki may interest some.
+|}
+
+===2 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| 632146A > 6321463214AC || 335 || 0 || 2 || .16 || Anywhere || In 1F punish scenarios, raw 6321463214AC deals more damage and has more range.
+|-
+| '''Light Starter''' > 41236D > 6321463214AC || 457 || 125 || 2 || 0.285 || Anywhere || 
+|-
+| '''Heavy Starter''' > CD > 632146C > 6321463214AC || 576 || 160 || 2 || 0.37 || Anywhere || 
+|-
+| '''Heavy Starter''' > 236CD, cl.A > cl.B, 2C > 6B > CD > 632146C > 6321463214P || 506 || 330 || 2 || 0.545 || Anywhere || The combo generates 1 bar, thus costing 1 bar in practice.
+|-
+| '''Light Starter''' > BC > cl.D > 6B > CD > 632146C > 6321463214P || 454 || 285 || 2 || 0.115 || Anywhere || Basic 2-bar Quick Max combo for any position. cl.C/2C is significantly easier to link.
+|}
+
+===3 Bars===
+'''Note:''' Due to a lack of Advanced super cancels, O. Yashiro will often use Climax to spend 3 bars.
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| 632146A > 2141236CD || 385 || 0 || 3 || .16 || Anywhere || Spending an extra bar only adds 50 damage to the 1F grab, but it may make the difference.
+|-
+| '''Light Starter''' > BC > cl.D > 6B > 214214B > 2141236CD || 565 || 235 || 3 || 0.115 || Anywhere || Works in 2nd position.
+|-
+| '''Light Starter''' > BC > cl.D > 6B > 41236D > 6321463214P > 2141236CD || 583 || 235 || 3 || 0.115 || Anywhere || Only works in 3rd position.
+|-
+| '''Light Starter''' > 41236D > 2141236CD || 513 || 125 || 3 || 0.285 || Anywhere || 52/70 damage loss on an accidental confirm into 41236D.
+|-
+| '''Heavy Starter''' > BC > cl.D > 6B > 214214B > 2141236CD || 663 || 220 || 3 || 0.12 || Anywhere || Works in 2nd position.
+|-
+| '''Heavy Starter''' > BC > cl.D > 6B > 41236D > 6321463214P > 2141236CD || 663 || 220 || 3 || 0.12 || Anywhere || 3rd position only. Oddly enough, does the same damage as the 2nd position route.
+|-
+| '''Heavy Starter''' > CD > 632146C > 2141236CD || 633 || 160 || 3 || 0.37 || Anywhere || 30 damage loss on an accidental confirm into CD > 6342146C.
+|-
+| '''Heavy Starter''' > 236CD, cl.A > cl.B, 2C > 6B > CD > 632146C > 6321463214AC || 551 || 330 || 3 || 1.045 || Anywhere || Costs 2 bars in practice.
+|}
+
+===4 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| 6321463214P > 2141236CD || 585 || 0 || 4 || 0 || Anywhere || Committing to the 1 bar command grab significantly increases your command grab damage threat.
+|-
+| 632146A > 6321463214P > 2141236CD || 475 || 0 || 4 || .16 || Anywhere || Nearly 500 damage from a 1F punish.
+|-
+| '''Light Starter''' > BC > cl.D > 6B > 214214BD > 2141236CD || 655 || 235 || 4 || 0.115 || Anywhere || Works in 2nd position. Hold back during 214214BD to avoid overshooting.
+|-
+| '''Light Starter''' > BC > cl.D > 6B > 41236D > 6321463214AC > 2141236CD || 676 || 235 || 4 || 0.115 || Anywhere || Only works in 3rd position.
+|-
+| '''Light Starter''' > 41236D > 6321463214P > 2141236CD || 622 || 125 || 4 || 0.285 || Anywhere || 33/54 damage loss on an an accidental confirm into 41236D.
+|-
+| '''Heavy Starter''' > BC > cl.D > 6B > 214214BD > 2141236CD || 768 || 220 || 4 || 0.12 || Anywhere || Works in 2nd position. Hold back during 214214BD to avoid overshooting.
+|-
+| '''Heavy Starter''' > BC > cl.D > 6B > 41236D > 6321463214AC > 2141236CD || 773 || 220 || 4 || 0.12 || Anywhere || Only works in 3rd position.
+|-
+| '''Heavy Starter''' > CD > 632146C > 6321463214P > 2141236CD || 755 || 160 || 4 || 0.37 || Anywhere || 13/18 damage loss on an accidental confirm into CD > 632146C.
+|-
+| '''Heavy Starter''' > 236CD, cl.A > cl.B, 2C > 6B > CD > 632146C > 2141236CD || 603 || 330 || 4 || 0.545 || Anywhere || Costs 3 bars in practice. Marginal damage increase.
+|}
+
+===5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter cost !! Meter Gain !! Location !! notes
+|-
+| 6321463214AC > 2141236CD || 755 || 0 || 5 || 0 || Anywhere || An absolutely ludicrous amount of damage for a 1F command grab but requires a super input.
+|-
+| 632146A > 6321463214AC > 2141236CD || 560 || 0 || 5 || .16 || Anywhere || Cashout from a 1F command grab without committing the meter.
+|-
+| '''Light Starter''' > 41236D > 6321463214AC > 2141236CD || 749 || 125 || 5 || 0.285 || Anywhere || 
+|-
+| '''Heavy Starter''' > CD > 632146C > 6321463214AC > 2141236CD || 891 || 160 || 5 || 0.37 || Anywhere || 
+|}
+
+==Other Starters==
+'''Note:''' 'Other Starters' won't be referenced in the 'Combos' section.
+===CD===
+{|class="wikitable sortable"
+! Combo !! Damage !! Stun !! Meter Cost !! Meter Build !! Location !! Notes 
+|-
+|CD, 66, 6B > 632146C || 232 || 140 || 0 || .33 || Anywhere || Meterless Blowback combo. If the 6B is too shallow after dashing, the 632146C will whiff.
+|}
+
+===41236P===
+{|class="wikitable sortable"
+! Combo !! Damage !! Stun !! Meter Cost !! Meter Build !! Location !! Notes 
+|-
+| 41236P, 6B > 214C~P || 113 || 120 || 0 || .27 || Anywhere || Command grab into hard knockdown. Terrible damage but it can easily set up a vertical safejump.
+|-
+| 41236P, 6A || 131 || 0 || 0 || .24 || Anywhere || Command grab into OTG. Grants great oki though it heavily depends on manual timings. 
+|-
+| 41236P, 6B > 632146C || 142 || 0 || 0 || .29 || Anywhere || Command grab into air grab ender. Increased damage and meter build but terrible oki (especially in the corner).
+|-
+| 41236AC, 6B > 214C~P || 201 || 120 || .5 || .22 || Anywhere || 41236AC has significantly better scaling and damage, leading to better damage on the same followups.
+|-
+| 41236AC, 6A || 220 || 0 || .5 || .04 || Anywhere || 
+|-
+| 41236AC, 6B > 632146C || 230 || 0 || .5 || .24 || Anywhere || 
+|-
+| 41236P, 6B > 632146C > 6321463214P || 290 || 40 || 1 || .29 || Anywhere || Command grab meter dump. Very meter inefficient but good to know if it will kill.
+|-
+| 41236AC, 6B > 632146C > 6321463214P || 384 || 40 || 1.5 || .24 || Anywhere || With EX scaling, a 1 bar super dump adds a hefty amount of damage.
+|-
+| 41236P, 6B > 632146C > 6321463214AC || 352 || 40 || 2 || .29 || Anywhere || Command grab meter dump. Very meter inefficient but good to know if it will kill.
+|-
+| 41236AC, 6B > 632146C > 6321463214AC || 454 || 40 || 2.5 || .24 || Anywhere || With EX scaling, a 2 bar super dump adds a hefty amount of damage.
+|-
+| 41236P, 6B > 632146C > 2141236CD || 389 || 40 || 3 || .29 || Anywhere || Command grab meter dump. Extremely meter inefficient (only 37 more damage) but good to know if it will kill.
+|-
+| 41236AC, 6B > 632146C > 2141236CD || 500 || 40 || 3.5 || .24 || Anywhere || With EX scaling, a 3 bar super dump adds a hefty amount of damage.
+|-
+| 41236P, 6B > 632146C > 6321463214P > 2141236CD || 475 || 40 || 4 || .29 || Anywhere || Command grab meter dump. Meter inefficient but good to know if it will kill.
+|-
+| 41236AC, 6B > 632146C > 6321463214P > 2141236CD || 591 || 40 || 4.5 || .24 || Anywhere || Nearly 600 damage after an EX command grab.
+|-
+| 41236P, 6B > 632146C > 6321463214AC > 2141236CD || 577 || 40 || 5 || .29 || Anywhere || The meterless command grab is so meter inefficient that 5 bars does less damage than 4.5 bars.
+|}
+
+===214P===
+{|class="wikitable sortable"
+! Combo !! Damage !! Stun !! Meter Cost !! Meter Build !! Location !! Notes 
+|-
+| 214A/C~P, 6A || 138/158 || 80 || 0 || .19/.21 || Anywhere || 6A OTG after a deep 214P~P. 6A OTG grants solid oki.
+|-
+| 214A/C~P, 632146AC || 214/234 || 80 || .5 || .15/.17 || Anywhere || 632146AC OTG after 214P~P. Significantly more lenient than 6A OTG.
+|-
+| 214AC, 2C > 6B > 41236D || 177 || 110 || .5 || .29 || Anywhere || Pitiful damage for the meter investment but it's the easiest combo after 214AC.
+|-
+| 214AC, 66, '''Heavy Starter''' > CD > 632146C || 242 || 160 || .5 || .37 || Anywhere || Highest possible damage after 214AC. Requires a small dash.
+|-
+| 214AC, 2C > 6B > 41236D > 6321463214P || 331 || 110 || 1.5 || .29 || Anywhere || Easy 1 bar meter dump after 214AC.
+|-
+| 214AC, 66, '''Heavy Starter''' > CD > 632146C > 6321463214P || 390 || 160 || 1.5 || .37 || Anywhere || Most damaging 1.5 bar combo from 214AC. Requires a small dash after 214AC.
+|-
+| 214AC, 2C > 6B > 41236D > 6321463214AC || 401 || 110 || 2.5 || .29 || Anywhere || Easy 2 bar meter dump after 214AC.
+|-
+| 214AC, 66, '''Heavy Starter''' > CD > 632146C > 6321463214AC || 452 || 160 || 2.5 || .37 || Anywhere || Most damaging 2.5 bar combo from 214AC. Requires a small dash after 214AC. 
+|-
+| 214AC, 2C > 6B > 41236D > 2141236CD || 447 || 110 || 3.5 || .29 || Anywhere || 3 bar meter dump after 214AC.
+|-
+| 214AC, 66, '''Heavy Starter''' > CD > 632146C > 2141236CD || 489 || 160 || 3.5 || .37 || Anywhere || Most damaging 3.5 bar combo from 214AC. Requires a small dash after 214AC. 
+|-
+| 214AC, 2C > 6B > 41236D > 6321463214P > 2141236CD || 538 || 110 || 4.5 || .29 || Anywhere || 4.5 bar meter dump after 214AC.
+|-
+| 214AC, 66, '''Heavy Starter''' > CD > 632146C > 6321463214P > 2141236CD || 575 || 160 || 4.5 || .37 || Anywhere || Most damaging 4.5 bar combo from 214AC. Requires a small dash after 214AC. 
+|}
+
+==External Links==
+
+
+{{Navbox XV}}
+[[Category:The King of Fighters XV]]

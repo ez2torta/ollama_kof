@@ -1,0 +1,2119 @@
+{{CharNavbox_XV}}
+<section begin="image"/>[[File:KOFXV Ash Profile.png|thumb|A descendent of Saiki, the leader of Those from the Past, this young man was once thought to be erased from time.</br>Wielding flames of emerald and an arrogant smile, Ash teams with Kukri to help him complete his goal.
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+<big>'''Jump:''' 40f
+<br>'''Hop:''' 32f
+<br>'''Backdash:''' 23f
+<br>'''Run Speed Ranking:''' 7
+</big></div>]]<section end="image"/>
+{{TOClimit|3}}
+==Movelist==
+(*) = EX OK
+
+(!) = MAX OK
+
+'''Throws'''
+
+Récompenses - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:c.gif]]
+
+Vertus - - ''(close)'' [[image:bk.gif]] / [[image:fd.gif]] + [[image:d.gif]]
+
+'''Command Normals'''
+
+Floreal - [[image:bk.gif]] + [[image:b.gif]]
+
+Floreal - [[image:bk.gif]] + [[image:d.gif]]
+
+Floreal • Instant - [[image:fd.gif]] + [[image:d.gif]]
+
+'''Special Moves'''
+
+Ventose - [[image:bk.gif]] ~ [[image:fd.gif]] + [[image:a.gif]] / [[image:c.gif]] (*)
+
+Nivose - [[image:dn.gif]] ~ [[image:up.gif]] + [[image:b.gif]] / [[image:d.gif]] (*)
+
+Genie - [[image:qcb.gif]] + [[image:a.gif]] / [[image:b.gif]] / [[image:c.gif]] / [[image:d.gif]] (*)
+
+Germinal Caprice - [[image:bk.gif]] ~ [[image:fd.gif]] + [[image:b.gif]] / [[image:d.gif]]
+
+'''Super Special Moves'''
+
+Thermidor - [[image:qcf.gif]][[image:qcf.gif]] + [[image:a.gif]] / [[image:c.gif]] (!)
+
+Pluviose - [[image:qcf.gif]][[image:qcf.gif]] + [[image:b.gif]] / [[image:d.gif]] (!)
+
+Sans-culotte - [[image:a.gif]] , [[image:b.gif]] , [[image:c.gif]] , [[image:d.gif]]
+
+'''Climax Super Special Moves'''
+
+Espoir - [[image:qcb.gif]][[image:db.gif]][[image:qcf.gif]] + [[image:c.gif]] [[image:d.gif]]
+
+==Quick Combo Reference==
+
+{| border="1" align="center" style="font-size:90%"
+|+ 
+===Quick Combo Reference===
+'''Notation'''
+|-
+| '''0 Meter'''
+|
+2A 2A 2A xx [4]6B<br/>
+2B 4B 2A xx [4]6B<br/>
+2B 2B 4B [2]8B (linked, not cancelled from)<br/>
+2C xx [4]6C, [2]8D<br/>
+5D xx 214AC, [4]6D, [2]8D<br/>
+|
+( =  dmg<br/>
+( =  dmg<br/>
+( =  dmg<br/>
+( =  dmg<br/>
+( =  dmg<br/>
+|-
+| '''1 Meter'''
+|
+2C xx [4]6C, 236236K<br/>
+2C xx [4]6D, [2]8D xx 236236K<br/>
+5D xx 214AC, [4]6D, [4]6BD, [2]8D<br/>
+Placeholder<br/>
+|
+( = dmg<br/>
+( = dmg<br/>
+( = dmg<br/>
+( = dmg<br/>
+|-
+| '''2 Meters'''
+|
+2C xx [4]6D A~B~C~D (6D xx 46D)xN*, [2]8D<br/>
+2B, 2B, 4B ** QuickMode 5D xx 214AC, [4]6D, [4]6BD, [2]8D xx 236236k<br/>
+|
+( =  dmg <br/>
+( =  dmg<br/>
+|-
+|}
+<nowiki>*</nowiki> N being when Sans-Culotte's timer is about to run out
+
+==Gameplay Overview==
+{{StrengthsAndWeaknesses
+| intro = Meet the Guile of KOF. Ash Crimson is a zoner-type charge-based character, with the signature projectile and uppercut gameplay ubiquitous with the genre. What Ash brings to the table however, is explosive combo potential with his Sans-Culotte install super. Since he lacks strong offense and mix-up potential, this trait turns him into a OHKO style of character that wants to force his opponent to make some sort of mistake and punish them with their life. Ash can function ok as a point character, as characters will have less anti-fireball tools when meterless, but he excels in the anchor position where he can cash out on your meter to finish a game.
+| pros=
+* '''Strong Zoning''': Ash comes with a great Guile-style fireball/uppercut gameplan. His uppercut is a charge motion making it easy to react to jumps, and it covers an excellent angle directly in front and above himself. His fireballs are similarly strong, being pretty fast and easy to spam. He even has an Okizeme option in Genie.
+* '''Install:''' Sans-Culotte turns Ash from a turtle zoning character into an explosive and high-damage oneshot. During this state, Ash gains access to amazing combo potential with good execution. He gains absurd benefits like removing charge from his specials and allowing special moves to be cancelled into command normals. Effective use of this state can realistically ToD most of the cast.  
+* '''Solid Defensive Normals''': Ash is blessed with both great air normals and a suite of good mobility tools/pokes in his Sobat normals. 
+* '''Snowball Potential''': All of the above makes Ash very scary to approach. As his great zoning wears you down and forces you to approach him, he waits for the right opportunity to pop Sans-Culotte. One wrong move and into the ToD blender you go. Thus, Ash can be a great comeback character and is terrifying to fight without meter or strong mobility options. 
+* '''Charge Character''': Having charge means Ash can react to the options opponents bring much quicker and much easier than normal, and his anti air can't get crossed up.
+| cons=
+* '''Stubby''': Ash has many short range normals, making midrange and close range combat difficult.
+* '''Low Damage Without Meter''': Without Sans-Culotte, Ash tends to deal low amounts of damage. His zoning game is also predicated on keeping people out, meaning he tends not to have much opportunity for big damage anyways. 
+* '''Some Dexterity Required''': Confirming into Sans-Culotte combos can be difficult, and actually performing them more so. Ash players must have good fundamentals and great execution to consistently have access to his high damage. 
+* '''Charge Character''': Requires charge for many of his specials, which removes access to meterless reversal at times and limits punish options.
+* '''Limited Mixup''': Ash has mediocre mixup at best. He relies a lot on making opponents come to him, so forcing mistakes is a must. 
+}}
+
+==Normals==
+===Far Standing Normals===
+====Far A====
+{{FrameDataCargo-KOFXV
+|moveId=ash_fa
+|description=
+*Plus on block.
+*Whiffs on crouchers.
+A flick of the wrist. Has the shortest horizontal hitbox out of all of Ash's light normals, but has good vertical range, as well as a long active hitbox window for a light normal, making it a functional defense against hops. Not cancellable unfortunately, but plus on block. Whiffs on crouchers.}}
+====Far B====
+{{FrameDataCargo-KOFXV
+|moveId=ash_fb
+|description=
+*Hits low.
+A casual toe tap. Hits low, which is rare for a standing normal. The horizontal range is surprisingly large, but the lack of vertical range makes is very prone to hops. It's also not very rewarding, being uncancellable and negative on block, but at least plus on hit. You can chain into this from light normals but there's little reason to.}}
+
+====Far C====
+{{FrameDataCargo-KOFXV
+|moveId=ash_fc
+|description=
+A high palm strike. The hitbox on this is good at stopping hops, but its speed holds it back. Although it's slow, it is cancellable, giving him some strong confirms at further ranges than normal if you're sharp.
+}}
+====Far D====
+{{FrameDataCargo-KOFXV
+|moveId=ash_fd
+|description=
+A high angled roundhouse. Strong anti air for jumps in front of Ash. Having a good anti air game meshes well with Ash's kit, so it's recommended to learn the ranges of this move. Whiffs on crouchers unless up close. Unfortunately because Ash has a command normal set to 4D, it can be easy to get that move on accident when using this to defend, so be careful.
+}}
+
+
+===Close Standing Normals===
+====Close A====
+{{FrameDataCargo-KOFXV
+|moveId=ash_cla
+|description=
+*Plus on block.
+*Links into close C.
+A small backhanded slap. This is Ash's most advantageous normal, making it good at setting up frame traps at close ranges. You can link after this with close C. You can also chain this into other lights if desired. Also does well against hops.
+}}
+
+====Close B====
+{{FrameDataCargo-KOFXV
+|moveId=ash_clb
+|description=
+*Hits low.
+Another toe tap. Just like f.B, this is a standing normal that hits low, but this one is cancellable and chains into other lights. This does more damage than 2B, making it the ideal light low starter, but you are forced to lose charge, even back charge, since he has a 4B command normal.
+}}
+
+====Close C====
+{{FrameDataCargo-KOFXV
+|moveId=ash_clc
+|description=
+An upwards swipe. Standard close C, fast enough to link after cl.A and functions as a good anti air and punish starter.
+}}
+
+====Close D====
+{{FrameDataCargo-KOFXV
+|moveId=ash_cld
+|description=
+*Hits low.
+A standing sweep. Stronger than cl.C, but has a shorter activation range. Just like Ash's standing B normals, this hits low. Having a low hitting heavy starter can lead to some strong combos. However, this cannot be used while holding a back charge due to overlap with 4D.
+}}
+
+===Crouch Normals===
+====Crouch A====
+{{FrameDataCargo-KOFXV
+|moveId=ash_2a
+|description=
+*Plus on block.
+A crouching tap. Fast and plus on block, and can easily be chained from chainable normals. Ending your blockstrings with this, or setting up your blockstrings so that you can end with this, can help your pressure game. For example, using 2B > 2A on block, stopping there if it is blocked, then going for more pressure, or if it hits, adding another 2B and finishing the combo.
+
+}}
+====Crouch B====
+{{FrameDataCargo-KOFXV
+|moveId=ash_2b
+|description=
+*Hits low.
+A low kick. Ash's standard low starter. The range is good and since Ash's main combo options off of lights move him forward (4B and [4]6B/BD), being out of range for combos is usually not an issue. This chains into itself and is neutral on block. You will use this normal frequently.
+}}
+====Crouch C====
+{{FrameDataCargo-KOFXV
+|moveId=ash_2c
+|description=
+*Forces stand.
+An uppercut. This can cover ranges too far for c.C and too near for f.D. It's also cancellable, letting Ash set projectiles for your opponent to deal with when they recover. On the ground, this can be used as a alternative to c.C or c.D to start heavy combos when you are out of range for close normals. This can come into play especially for Ash since you will need to stay put at times to keep charge. It also allows you keep back charge without accidentally throwing the opponent by inputting this normal as 1C. This normal also forces stand, but stand vs. crouch doesn't play a part in any of Ash's combos, so this is a minor note.
+}}
+
+====Crouch D====
+{{FrameDataCargo-KOFXV
+|moveId=ash_2d
+|description=
+*Hits low.
+*Causes a soft knockdown.
+*Whiff cancellable.
+A sweep at the legs. In the context of Ash this is a very useful sweep. It is cancellable on hit, block, and whiff, and Ash has excellent cancel options in his command normals or projectiles. You can use this to safely pester the opponent with soft knockdowns and chip damage, barring any smart rolls from the opponent. While this technique is effective, consider the reward you get for landing a 2D compared to a hit confirmed 2B. They have near identical range, and 2B can lead to a combo, which is especially threatening with meter, while 2D will only ever give you a soft knockdown. With that in mind, be careful not to rely on this normal too much, especially considering it has poor range compared to other characters' 2D.
+}}
+
+===Jump Normals===
+====Jump A====
+{{FrameDataCargo-KOFXV
+|moveId=ash_ha,ash_ja
+|name=jump A
+|input=j.A
+|description2=A downwards air poke. This is Ash's fastest air normal. Use late to fake an empty jump and catch an opponent crouching.
+}}
+
+====Jump B====
+{{FrameDataCargo-KOFXV
+|moveId=ash_hb,ash_jb
+|name=jump B
+|input=j.B
+|description2=A horizontal leg poke. A good air to air normal, important for playing defense as Ash. Can hit crouchers which can potentially turn a defensive play into an offensive reward.
+}}
+====Jump C====
+{{FrameDataCargo-KOFXV
+|moveId=ash_hc,ash_jc
+|name=jump C
+|input=j.C
+|captions= Hop Version (Hitbox), Jump Version
+|description2=
+*Whiffs on crouchers.
+A high air punch. Functions exclusively as an air to air. Angled much higher than j.B, to where it cannot hit crouchers. The range isn't as good horizontally, but the extra vertical range can help it when using defensive air-to-airs.
+}}
+
+====Jump D====
+{{FrameDataCargo-KOFXV
+|moveId=ash_hd,ash_jd
+|name=jump D
+|input=j.D
+|captions= Hop Version (Hitbox), Jump Version
+|description2=A downwards arcing kick. This is Ash's best jump in if you want to land a combo. It has a large forwards and downwards hitbox, good for offense and defense. Hop back j.D can hit standing opponents for a defensive option against a ground approach.
+
+This normal can also cross-up, although its cross-up hitbox is quite small.
+}}
+
+===Blowback===
+====Blowback====
+{{FrameDataCargo-KOFXV
+|moveId=ash_cd
+|description=
+A double cross chop. The range is below average of CDs, but it still functions as a high blockstun cancellable option. Also moves Ash forward slightly when cancelled. For the optimizers out there, CD is essential to some of Ash's optimal corner Quick Max combos. Does not have enough range to hit opponents that roll backwards midscreen.
+}}
+
+====ShatterStrike====
+{{FrameDataCargo-KOFXV
+|moveId=ash_236cd
+|description=
+Shatter Strike. Especially useful as Ash as the crumple gives him plenty of time to charge and get his full damage combos.
+}}
+
+====AdvanceStrike====
+{{FrameDataCargo-KOFXV
+|moveId=ash_214cd
+|description=
+*Same animation and range as his CD.
+
+* The throw counter is on the feet.
+}}
+
+====jump CD====
+{{FrameDataCargo-KOFXV
+|moveId=ash_hcd,ash_jcd
+|name=jump CD
+|input=j.CD
+|captions= Hop Version (Hitbox), Jump Version
+|description2=A jumping double chop. Very good downwards hitbox but little horizontal hitbox. Use for offense, not defense.
+}}
+
+==Rush Moves==
+{{FrameDataCargo-KOFXV
+|moveId=ash_rush1,ash_rush2
+|name=rush
+|input=cl.AA/c.AAX
+|description2=* Placeholder
+}}
+
+==Throws==
+===Récompenses===
+{{FrameDataCargo-KOFXV
+|moveId=ash_cthrow
+|name=Récompenses
+|captions="Retribution"
+|input=(close) 4/6C
+|description=* Headpats for days!
+
+Ash grabs the opponent and lights their face on fire. Leaves the opponent directly in front of Ash. Ash can set up a free Genie with this.
+}}
+
+===Vertus===
+{{FrameDataCargo-KOFXV
+|moveId=ash_dthrow
+|name=Vertus
+|captions="Honor"
+|input=(close) 4/6D
+|description=Ash kicks his opponent on the side. The oki is worse overall than his C throw, but stealing the corner can turn the game around for Ash.
+}}
+
+==Command Moves==
+===Floreal===
+{{FrameDataCargo-KOFXV
+|moveId=ash_4b
+|captions="Flower"
+|description=
+*Can also be done with 6B
+A forwards sobat kick. One of Ash's three sobat kicks. Despite similar animations, then all have slightly different properties that greatly affect how they are used. 4B moves Ash forward. This sobat is plus on hit but slightly negative on block. Unfortunately, despite the animation, this doesn't go over lows, same with 4D. This is Ash's hit confirm sobat, as it allows for easy Max mode and super conversions off of lights. It can also be used to pester opponents at midscreen distance, and move forward while keeping charge. The vertical hitbox is not that high so jumping opponents can cause a problem. It also is the slowest out of the three sobats. One thing to note is that on hit, this move is plus enough to link a [2]8B or a 2A after. The timing is very tight for the [2]8B link however; you barely have enough time to charge 2 before the hitstun wears off. It also drops at further ranges. This is a low priority link to learn now that Ash has a more consistent light combo option in [4]6B. In juggle combos this offers no juggle potential, but is used in side swapping Sans-Coulette combos.
+}}
+
+===Floreal===
+{{FrameDataCargo-KOFXV
+|moveId=ash_4d
+|description=
+A backwards sobat kick. Another one of Ash's three sobat kicks. This one moves Ash backwards, pushing him back especially far on block and hit. Plus on hit and on block, but due to the backwards movement, these advantages are hard to utilize. Nonetheless it helps guarantee the safety and cements this sobat as the safe, defensive sobat. Whiff cancelling 2D into 4D and 4B can be confusing for the opponent to deal with. You can also hit poorly spaced jump ins with this. While useful, it's important to think about screen control, as you give up positioning every time you use this move. In juggles this offers the most juggle potential, and will be essential to your extended corner combos.
+}}
+
+===Floreal • instant===
+{{FrameDataCargo-KOFXV
+|moveId=ash_6d
+|captions=, Low Invincible
+|description=
+An in-place sobat kick. The last of Ash's three sobat kicks. Ash stays in place for this one, which makes it less unique of a command normal, but still functions as a solid poke. Unlike the others, this one does go over lows. The frame data and start up is the same as 4D, but the extra speed is more notable here when used for poking. The range is about the same as 2B and 2D, but is harder to hop over. In juggles this grants a limited juggle state, and is useful for super cancels. Be careful not to accidentally use [4]6D when attempting this move.
+
+}}
+
+==Special Moves==
+===Ventose===
+{{FrameDataCargo-KOFXV
+|moveId=ash_46a,ash_46c,ash_46ac
+|input=[4]6A/C/AC
+|captions="Wind / A Version (Hitbox),,C Version,,,EX Version"
+|description3=
+* Projectile
+*A version throws a slow projectile, C version does a melee attack, then throws a fast projectile. 
+*Both A and C versions can supercancel on hit and whiff
+*EX throws two fast projectiles
+
+Ash's projectile, also referred to as his "Sonic Boom", alluding to Guile from Street Fighter. This is the core of Ash's neutral game, and important in either forcing your opponent to approach recklessly, or using it to approach yourself. 
+----
+'''A version:''' This throws out a slow moving, single fireball. Ash recovers from his fireball quicker than most other characters, both allowing him to run behind it to start an offense, or to more easily punish opponents trying to jump or roll around it, and as a result is very useful in his zoning game. The quick recovery also makes it safer on block (-1 at point blank compared to most other characters' -4~-6), and allows Ash to get more plus frames more often, and from more favorable spacings of his projectile. Be wary for Guard Cancel rolls, as they can escape and possibly even hard punish pressure strings with this.
+----
+'''C version:''' Ash swipes in front of him, then throws a faster fireball. The first swipe has short range, but can nullify other fireballs, excluding EX fireballs. The fireball follow-up recovers faster than the A version, has a higher hitbox, and has an extra hitbox on the swiping motion itself, making it harder to hop over. It also has higher projectile priority than most regular fireballs, eating through them if they clash. This version is a godsend in fireball match-ups against other zoners. You can also use this to mix up your fireball throws with the A version as the first swipe can bait a jump out of the opponent, just for them to get hit out of the air by the real one. 
+----
+'''EX version'''= Ash throws out two fireballs in quick succession. These fireballs move fast and can beat out other projectiles, as well as throw off your opponent's approach. Be careful not to overuse, as the meter could be spent on conversions.
+}}
+
+===Nivose===
+{{FrameDataCargo-KOFXV
+|moveId=ash_28b,ash_28d,ash_28bd
+|input=[2]8B/D/BD
+|captions="Snow"/ B Version (Hitbox),,,,D Version,,,,EX Version
+|description3=*Anti air special
+*B version is fast with no invincibility, D version is slower with invincibility
+*EX version is fast and invincible
+*Super Cancellable on the first hit
+
+A flaming uppercut kick, also referred to as "Flash Kick". This is Ash's uppercut, and in is important in establishing a threatening neutral game in tandem with his fireball. The motion requires charge meaning you can't use it on demand all the time, but as long as you have charge, the motion makes it very easy to react to jumps with this. In general when these connect, Ash has enough time to run up and throw his opponent even if they quick rise.
+----
+'''B version''' = The faster of the two uppercuts, at 4f start-up. However this version only has a small amount of head invincibility, making it prone to trade or lose entirely to jump-ins. Primarily you should only use this for combos. If you get a trade you can go for [4]6+D (Germinal Caprice) to start a big combo. This version recovers quickly relatively speaking, allowing for some gimmicky uses such as whiffing it fullscreen to bait an unsuccessful punish or crossing up the opponent after a forward throw.
+----
+'''D version''' = This version is slower but has full invincibility. This is the preferred version to use as an anti-air or reversal. If the opponent quick-rises you get a crossup setup with Super Jump D. As it can only be supercancelled on the first hit, on early antiairs you're not getting good damage. Beware if blocked or whiffed as it has lots of landing recovery frames
+----
+'''EX version''' = 1f faster start-up than the D version, with just as much invincibility. A strong uppercut, hits 4 times so depending on how far it connects from the opponent might be worth, but often you should go for the D version as it offers the same oki but with less damage unnecessary to use instead of the D version unless the extra 51 dmg will kill. Saving your meter for a stronger conversion down the line could be a more useful usage of meter. Beware if blocked or whiffed as it has lots of landing recovery frames.
+}}
+
+===Genie===
+{{FrameDataCargo-KOFXV
+|moveId=ash_214a,ash_214b,ash_214c,ash_214d,ash_214ac,ash_214bd
+|input=214A/B/C/D/AC/BD
+|captions="Spirit"/ A Version (Hitbox),,B Version,,C Version,,D Version,,AC EX Version,,BD EX Version
+|description4=
+* 17f before a flame spawns.
+* 24f before a flame can explode.
+* 55f startup total before Ash can move. 
+* A is closest to Ash, then B, then C, with D being the furthest away.
+* Does not disappear if Ash is hit.
+
+Ash places a flame on screen which explodes when the opponent walks near it. A unique trap-like projectile that can give Ash a lot of block or hit advantage if it works. Placing one somewhere on screen while throwing fireballs can make for a difficult to navigate maze of hitboxes. However, the explosion is not very large and not very damaging, so the threat is minimal, especially against aggressive opponents that will likely just run past it. However it can be useful to keep turtling opponents stuck, as well as an oki option against unaware opponents.
+
+<div class="mw-collapsible mw-collapsed" data-expandtext="Ranges" data-collapsetext="Hide">[[File:XV_Ash_214atk_ima.png|x200px|center]]</div>
+
+|description5=* Places a flame inbetween where 214A and 214B would place a flame.
+* Combo starter
+
+This flame is designed to be placed specifically where your opponent would be pushed back if cancelled from a heavy normal. This leads to some of Ash's strongest combos as it causes a launch. It's also safe on block making it non-committal, aside from the meter usage. Because this only combos from heavy normals, and Ash doesn't have any multi-hitting heavies or cancellable command normals, knowing when Ash gets a guaranteed heavy normal punish can vastly improve your overall damage.
+|description6=* Places a flame directly wherever the opponent is standing.
+* Has higher start-up than 214AC.
+
+This flame tracks the opponent, allowing you to tag opponents from anywhere. This is a fantastic anti-zoning tool as you don't have to worry about clashing fireballs. The start up is slower than 214AC so you can't combo into this, but it recovers faster leading to much more block and hit advantage.
+ }}
+
+===Germinal Caprice===
+{{FrameDataCargo-KOFXV
+|moveId=ash_46b,ash_46d,ash_46bd
+|input=[4]6B/D/BD
+|captions="Fleeting Spring"/ B Version (Hitbox),,,D Version,,,EX Version
+|description3=A dash into an uppercut. This is a combo-focused special move, with some niche uses to catch people off guard in neutral.
+----
+'''B version''' = This is the fast variant of the special that can combo from lights. On grounded hit, this leads to nothing afterwards aside from super cancels. On air hit, you get a short juggle window. Using this alongside fireballs can be effective, as many don't expect such sudden forward movement from someone who's zoning. The move is punishable and has no upper body invincibility however so be careful.
+----
+'''D version''' = The slower variant; can only combo from heavy normals. This version does cause a juggle state, and leads to some of Ash's biggest combos. The slower speed and shorter range makes it hard to use in neutral. This move has no limit on how many times it can be used in a juggle, though because of it's speed, it usually requires setting up to do so.
+----
+'''EX version''' = Fast enough to combo from lights and causes a juggle state. Has the same range as the B version. Easy way to increase your light confirm damage. There's also many ways to extend a juggle combo with this. However the second hit that causes the high juggle only works once in a combo; after the first time, only the first hit will connect leading to a more limited juggle. The speed of this special is notable; you can punish some things that are harder to punish as other characters.
+}}
+
+==Super Special Moves==
+===Thermidor===
+{{FrameDataCargo-KOFXV
+|moveId=ash_236236a,ash_236236c,ash_236236ac
+|name=Thermidor 
+|captions="Gift of Flame"/ Normal Version (Hitbox), Max Version
+|input=236236A/C/AC
+|description3=* Multi-hit projectile.
+* Travels slowly, recovers quickly.
+
+Ash tosses out a large, multi-hitting fireball. This has potential to be a strong neutral tool, as the threat of getting hit by this is high and it covers a lot of the screen at once, but spending bar for the chance of a hit is often not worth it in KOF, especially in one with half-bar EX moves. This super is instead incredibly useful for extending combos, particularly in the corner. 
+
+The 2 bar version has virtually the same frame data, but the projectile itself launches higher and allows for better combos.
+
+}}
+
+===Pluviose===
+{{FrameDataCargo-KOFXV
+|moveId=ash_236236b,ash_236236d,ash_236236bd
+|name=Pluviose 
+|captions="Rain"/ Normal Version (Hitbox),,,,,,Max Version
+|input=236236B/D/BD
+|description3=* Invincible start-up.
+*Best for Advanced and Climax Cancels.
+
+Ash does three Flash Kicks in succession. Comboing into this is much simpler than 236236P, and will usually be used to end combos unless you have more meter for an Advanced or Climax Cancel. The horizontal movement is sometimes not as far as it could ideally be; particularly late cancels from 4B can sometimes cause this to whiff the first kick, causing the combo to drop, so be careful. It also acts as a reversal or anti-air, although usually [2]8D will serve you fine in that regard. [4]6P can be cancelled into this on whiff to catch people trying to evade your projectile by jumping or using a projectile invincible move.
+
+The EX version does more damage with a different ender. The start-up and knockdown advantage is the same.
+}}
+
+===Sans-culotte===
+{{FrameDataCargo-KOFXV
+|moveId=ash_abcd
+|name=Sans-culotte
+|captions="Revolutionary"
+|input=A~B~C~D
+|description=* Does an initial invincible launcher, then leaving Ash in Sans-Culotte mode for 4 seconds
+* Makes your command normals special cancellable
+* Special moves require no charge
+* Special moves can be cancelled into command normals
+* Ash does not build meter or cause stun during the install
+
+Ash's signature "install" super, alluding to Sol's "Dragon Install" from Guilty Gear. This is Ash's most defining feature. On activation, Ash causes an explosion around him that launches the opponent directly upwards. This a fast and rewarding anti-air, though the input makes it difficult to do without buffering it behind another move. Works well as a reversal however, as you can buffer the A~B~C input behind the knockdown animation. After the initial explosion, Ash will be free to act and glow green for 4 seconds, showing that he is in the Sans-Culotte state (note that this 4 second window doesn't tick during hitstop, so it lasts longer realistically during combos). 
+
+During this state, his command normals become special cancellable, his special moves that normally require charge can now be executed without charge, and his [2]8K and [4]6K specials are cancellable into command normals. 
+
+All this combined gives Ash incredible extended juggle combos. Knowing these combos is the key to unlocking Ash's full potential. Note the block disadvantage this move has. Combine that with the 2 bar cost, and this super doesn't have much use outside of combos. If you drop your Sans-Culotte combo, you might be able to use its benefits to re-pick up a combo or safely cause guard damage, but this should never be something to rely upon.
+
+Only special move in the game that you can cancel from Rush Moves (2nd and 3rd)
+
+While Glowing green, moves suffer additional 50% damage reduce (without getting under usual minimums), and no move will add any stun to opponent.
+}}
+
+==Climax Super Special Moves==
+===Espoir===
+{{FrameDataCargo-KOFXV
+|moveId=ash_2141236cd
+|name=Espoir 
+|captions="Hope"
+|input=2141236CD
+|description=* Active sooner at closer ranges.
+* Counts as a projectile.
+
+Ash throws out a fan of fire that causes a cinematic when it connects. Huge range, but the hitbox travels from Ash up to about 75% of the screen, meaning that it hits sooner the closer Ash is to the opponent. Works as a good anti air. In theory could be used to beat fireballs, but the longer start-up at max range makes it hard to use as such. You should use this in your combos to close out rounds to avoid messing up your more damaging Sans-Culotte combos, but otherwise try to spend the meter on a Sans-Culotte combo instead when applicable.
+}}
+
+==Misc==
+
+{{Colors-KOFXV}}
+ 
+==Videos==
+{{#ev:youtube|L_wUiLbw97g|||'''Ash Crimson Reveal Trailer'''|frame}}
+
+{{CharNavbox_XV}}
+{{Navbox XV}}
+
+[[Category:The King of Fighters XV]]
+[[Category:Ash Crimson]]
+
+
+{{CharNavbox_XV}}
+===Close Standing Normals===
+====cl.A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_cla
+| name		  = close A
+| input		  = cl.A
+| images	  = XV_Ash_cA_ima.png
+| hitboxes	  = XV_Ash_cA_hb.png
+| damage	  = 25
+| guard		  = Mid
+| cancel	  = command
+| startup	  = 4
+| active	  = 3
+| recovery	  = 7
+| hitadv	  = +5
+| blockadv	  = +3
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====cl.B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_clb
+| name		  = close B
+| input		  = cl.B
+| images	  = XV_Ash_cB_ima.png
+| hitboxes	  = XV_Ash_cB_hb.png
+| damage	  = 30
+| guard		  = Low
+| cancel	  = command
+| startup	  = 5
+| active	  = 4
+| recovery	  = 8
+| hitadv	  = +3
+| blockadv	  = +1
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====cl.C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_clc
+| name		  = close C
+| input		  = cl.C
+| images	  = XV_Ash_cC_ima.png
+| hitboxes	  = XV_Ash_cC_hb.png, XV_Ash_cC2_hb.png
+| damage	  = 70
+| guard		  = Mid
+| cancel	  = command
+| startup	  = 5
+| active	  = 4
+| recovery	  = 16
+| hitadv	  = +1
+| blockadv	  = -1
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====cl.D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_cld
+| name		  = close D
+| input		  = cl.D
+| images	  = XV_Ash_cD_ima.png
+| hitboxes	  = XV_Ash_cD_hb.png
+| damage	  = 80
+| guard		  = Low
+| cancel	  = command
+| startup	  = 4
+| active	  = 4
+| recovery	  = 20
+| hitadv	  = -3
+| blockadv	  = -5
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Far Standing Normals===
+====f.A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_fa
+| name		  = stand A
+| input		  = f.A
+| images	  = XV_Ash_fA_ima.png
+| hitboxes	  = XV_Ash_fA_hb.png
+| damage	  = 25
+| guard		  = Mid
+| cancel	  = special
+| startup	  = 6
+| active	  = 4
+| recovery	  = 8
+| hitadv	  = +3
+| blockadv	  = +1
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====f.B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_fb
+| name		  = stand B
+| input		  = f.B
+| images	  = XV_Ash_fB_ima.png
+| hitboxes	  = XV_Ash_fB_hb.png, XV_Ash_fB2_hb.png
+| damage	  = 30
+| guard		  = Low
+| cancel	  = super
+| startup	  = 6
+| active	  = 4
+| recovery	  = 12
+| hitadv	  = -1
+| blockadv	  = -3
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====f.C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_fc
+| name		  = stand C
+| input		  = f.C
+| images	  = XV_Ash_fC_ima.png
+| hitboxes	  = XV_Ash_fC_hb.png
+| damage	  = 70
+| guard		  = Mid
+| cancel	  = special
+| startup	  = 11
+| active	  = 4
+| recovery	  = 19
+| hitadv	  = -2
+| blockadv	  = -2
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====f.D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_fd
+| name		  = stand D
+| input		  = f.D
+| images	  = XV_Ash_fD_ima.png
+| hitboxes	  = XV_Ash_fD_hb.png
+| damage	  = 80
+| guard		  = Mid
+| cancel	  = super
+| startup	  = 8
+| active	  = 5
+| recovery	  = 20
+| hitadv	  = -4
+| blockadv	  = -6
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Crouch Normals===
+====2A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_2a
+| name		  = crouch A
+| input		  = 2A
+| images	  = XV_Ash_2A_ima.png
+| hitboxes	  = XV_Ash_2A_hb.png
+| damage	  = 25
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel	  = command
+| startup	  = 4
+| active	  = 4
+| recovery	  = 7
+| hitadv	  = +4
+| blockadv	  = +2
+| invul		  = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====2B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_2b
+| name		  = crouch B
+| input		  = 2B
+| images	  = XV_Ash_2B_ima.png
+| hitboxes	  = XV_Ash_2B_hb.png
+| damage	  = 15
+| guard		  = [[The_King_of_Fighters_XV/Defense#Low|Low]]
+| cancel	  = command
+| startup	  = 5
+| active	  = 4
+| recovery	  = 9
+| hitadv	  = +2
+| blockadv	  = 0
+| invul		  = 
+| stun        = 15
+| guardDamage = 60
+}}
+
+====2C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_2c
+| name		  = crouch C
+| input		  = 2C
+| images	  = XV_Ash_2C_ima.png
+| hitboxes	  = XV_Ash_2C_hb.png, XV_Ash_2C2_hb.png
+| damage	  = 70
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel	  = command
+| startup	  = 7
+| active	  = 3
+| recovery	  = 28
+| hitadv	  = -10
+| blockadv	  = -12
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====2D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_2d
+| name		  = crouch D
+| input		  = 2D
+| images	  = XV_Ash_2D_ima.png
+| hitboxes	  = XV_Ash_2D_hb.png
+| damage	  = 80
+| guard		  = [[The_King_of_Fighters_XV/Defense#Mid|Low]]
+| cancel	  = command
+| startup	  = 9
+| active	  = 4
+| recovery	  = 19
+| hitadv	  = Soft Knockdown (+26/+53)
+| blockadv	  = -4
+| invul		  = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===jump normals===
+====hop A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_ha
+| name        = hop A
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.A
+| images      = XV_Ash_jA_ima.png
+| hitboxes    = XV_Ash_jA_hb.png
+| damage      = 40
+| guard       = High
+| cancel      = 
+| startup     = 5
+| active      = 5
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 50
+}}
+
+====jump A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_ja
+| name        = jump A
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.A
+| images      = XV_Ash_jA_ima.png
+| hitboxes    = XV_Ash_jA_hb.png
+| damage      = 45
+| guard       = High
+| cancel      = 
+| startup     = 5
+| active      = 6
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_hb
+| name        = hop B
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.B
+| images      = XV_Ash_jB_ima.png
+| hitboxes    = XV_Ash_jB_hb.png
+| damage      = 40
+| guard       = high
+| cancel      = 
+| startup     = 6
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 50
+}}
+
+====jump B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_jb
+| name        = jump B
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.B
+| images      = XV_Ash_jB_ima.png
+| hitboxes    = XV_Ash_jB_hb.png
+| damage      = 45
+| guard       = High
+| cancel      = 
+| startup     = 6
+| active      = 9
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 30
+| guardDamage = 60
+}}
+
+====hop C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_hc
+| name        = hop C
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.C
+| images      = XV_Ash_jC_ima.png
+| hitboxes    = XV_Ash_hC_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 6
+| active      = 5
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_jc
+| name        = jump C
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.C
+| images      = XV_Ash_jC_ima.png
+| hitboxes    = XV_Ash_jC_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 6
+| active      = 6
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+====hop D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_hd
+| name        = hop D
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.D
+| images      = XV_Ash_jD_ima.png
+| hitboxes    = XV_Ash_hD_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 9
+| active      = 4
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 100
+}}
+
+====jump D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_jd
+| name        = jump D
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.D
+| images      = XV_Ash_jD_ima.png
+| hitboxes    = XV_Ash_jD_hb.png
+| damage      = 70
+| guard       = High
+| cancel      = 
+| startup     = 9
+| active      = 4
+| recovery    = 1 on ground
+| hitadv      = 
+| blockadv    = 
+| invul       = 
+| stun        = 70
+| guardDamage = 120
+}}
+
+===Rush moves===
+====rush 1====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_rush1
+| name        = rush 1
+| header      = yes
+| version     = cl.AA
+| orderId     = 1
+| input       = Rush 1
+| images      = XV_ash_rush1_ima.png
+| hitboxes    = XV_placeholder.png
+| damage      = 48 (25+25)
+| guard       = Mid
+| cancel      = Rush
+| startup     = 6
+| active      = 4
+| recovery    = 
+| hitadv      = -5
+| blockadv    = -7
+| invul       = 
+| stun        = 30
+| guardDamage = 120 (60+60)
+}}
+
+====rush 2====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_rush2
+| name        = rush 2
+| header      = no
+| version     = cl.AAX
+| orderId     = 2
+| input       = Rush 2
+| images      = XV_ash_rush2_ima.png
+| hitboxes    = XV_placeholder.png
+| damage      = 70 (25+25+25)
+| guard       = Mid
+| cancel      = Rush
+| startup     = 6
+| active      = 5
+| recovery    = 
+| hitadv      = -8
+| blockadv    = -10
+| invul       = 
+| stun        = 30
+| guardDamage = 180 (30+30+30)
+}}
+
+===Command normals===
+====Floreal====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_4b
+| name        = Floreal 
+| input       = 4B
+| images      = XV_Ash_4B_ima.png
+| hitboxes    = XV_Ash_4B_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = super
+| startup     = 10
+| active      = 4
+| recovery    = 13
+| hitadv      = +4
+| blockadv    = -2
+| invul       = 
+| stun        = 40
+| guardDamage = 80
+}}
+
+====Floreal====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_4d
+| name        = Floreal 
+| input       = 4D
+| images      = XV_Ash_4B_ima.png
+| hitboxes    = XV_Ash_4D_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = super
+| startup     = 7
+| active      = 4
+| recovery    = 14
+| hitadv      = +3
+| blockadv    = +1
+| invul       = 
+| stun        = 30
+| guardDamage = 80
+}}
+
+====Floreal instant====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_6d
+| name        = Floreal instant
+| input       = 6D
+| images      = XV_Ash_4B_ima.png
+| hitboxes    = XV_Ash_6D_hb.png, XV_Ash_6D2_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = super
+| startup     = 7
+| active      = 4
+| recovery    = 14
+| hitadv      = +3
+| blockadv    = +1
+| invul       = Low Feet Only: 7 to 10 (4 Frames)
+| stun        = 30
+| guardDamage = 80
+}}
+
+===Blowback===
+====Blowback====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_cd
+| name        = Blowback
+| input       = CD
+| images      = XV_Ash_5CD_ima.png
+| hitboxes    = XV_Ash_5CD_hb.png
+| damage      = 75
+| guard       = Mid
+| cancel      = special
+| startup     = 14
+| active      = 4
+| recovery    = 27
+| hitadv      = Wall Spalt (Ground hit) / Soft Knockdown (Air hit)
+| blockadv    = -8
+| invul       = 
+| stun        = 100
+| guardDamage = 160
+}}
+
+====Shatterstrike====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236cd
+| name        = Shatterstrike
+| input       = 236CD
+| images      = XV_ash_236cd_ima.png
+| hitboxes    = XV_ash_236cd_hb.png, XV_ash_236cd2_hb.png
+| damage      = 75
+| guard       = Mid
+| cancel      = 
+| startup     = 15
+| active      = 6
+| recovery    = 27
+| hitadv      = Crumple (Ground Hit) / Wall Bounce (Air hit)
+| blockadv    = -10
+| invul       = Armor: 4 to 14 (11 frames)
+| stun        = 0
+| guardDamage = 200
+}}
+
+====Advancestrike====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214cd
+| name        = Advancestrike
+| input       = 214CD
+| images      = XV_ash_214cd_ima.png
+| hitboxes    = XV_ash_214cd_hb.png, XV_ash_214cd2_hb.png
+| damage      = 100
+| guard       = [[The_King_of_Fighters_XV/Defense#Mid|Mid]]
+| cancel      = 
+| startup	  = 28
+| active	  = 6
+| recovery	  = 37 (on whiff) / Recovers faster on hit and block.
+| hitadv	  =  HKD (68 - Non Throw Counter Hit) / Crumple (103 - Throw Counter Hit)
+| blockadv	  = 3
+| invul		  = Full Body Armor Frames: 7 to 33 (27 frames) / Throw Counter Frames: 4 to 27 (24 Frames)
+| stun        = 0
+| guardDamage = 150
+}}
+
+====hop CD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_hcd
+| name        = hop CD
+| header      = yes
+| version     = hop
+| orderId     = 1
+| input       = h.CD
+| images      = XV_Ash_jCD_ima.png
+| hitboxes    = XV_Ash_hCD_hb.png
+| damage      = 80
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 5
+| recovery    = 1 on ground
+| hitadv      = Soft Knockdown
+| blockadv    = 
+| invul       = 
+| stun        = 80
+| guardDamage = 120
+}}
+
+====jump CD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_jcd
+| name        = jump CD
+| header      = no
+| version     = jump
+| orderId     = 2
+| input       = j.CD
+| images      = XV_Ash_jCD_ima.png
+| hitboxes    = XV_Ash_jCD_hb.png
+| damage      = 90
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 7
+| recovery    = 1 on ground
+| hitadv      = Soft Knockdown
+| blockadv    = 
+| invul       = 
+| stun        = 80
+| guardDamage = 140
+}}
+
+===Throws===
+====Récompenses====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_cthrow
+| name		  = Récompenses
+| input		  = (close) 4/6C
+| images	  = XV_Ash_throwf_ima.png
+| hitboxes	  = XV_Ash_throwf_hb.png, XV_Ash_throwf2_hb.png
+| damage	  = 100
+| guard		  = 
+| cancel	  = 
+| startup	  = 1
+| active	  = 1
+| recovery	  = 0
+| hitadv	  = Hard Knockdown (+73)
+| blockadv	  = Unblockable
+| invul		  = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+====Vertus====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_dthrow
+| name		  = Vertus
+| input		  = (close) 4/6D
+| images	  = XV_Ash_throwb_ima.png
+| hitboxes	  = XV_Ash_throwb_hb.png, XV_Ash_throwb2_hb.png
+| damage	  = 100
+| guard		  = 
+| cancel	  = 
+| startup	  = 1
+| active	  = 1
+| recovery	  = 0
+| hitadv	  = Hard Knockdown (+42)
+| blockadv	  = Unblockable
+| invul		  = 
+| stun        = 0
+| guardDamage = 0
+}}
+
+==Specials==
+===Ventose===
+====46A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_46a
+| name        = Ventose
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 46A
+| images      = XV_Ash_46A_ima.png
+| hitboxes    = XV_Ash_46A_hb.png, XV_Ash_46A2_hb.png
+| damage      = 65
+| guard       = Mid
+| cancel      = SP
+| startup     = 17
+| active      = Until hit
+| recovery    = 27
+| hitadv      = +1
+| blockadv    = -1
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====46C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_46c
+| name        = Ventose
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 46C
+| images      = XV_Ash_46C_ima.png
+| hitboxes    = XV_Ash_46C_hb.png, XV_Ash_46C2_hb.png, XV_Ash_46C3_hb.png
+| damage      = 80 [111 (20+20+80)]
+| guard       = Mid
+| cancel      = SP
+| startup     = 15,19,3
+| active      = 4 (16) 4 to Full Screen Projectile
+| recovery    = 24
+| hitadv      = +3
+| blockadv    = +1
+| invul       = 
+| stun        = 40 [80 (20+20+40)]
+| guardDamage = 40 [80 (20+20+40)]
+}}
+
+====46AC====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_46ac
+| name        = Ventose
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 46AC
+| images      = XV_Ash_46C_ima.png
+| hitboxes    = XV_Ash_46AC_hb.png, XV_Ash_46AC2_hb.png, XV_Ash_46AC3_hb.png, XV_Ash_46AC4_hb.png
+| damage      = 117 (60+60) [150 (20+60+20+60)]
+| guard       = Mid
+| cancel      = 
+| startup     = 15, X?
+| active      = 4 to Full Screen Projectile (16) 4 to Full Screen Projectile
+| recovery    = 22
+| hitadv      = 
+| blockadv    = +2
+| invul       = 
+| stun        = 0
+| guardDamage = 120 (20+40+20+40)
+}}
+
+===Nivose===
+====28B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_28b
+| name        = Nivose
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 28B
+| images      = XV_Ash_28K_ima.png
+| hitboxes    = XV_Ash_28B_hb.png, XV_Ash_28B2_hb.png, XV_Ash_28B3_hb.png, XV_Ash_28B4_hb.png
+| damage      = 77 (30+50)
+| guard       = Mid
+| cancel      = super [1]
+| startup     = 4
+| active      = 3 (7) 3
+| recovery    = 32 (12 on ground)
+| hitadv      = Soft Knockdown (+37/+64)
+| blockadv    = -16
+| invul       = 
+| stun        = 80 (30+50)
+| guardDamage = 80 (30+50)
+}}
+
+====28D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_28d
+| name        = Nivose
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 28D
+| images      = XV_Ash_28K_ima.png
+| hitboxes    = XV_Ash_28D_hb.png, XV_Ash_28D2_hb.png, XV_Ash_28D3_hb.png, XV_Ash_28D4_hb.png
+| damage      = 114 (50+20+50)
+| guard       = Mid
+| cancel      = super [1]
+| startup     = 7
+| active      = 5 (5) 3
+| recovery    = 54 (30 on ground)
+| hitadv      = Soft Knockdown (+32/+52)
+| blockadv    = -47
+| invul       = Full Body: 1 to 11 (11 Frames)
+| stun        = 120 (50+20+50)
+| guardDamage = 120 (50+20+50)
+}}
+
+====28BD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_28bd
+| name        = Nivose
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 28BD
+| images      = XV_Ash_28K_ima.png
+| hitboxes    = XV_Ash_28BD_hb.png, XV_Ash_28BD2_hb.png, XV_Ash_28BD3_hb.png, XV_Ash_28BD4_hb.png
+| damage      = 165 (50+40+20+70)
+| guard       = Mid
+| cancel      = 
+| startup     = 4
+| active      = 7 (5) 3
+| recovery    = 54 (30 on ground)
+| hitadv      = Soft Knockdown (+32/60)
+| blockadv    = -44
+| invul       = Full Body: 1 to 10 (10 Frames)
+| stun        = 0
+| guardDamage = 180 (50+40+20+70)
+}}
+
+===Genie===
+====214A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214a
+| name        = Genie
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 214A
+| images      = XV_Ash_214AC_ima.png
+| hitboxes    = XV_Ash_214A_hb.png, XV_Ash_214A2_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = 
+| startup     = 41
+| active      = 12
+| recovery    = 14
+| hitadv      = +9
+| blockadv    = +12
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====214B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214b
+| name        = Genie
+| header      = no
+| version     = B
+| orderId     = 2
+| input       = 214B
+| images      = XV_Ash_214AC_ima.png
+| hitboxes    = XV_Ash_214B_hb.png, XV_Ash_214B2_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = 
+| startup     = 41
+| active      = 12
+| recovery    = 14
+| hitadv      = +9
+| blockadv    = +12
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====214C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214c
+| name        = Genie
+| header      = no
+| version     = C
+| orderId     = 3
+| input       = 214C
+| images      = XV_Ash_214AC_ima.png
+| hitboxes    = XV_Ash_214C_hb.png, XV_Ash_214C2_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = 
+| startup     = 41
+| active      = 12
+| recovery    = 14
+| hitadv      = +9
+| blockadv    = +12
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====214D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214d
+| name        = Genie
+| header      = no
+| version     = D
+| orderId     = 4
+| input       = 214D
+| images      = XV_Ash_214AC_ima.png
+| hitboxes    = XV_Ash_214D_hb.png, XV_Ash_214D2_hb.png
+| damage      = 50
+| guard       = Mid
+| cancel      = 
+| startup     = 41
+| active      = 12
+| recovery    = 14
+| hitadv      = +9
+| blockadv    = +12
+| invul       = 
+| stun        = 40
+| guardDamage = 40
+}}
+
+====214AC====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214ac
+| name        = Genie
+| header      = yes
+| version     = AC
+| orderId     = 5
+| input       = 214AC
+| images      = XV_Ash_214AC_ima.png
+| hitboxes    = XV_Ash_214AC_hb.png, XV_Ash_214AC2_hb.png
+| damage      = 70
+| guard       = Mid
+| cancel      = 
+| startup     = 20
+| active      = 12
+| recovery    = 9
+| hitadv      = Soft Knockdown (+60/+57)
+| blockadv    = +17
+| invul       = 
+| stun        = 0
+| guardDamage = 40
+}}
+
+====214BD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_214bd
+| name        = Genie
+| header      = yes
+| version     = BD
+| orderId     = 6
+| input       = 214BD
+| images      = XV_Ash_214AC_ima.png
+| hitboxes    = XV_Ash_214BD_hb.png, XV_Ash_214BD2_hb.png
+| damage      = 70
+| guard       = Mid
+| cancel      = 
+| startup     = 30
+| active      = 12
+| recovery    = 8
+| hitadv      = Soft Knockdown (+61/+88)
+| blockadv    = +18
+| invul       = 
+| stun        = 0
+| guardDamage = 40
+}}
+
+===Germinal Caprice===
+====46B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_46b
+| name        = Germinal Caprice
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 46B
+| images      = XV_Ash_46K_ima.png
+| hitboxes    = XV_Ash_46B_hb.png, XV_Ash_46B2_hb.png, XV_Ash_46B3_hb.png
+| damage      = 60
+| guard       = Mid
+| cancel      = super
+| startup     = 13
+| active      = 4
+| recovery    = 28
+| hitadv      = Soft Knockdown (+22/+49)
+| blockadv    = -13
+| invul       = 
+| stun        = 80
+| guardDamage = 80
+}}
+
+====46D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_46d
+| name        = Germinal Caprice
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 46D
+| images      = XV_Ash_46K_ima.png
+| hitboxes    = XV_Ash_46D_hb.png, XV_Ash_46D2_hb.png, XV_Ash_46D3_hb.png
+| damage      = 80
+| guard       = Mid
+| cancel      = super
+| startup     = 19
+| active      = 6
+| recovery    = 27
+| hitadv      = Soft Knockdown (+34/+61)
+| blockadv    = -14
+| invul       = 
+| stun        = 80
+| guardDamage = 80
+}}
+
+====46BD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_46bd
+| name        = Germinal Caprice
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 46BD
+| images      = XV_Ash_46K_ima.png
+| hitboxes    = XV_Ash_46BD_hb.png, XV_Ash_46BD2_hb.png, XV_Ash_46BD3_hb.png
+| damage      = 116 (40+80)
+| guard       = Mid
+| cancel      = 
+| startup     = 8, 6
+| active      = 3 (4) 4
+| recovery    = 24
+| hitadv      = Soft Knockdown (+39/+66)
+| blockadv    = -9
+| invul       = 
+| stun        = 0
+| guardDamage = 120 (40+80)
+}}
+
+==Supers==
+===Thermidor===
+====236236A====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236236a
+| name        = Thermidor 
+| header      = yes
+| version     = A
+| orderId     = 1
+| input       = 236236A
+| images      = XV_Ash_236236P_ima.png
+| hitboxes    = XV_Ash_236236P_hb.png
+| damage      = 146 (10*7+80)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 17
+| active      = Full Screen Projectile
+| recovery    = 46
+| hitadv      = Hard Knockdown (+63 - close range)
+| blockadv    = -3~+22
+| invul       = Full Body: 1 to 4 (4 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236C====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236236c
+| name        = Thermidor 
+| header      = no
+| version     = C
+| orderId     = 2
+| input       = 236236C
+| images      = XV_Ash_236236P_ima.png
+| hitboxes    = XV_Ash_236236P_hb.png
+| damage      = 146 (10*7+80)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 17
+| active      = Full Screen Projectile
+| recovery    = 46
+| hitadv      = Hard Knockdown (+63 - Close range)
+| blockadv    = -3~+22
+| invul       = Full Body: 1 to 4 (4 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236AC====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236236ac
+| name        = Thermidor 
+| header      = no
+| version     = AC
+| orderId     = 3
+| input       = 236236AC
+| images      = XV_Ash_236236P_ima.png
+| hitboxes    = XV_Ash_236236AC_hb.png
+| damage      = 235 (20*7+100)
+| guard       = Mid
+| cancel      = climax
+| startup     = 17
+| active      = Full Screen Projectile
+| recovery    = 19
+| hitadv      = Hard Knockdown (+88 - Close range)
+| blockadv    = +22
+| invul       = Full Body: 1 (1 Frame)
+| stun        = 0
+| guardDamage = 0
+}}
+
+===Pluviose===
+====236236B====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236236b
+| name        = Pluviose 
+| header      = yes
+| version     = B
+| orderId     = 1
+| input       = 236236B
+| images      = XV_Ash_236236K_1_ima.png
+| hitboxes    = XV_Ash_236236K_hb.png, XV_Ash_236236K2_hb.png, XV_Ash_236236K3_hb.png, XV_Ash_236236K4_hb.png, XV_Ash_236236K5_hb.png, XV_Ash_236236K6_hb.png
+| damage      = 200 (10*6+20+20+100)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 7
+| active      = 3 (19) 1 (1) 2 (18) 1 (2) 1 (7) 1 
+| recovery    = 47 (21 on ground)
+| hitadv      = Hard Knockdown (+49)
+| blockadv    = -37
+| invul       = Full Body: 1 to 9 (9 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236236d
+| name        = Pluviose 
+| header      = no
+| version     = D
+| orderId     = 2
+| input       = 236236D
+| images      = XV_Ash_236236K_1_ima.png
+| hitboxes    = XV_Ash_236236K_hb.png, XV_Ash_236236K2_hb.png, XV_Ash_236236K3_hb.png, XV_Ash_236236K4_hb.png, XV_Ash_236236K5_hb.png, XV_Ash_236236K6_hb.png
+| damage      = 200 (10*6+20+20+100)
+| guard       = Mid
+| cancel      = advanced, climax
+| startup     = 7
+| active      = 3 (19) 1 (1) 2 (18) 1 (2) 1 (7) 1 
+| recovery    = 47 (21 on ground)
+| hitadv      = Hard Knockdown (+49)
+| blockadv    = -37
+| invul       = Full Body: 1 to 9 (9 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====236236BD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_236236bd
+| name        = Pluviose 
+| header      = no
+| version     = BD
+| orderId     = 3
+| input       = 236236BD
+| images      = XV_Ash_236236K_2_ima.png
+| hitboxes    = XV_Ash_236236BD_hb.png, XV_Ash_236236BD2_hb.png, XV_Ash_236236BD3_hb.png, XV_Ash_236236BD4_hb.png, XV_Ash_236236BD5_hb.png
+| damage      = 350 (10*9+20*3+200)
+| guard       = Mid
+| cancel      = climax
+| startup     = 7
+| active      = 1 (1) 3 (18) 1 (1) 3 (18) 1 (3) 3 (17) 1 (2) 2 (5) 1 (24) 3
+| recovery    = 44 (21 on ground)
+| hitadv      = Hard Knockdown (+47)
+| blockadv    = -60
+| invul       = Full Body: 1 to 10 (10 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+====A>B>C>D====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_abcd
+| name        =  Sans-culotte
+| input       = Sans-culotte
+| images      = XV_Ash_ABCD_ima.png
+| hitboxes    = XV_ash_abcd_hb.png
+| damage      = Min: 100
+| guard       = Mid
+| cancel      = 
+| startup     = 8
+| active      = 12
+| recovery    = 33
+| hitadv      = Hard Knockdown (+62)
+| blockadv    = -22
+| invul       = Full Body: 1 to 14 (14 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+===Climax super===
+====2141236CD====
+{{MoveData-KOFXV | character = Ash Crimson | moveId = ash_2141236cd
+| name        = Espoir 
+| input       = 2141236CD
+| images      = XV_Ash_Climax_ima.png
+| hitboxes    = XV_ash_2141236cd.png, XV_ash_2141236cd2.png
+| damage      = 453 ([20]+[30*8+220]) Min: 280
+| guard       = Mid
+| cancel      = 
+| startup     = 13
+| active      = 31
+| recovery    = 25
+| hitadv      = Hard Knockdown (+19)
+| blockadv    = -30~-1
+| invul       = Full Body: 1 to 27 (27 Frames)
+| stun        = 0
+| guardDamage = 0
+}}
+
+
+[[Category:The King of Fighters XV]][[Category:{{#titleparts:{{BASEPAGENAME}}|2|2}}]]
+
+{{#lst:{{BASEPAGENAME}}/Combos|Links}}
+{{ComboLegend-KOFXV}}
+{{CharNavbox_XV}}
+
+==Combo Notation Guide==
+{|class="wikitable"
+! Notation !! Meaning
+|-
+| '''X Starter''' || Use the corresponding starter(s) from the 'Starters' section of this page.
+|-
+| '''>''' || Cancel the previous move into the following move.<br />If preceded by a move in brackets, must cancel the start of the preceding move (AKA a 'Kara Cancel').
+|-
+| ''',''' || Link the previous move into the following move.
+|-
+| '''(X)''' || A move in brackets must whiff (not hit).<br />Can also mean the move must be Kara Canceled.
+|-
+| '''~''' || Cancel the previous special into the following special.
+|-
+| '''cl.''' || Close to opponent.
+|-
+| '''f.''' || Far from opponent.
+|-
+| '''j.''' || Jumping move.
+|-
+| '''AA''' || Anti-air. Hit the opponent while they're mid-air.
+|-
+| '''[X]''' || Hold input briefly.
+|-
+| '''X/Y''' || Do either X move or Y move in a combo (Both final damage & stun values will be shown).
+|-
+| '''X * N'''<br>'''{X} * N''' || Repeat 'X' input 'N' amount of times.<br>Multiple inputs will be bundled into "{}".
+|-
+|}
+
+==Starters==
+'''Keep in mind:''' The combos in the "Combos" section have been tested using the first starter in each category '''(the combos in Bold)'''.<br/>
+The other starters in each table should also work in each case, but may not. 
+
+===Light Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''2B > 2A > 2B''' || 51 || Standard low light confirm. By inputting the normals as 1B or 1A, you get to keep charge while also avoiding accidentally canceling into 214B if you want to cancel into 4B.
+|-
+| cl.B > 4B, 2A || 99 || Ash's strongest confirm from a light low. Doesn't work from the max range of cl.B.
+|-
+| 2B > 2B || 29 || Despite the lower damage of 2B normals universally, it can still be worthwhile to mash this in scrambles due to the short range of 2A.
+|}
+
+===Heavy Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| '''2C''' || 70 || Standard heavy starter. Reliable even at range and can work from jump-ins.
+|-
+| cl.C/far C || 70 || cl.C is faster but less reliable due to proximity. Far C functionally is the same but is slower so doesn't always work after jump ins or in some punishes.
+|-
+| cl.D || 80 || Hits low, but doesn't allow Ash to keep charge due to overlap with 4D.
+|-
+| cl.A > cl.C || 91 || Light link into cl.C. Optimal. Barely gives enough time for Ash to get a full 4 charge.
+|}
+
+===Other Starters===
+{|class="wikitable sortable"
+! Combo !! Damage !! Notes
+|-
+| CD || 75 ||
+|-
+| CD > [4]6A, 2C || 186 || Only works one backdash away from the corner. Used after stun for optimal damage.
+|}
+('''Note:''' 'Other Starters' won't be referenced in the 'Combos' section.)
+
+==Combos==
+'''General Notes'''
+* 236236B/D can be Advanced/Climax Cancelled early, but make sure to cancel after all three kicks to get the most out of the super.
+
+
+===Rush Auto Combo===
+{|class="wikitable sortable"
+! Combo!! Damage !! notes
+|-
+|  cl.A > A > A > B || 135 || Rush combo ending in a special move
+|-
+|  cl.A > A > A > C || 237 || Rush combo ending in a super
+|-
+|  cl.A > A > A > D || 363 || Rush combo ending in a Max super
+|-
+|  cl.A > A > A > A || 455 || Rush combo ending in a Climax super
+|}
+
+===Meterless===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [2]8B || 116 || 140 || 20% || Anywhere || Meterless light confirm. Can drop if the lights are chained too late or the special cancel is too late. Has good oki after.
+|-
+| '''Light Starter''' > [4]6B || 102 || 140 || 15% || Anywhere || More consistent light confirm. Can still drop if cancelled to late, but range is usually not an issue. Oki is worse than [2]8B ender.
+|-
+| cl.B > 2A > 4B, [2]8B || 163 || 180 || 30% || Anywhere || Optimal light confirm. The 4b, [2]8B is a link. Notice how only 2 light normals are listed. The combo will drop if any more are used due to pushback.
+|-
+| '''Heavy Starter''' > [4]6D, [2]8D || 248 || 270 || 40% || Anywhere ||
+|-
+| CD > [4]6A || 130 || 140 || 15% || Anywhere || Safe CD string that happens to combo.
+|-
+| CD > [4]6C || 143 || 140 || 15% || Anywhere || Works as well but tends to be less useful on block.
+|-
+| '''Heavy Starter''' > [4]6D, 4D, [2]8D || 286 || 310 || 45% || Corner || Corner combo. You have just enough time to charge after the 4D to get the [2]8D to combo. Press 8D as Ash touches the ground from the 4D. You can also go for a soft knockdown with 2D. This will apply to most of Ash's corner combos.
+|- 
+| CD, [4]6D, 4D, [2]8D || 266 || 340 || 45% || Corner || Uncancelled CD confirm. Notice how the combo is the same as the previous combo. These will not be noted in the future, as the optimal combo after CD will always be the same as the [4]6D starter combo.
+|- 
+| CD > [4]6A, [4]6D, 4D, [2]8D || 309 || 380 || 55% || Near Corner || If [4]6A juggles you can use this combo. 
+|- 
+| CD > [4]6A, [4]6B || 178 || 220 || 25% || Near Corner || If the [4]6A hits standing you can get a small conversion.
+|-
+| CD > [4]6A (whiff), [2]8B || 140 || 180 || 25% || Corner || When CD > [4]6A is done directly in the corner, the [4]6A will whiff and this will be all you can get.
+|}
+
+===EX===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6BD, [2]8D || 232 || 180 || 30% || Anywhere || Very consistent combo.
+|-
+| '''Heavy Starter''' > 214AC, [4]6D, [2]8D || 303 || 270 || 40% || Anywhere || Punish route  that doesn't require charge beforehand. 
+|-
+| '''Light Starter''' > [4]6BD, 4D, [2]8D || 264 || 220 || 30% || Corner || 
+|-
+| '''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, [2]8D || 385 || 350 || 55% || Corner || Meter positive combo. Also can work off of stray 214BDs. [4]6A doesn't work at certain spacings, omit if necessary.
+|-
+| '''Heavy Starter''' > [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 481 || 470 || 70% || Corner || Strong and meter positive.
+|}
+
+===1 Bar===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6BD, [2]8BD || 269 || 60 || 10% || Anywhere || The lack of stun or meter build makes this a non-ideal combo. This is still stronger than a super cancel, but save your meter.
+|-
+| '''Heavy Starter''' > [4]6D, [2]8D > 236236P, [4]6D, [2]8D || 449 || 400 || 65% || Non-Corner || This combo doesn't work in the corner, you'll have to fit a 4D before the [2]8D. A shortcut for the [2]8D > 236236P cancel is to input the [2]8D as [2]368D, then input 236C for the super.
+|-
+| j.D, cl.C > [4]6D, [2]8D > 236236P, [4]6D, [2]8D || 493 || 470 || 30% || Non-Corner || Must fit 4D before the first [2]8D to work in corner.
+|-
+| '''Heavy Starter''' > 214AC, [4]6D, (delay) [4]6BD, (delay) [2]8D || 389 || 270 || 40% || Anywhere || Delay the [4]6BD to when the opponent is just about to reach the ground. 
+|-
+| 236CD, [4]6D, [2]8D || 262 || 200 || 80% || Anywhere || Shatter Strike combo. Usually you will just combo into [4]6D and do the appropriate combo, even as an anti air SS. Delay the [2]8D to get all the hits if this hits as an anti-air.
+|-
+| '''Light Starter''' > [4]6B > 236236P, 4D, [2]8D || 324 || 30 || 45% || Corner ||
+|-
+| cl.B > 2A > 4B, [2]8B > 236236AP, [4]6D, 4D, [2]8D || 393 || 370 || 60% || Corner || 4B > [2]8B starter. This is where the value of learning the 4B, [2]8B link comes; it allows for stronger corner combos. You can also do this by regularly cancelling into [2]8B from your light normals.
+|-
+| '''Light Starter''' > [4]6BD, 4D, 4D, [4]6BD, [2]8B || 292 || 220 || 30% || Corner || Weak combo in case you go into [4]6BD. Ending with a cl.D is technically stronger, but ending with [2]8B builds more meter which would likely be more useful.
+|-
+| '''Heavy Starter''' > [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, [2]8D || 503 || 480 || 75% || Corner || You can use [2]8B instead of D for the Super Cancel to give yourself a more time to charge.
+|-
+| '''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 546 || 510 || 75% || Corner || Most damaging combo.
+|}
+
+===1.5 Bar===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6BD, [2]8D > 236236P, [4]6D, [2]8D || 394 || 310 || 55% || Anywhere || 
+|-
+| '''Heavy Starter''' > [4]6D, [2]8D > 236236P, [4]6D, [4]6BD, (delay) [2]8D || 517 || 400 || 65% || Non-Corner || No need to delay [4]6BD.
+|-
+| '''Heavy Starter''' > 214AC, [4]6D, [2]8D > 236236P, [4]6D, [2]8D || 493 || 400 || 65% || Non-Corner ||
+|-
+| '''Light Starter''' > [4]6B > 236236P, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 451 || 460 || 65% || Corner || 
+|-
+| cl.B > 2A > 4B, [2]8B > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 505 || 530 || 80% || Corner || 
+|-
+| '''Light Starter''' > [4]6BD, 4D, [2]8D > 236236P, [4]6D, 4D, [2]8D || 427 || 390 || 60% || Corner ||
+|-
+| '''Heavy Starter''' > [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 615 || 640 || 100% || Corner || Notice how much more stun and meter these combos are building now. 
+|-
+| '''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, [2]8D || 569 || 520 || 85% || Corner ||
+|}
+
+===Sans-Culotte Combos===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| Sans-Culotte, (6D > 46D)*5, [2]8D || 396 || 200 || 25% || Anywhere || Basic Sans combo. You can cancel the 46D into whiffed 4/6D to make the combo a little easier, but that's up to preference. Often weaker but has more corner carry than the combo below.
+|-
+| Sans-Culotte, 28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*3, [2]8D || 377 || 120 || 20% || Anywhere || Alternate midscreen Sans combo. Can sometimes do more or less damage, usually more, than the previous combo due to scaling. The 46B has to be delayed. You may need to repeat the initial 28D loop in order for the combo to work properly. In fact, if you'd like you can just do the 28D sequence looped 4 times if you prefer for slightly less damage. This can transition better to corner combos but overall will require more execution. 
+|-
+| Sans-Culotte, 28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B, [4]6C, 4D, [2]8D || 423 || 240 || 40% || Corner || Simple corner combo. You may need to delay the initial 28D to hit low enough for the combo to work. Sometimes this combo will start with 46B instead, depending on the starter before the initial Sans-Culotte. This will be the most commonly used corner Sans combo, but the other two combos have their uses in stun and meter build.
+|-
+| Sans-Culotte, 6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C, [4]6C, [4]6C, [2]8D || 423 || 360 || 55% || Corner || Universal corner combo. The [4]6C loops near the end have a tendency to drop if your cancels during the loop were delayed or if you accidentally walk forward or back while using the [4]6Cs. However these loops are often critical to Ash's stun combos, both due to the stun build and the meter gain. You can run after the last [4]6C to fit a 4D in before the [2]8D. This will add 10 dmg and 40 stun.
+|-
+| Sans-Culotte, 28D > 4B (whiff), 6D > 46D, 6D > 46D > 6D (whiff), 6D > 46B > 4B (whiff), 4D > 28D > 6D (whiff), 4D  [4]6C, [4]6C, [4]6C, [2]8D || 428 || 280 || 55% || Midscreen-Corner || Universal corner-carry combo. Though the stun can be higher, the damage is good, and it works from just past round start distance, enabling Ash's corner-to-corner ToDs.
+|-
+| Sans-Culotte, 28D > 4/6D > 46D > (whiff) 4D, 46D > 4/6D > 46D > (whiff) 4D, 46D > (whiff) 4B, 46B > 4D > 46A > 4D > '''46C''', [4]6C, [4]6C, [2]8D || 443 || 320 || 55% || Corner || Optimal corner combo. Unlike the previous combo, this combo can transition more easily from a midscreen combo. However, this combo is very tight, and thus doesn't work on a variety of {{tt|characters|Shun'ei, Heidern, Dolores, Kyo, Iori, Ash, Kukri, Krohnen, Yashiro, Shermie, K', Maxima, Antonov, KoD, Terry, Robert, Vanessa, Luong, Rock, Gato, Geese, Yamazaki, Rugal}}. If you committed to this combo on one of those characters, after the '''46C''', do [4]6D, 4D, [2]8D (429 dmg/300 stun).
+|}
+
+===2 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+|'''Light Starter''' > [4]6B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*3}}''', [2]8D || 428 || 260 || 40% || Anywhere || Standard Sans-Culotte confirm. You can also do '''{{tt|this|(6D > 46D)*5}}''' loop for 418 damage.
+|-
+|'''Heavy Starter''' > [4]6D, [2]8D > 236236P, [4]6D, [4]6BD, [2]8BD || 544 || 380 || 45% || Non-Corner || 
+|-
+|'''Heavy Starter''' > 214AC, [4]6D, [2]8D > 236236A/C, [4]6D, [4]6BD, [2]8D || 555 || 400 || 65% || Non-Corner || Optimal combo midscreen.
+|-
+|'''Light Starter''' > [4]6B > A~B~C~D, '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, [2]8D || 461 || 460 || 70% || Corner || Remember you can add a run up 4D before the [2]8D ender for a 10 more damage. You could also use '''{{tt|this|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B, [4]6C, 4D, [2]8D}}''' loop instead for 474 damage, but less stun and meter gain.
+|-
+|'''Heavy Starter''' > [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8BD || 627 || 520 || 75% || Corner || 
+|-
+|'''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 657 || 680 || 110% || Corner || 
+|-
+| j.D, cl.D > 214AC, [4]6A, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D > 236236P > [4]6C, 4D, [2]8D || 711 || 690 || 115% || Corner || 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6D, [2]8D > 236236P, [4]6D, [2]8D || 411/494 || 500 || 45% || Non-Corner || 1000/1250 Max Guage combo. cl.C can be used if spacing is an issue, since it has a larger activation range than cl.D. Ash gets a lot out of Quick Max combos since his sobat command normals cannot be special cancelled. 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6D, (delay) [4]6BD, (delay) [2]8D > 236236P, [4]6D, [2]8D || 451/532 || 500 || 45% || 1500 Max Guage combo. 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6D, 4D, [2]8D > 236236A/C, [4]6D, 4D, [2]8D || 438/517 || 580 || 50% || Corner || 1000 Max gauge combo.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236A/C, [4]6D, 4D, [2]8D || 459/541 || 620 || 50% || Corner || 1250 Max gauge combo.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, [2]8D || 413/487 || 720 || 50% || Corner || Stun focused combo for 1000 Max gauge. 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, [2]8D || 452/529 || 760 || 50% || Corner || Stun focused combo for 1250 Max gauge.
+|}
+
+===2.5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+| '''Light Starter''' > [4]6BD, [2]8D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*3}}''', [2]8D || 510 || 220 || 30% || Anywhere || You can input the [2]8D by buffering 2A~2B during the recovery of the [4]6BD, then press 8D~C~D. If you have a CD macro, you can do 2A~2B~CD macro x2. If you find it easier, 6D can be used instead of [2]8D. If you use '''{{tt|this|(6D > 46D)*5}}''' loop instead, you'll do 490 damage and 310 stun.
+|-
+|'''Heavy Starter''' > [4]6D, [2]8D > 236236AC, [4]6D, (delay) [4]6BD, [2]8D || 596 || 400 || 65% || Non-Corner ||
+|-
+|'''Heavy Starter''' > 214AC, [4]6D,  [2]8D > 236236A/C > [4]6D, [4]6BD, [2]8BD || 580 || 380 || 45% || Non-Corner || 
+|-
+|'''Light Starter''' > [4]6BD, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 572 || 360 || 65% || Corner || You can input 2A during the recovery of 6D, then input 8B~C~D to get the Sans-Culotte cancel. You'll notice the Sans-Culotte loop starts differently here, with a 46B instead of a 28D. This is possible with the height from 6D, [2]8B. However this doesn't work on a {{tt|few|Yuri, Meitenkun, Chris}} characters.<br>If you find 6D > [2]8B too difficult, just use a [2]8D and go into Sans or just omit the [2]8B and cancel the 6D into Sans.
+|-
+|'''Heavy Starter''' > [4]6D, 4D, 4D, [4]6BD, [4]6C, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 809 || 610 || 90% || Corner || 46B to start the Sans-Culotte loop here too. 
+|-
+|'''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, [2]8D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 709 || 520 || 80% || Corner || 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 481/555 || 880 || 70% || Corner || Stun focused combo for 1000 Max gauge.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 520/597 || 920 || 70% || Corner || Stun focused combo for 1250 Max gauge.
+|-
+|'''CD Starter''', [4]6A, 1C > [4]6D, 4D, 6D, [2]8B > '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, 6D, [2]8B, 236236P, [4]6C, [4]6C, [4]6C, 4D, [4]6BD, [4]6D, 4D, [2]8D || 815 || 1000 || 47% || Corner || Stun into TOD starting from 2,2 bars
+|}
+
+===3 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+|'''Light Starter''' > [4]6B > 236236B/D, A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''', [2]8D || 568 || 260 || 40% || Anywhere ||  Massive corner carry. Can easily transition to corner combo enders. Repeating the 28D loop makes the combo more consistent after an Advanced Cancel. The later you Advanced Cancel into A~B~C~D, the more consistent the standard midscreen loop is. 
+|-
+|'''Heavy Starter''' > [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''', [2]8D || 674 || 310 || 45% || Anywhere || 
+|-
+|'''Heavy Starter''' > [4]6D, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 765 || 550 || 60% || Anywhere || Guaranteed corner carry ''if'' you go for 3 loops of the 46B loop. If you are even just a few steps out of the opposite corner, you'll end up in the corner by going for the '''{{tt|easier|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''' loop.
+|-
+|'''Heavy Starter''' > 214AC > [4]6D > (delay) [4]6BD > [2]8D > A~B~C~D,  '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*3}}''', [2]8D || 667 || 320 || 45% || Anywhere ||  
+|-
+|'''Light Starter''' > [4]6B > 236236P, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 638 || 440 || 70% || Corner ||
+|-
+|'''Light Starter''' > [2]8B > 236236P, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 662 || 470 || 85% || Corner ||
+|-
+|'''Heavy Starter''' > [4]6D, 4D, [2]8D > 236236A/C, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 819 || 620 || 110% || Corner || With many of Ash's extended combos, you will gain enough meter to turn the combo into one of higher meter cost even if you started with exactly the right amount of meter. Ash has a lot of flexibility this way.
+|-
+|'''Heavy Starter''' > [4]6D, 4D, 6D > BC, [4]6D, 4D, [2]8D > 236236P, [4]6D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 832 || 720 || 70% || Corner || Requires 1250/1500 Max Guage.
+|-
+|'''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, 4D, [4]6BD, [4]6C, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 884 || 650 || 105% || Corner ||
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6D, [2]8D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*3}}''', [2]8D || 593/645 || 420 || 35% || Anywhere || 1000 Max Gauge combo. 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 4B > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''', [2]8D || 623/680 || 330 || 35% || Anywhere || 1250 Max Gauge combo. 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6D, (delay) [4]6BD, [2]8D > A~B~C~D > '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*3}}''', [2]8D || 637/703 || 390 || 35% || Anywhere || 1500 Max Gauge combo. Technically stronger than the 1250 gauge combo, but since this uses up your [4]6BD juggle with less reward than it would in the corner, and this carries to corner so far, it might be worth using the 1250 combo instead.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6A, [4]6D, [2]8D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 672/730 || 580 || 45% || Corner || 1000 Max Gauge combo.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6A, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 681/741 || 590 || 45% || Corner || 1250/1500 Max Gauge combo.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > [4]6D, 6D, [2]8B >  A~B~C~D, '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, [2]8D || 635/696 || 770 || 65% || Corner || Stun focused combo for 1000 Max gauge. 
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, [2]8D || 677/751 || 810 || 50% || Corner || Stun focused combo for 1250 Max gauge.
+|}
+
+===3.5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+|'''Light Starter''' > [4]6BD, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''', [2]8D || 678 || 340 || 30% || Anywhere || Almost guaranteed corner carry.
+|-
+|'''Heavy Starter''' > [4]6D, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4B}}''' > [4]6C, 4D, 4D, [4]6BD, [4]6C, 4D, 6D, [2]8B || 833 || 710 || 80% || Anywhere || Guaranteed corner carry. If you do the '''{{tt|easier|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''' loop you won't reach the corner if your back is completely to the corner, but you usually will so the combo will play out the same.
+|-
+|'''Heavy Starter''' > 214AC, [4]6D, 6D > BC, [4]6D, 6D > 236236B/D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 810 || 550 || 65% || Anywhere ||
+|-
+|'''Light Starter''' > [4]6B > 236236P, 4D, 4D, [4]6BD, [4]6C, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 799 || 600 || 90% || Corner ||
+|-
+|'''Light Starter''' > [2]8B > 236236A/C, [4]6D, 4D, 4D, [4]6BD, [4]6C, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 809 || 630 || 105% || Corner ||
+|-
+|'''Light Starter''' > [4]6BD, 4D, 6D > BC, [4]6D, '''4D''', 6D > 236236K > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 777 || 540 || 60% || Corner || At 1250 Max gauge, you must omit the '''4D'''.
+|-
+|'''Heavy Starter''' > [4]6D, 4D, [2]8D > 236236A/C, [4]6D, 4D, 4D, [4]6BD, [4]6C, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|46B > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 966 || 780 || 125% || Corner || Convert to a 236236K at the end with the meter you gained for a touch of death.
+|-
+|'''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46B > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 895 || 660 || 115% || Corner ||
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 4B > 236236K > A~B~C~D, '''{{tt|Loop|(6D > 46D)*5}}''', 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 683/740 || 610 || 70% || Anywhere || Guaranteed corner carry. If you're close enough to the corner you can do '''{{tt|this|(28D > 4/6D > 46D > (whiff) 4D)*2, (46B > 4/6D > 46D > (whiff) 4D)*2}}''' loop instead for 725/782 dmg, assuming you transition to the appropriate ender.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6A, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 749/809 || 750 || 70% || Corner || Use if you end up slightly away from the corner after the Quick Max activation. Otherwise go for the below combo.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > 214AC, [4]6A, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, 4D, [4]6BD, [4]6C, 4D, [2]8D  || 745/819 || 970 || 85% || Corner || Almost a stun combo.  If you manage to corner your opponent they will likely have built up that extra 30 stun needed to cause a full stun.
+|-
+|}
+
+===4 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+|j.D, cl.C > 214AC, [4]6D, [4]6BD, [2]8D > 236236K > 236236PP, [4]6D, [2]8D || 740 || 470 || 75% || Anywhere ||
+|-
+|'''Light Starter''' > [4]6B > 236236B/D > A~B~C~D, '''{{tt|Loop|(6D > 46D)*5}}''', [2]8D > 236236P, [4]6D, 4D, [2]8D || 665 || 510 || 75% || Anywhere || Guaranteed corner carry. If you end up completely in the corner by the time your loop is over, you'll have to add a 4D before the [2]8D. Use '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D > (whiff) 4B}}''' loop if you're closer to the corner, add a [4]6C, 4D, then end the combo same as before for 713 damage.
+|-
+|'''Heavy Starter''' > [4]6D, [2]8D > 236236P, [4]6D, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 926 || 680 || 90% || Non-Corner ||
+|-
+|'''Heavy Starter''' > 214AC, [4]6D, (delay) 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 876 || 710 || 80% || Anywhere || You can use 4D instead of a delayed 6D, but you lose a slight amount of corner carry.
+|-
+|'''Light Starter''' > [4]6B > 236236A/C, 4D, 6D > BC, [4]6D, '''4D''', 6D > 236236B/D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 812 || 580 || 70% || Corner || Omit the 4D at 1250 Max Gauge.
+|-
+|'''Heavy Starter''' > [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 6D > BC, [4]6D, '''4D''', 6D > 236236B/D > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 1005 || 800 || 100% || Corner || If you have to omit the 4D due to being at 1250 Max Guage, you can replace the [2]8D at the end with a [2]8BD for exactly 1000 damage.
+|-
+|'''Heavy Starter''' > 214AC, [4]6A, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, 6D > BC, [4]6D, '''4D''', 6D > 236236K > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 1029 || 830 || 95% || Corner ||
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 4B > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D}}''', [2]8D > 236236P, [4]6D, 4D, [2]8D || 734/791 || 500 || 70% || Anywhere || End the loop in a whiffed 4B if you end up completely in the corner by the end. Then do [4]6C, 4D, and then continue the combo as normal.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|28D > 4/6D > 46D > (whiff) 4D, (46D > 4/6D > 46D > (whiff) 4D)*2, 46D > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 809 || 730 || 75% || Corner ||
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, CD > [4]6A, 2C > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, run, 4D, [2]8D  || 799/876 || 1000 || 95% || Corner || Stun combo.  The run up 4D is required in order to get a stun from full stun, but realistically you won't need that. If you're lazy you can use the meter you built in a [4]6BD to extend the combo and get the extra stun.
+|-
+|''(QM)'' '''Light Starter''' > 4B , 1A > 4B > BC, D > ShatterStrike, 4C > [4]6D, [2]8D > A~B~C~D, '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C,[2]8D > 236236P, [4]6C, [4]6D, 4D, 4D, [4]6BD, [4]6C, 4D, [2]8D || 796 || 1000 || 80% || Anywhere || Stun combo. The easiest way to stun from anywhere on screen (use sansCulotte to get to nearest corner). With followup combo, this is TOD
+|}
+
+===4.5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+|'''Light Starter''' > [4]6BD, [2]8D > 236236P, [4]6D, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 862 || 590 || 75% || Non-Corner || Guaranteed corner carry.
+|-
+|'''Heavy Starter''' > [4]6D, [2]8D > 236236P, [4]6D, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, 4D, [4]6BD, 4D, [2]8D || 994 || 840 || 115% || Non-Corner || Cancel into 236236K at the end for a touch of death. Also a touch of death from a Shatter Strike. 
+|-
+|'''Heavy Starter''' > 214AC, [2]8D > 236236P, [4]6D, 6D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D > (whiff) 4B}}''', [4]6C, 4D, [2]8D || 967 || 680 || 90% || Non-Corner || Use the extra meter in a [4]6BD at the end for a touch of death.
+|-
+|'''Light Starter''' > [4]6B > 236236P, 4D, 4D, [4]6BD, 4D, 6D > BC, [4]6D, 4D, 6D > 236236K > '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D}}''', [2]8D > 236236P, [4]6D, 4D, [2]8D || 937 || 780 ||  85% || Corner || Cancel into 236236K at the end for a touch of death.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 4B > 236236K > A~B~C~D, '''{{tt|Loop|(28D > 4/6D > 46D > (whiff) 4D)*2, 46B > 4/6D > 46D > (whiff) 4D, 46B > 4/6D > 46D}}''', [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, 4D, [2]8D || 802/859 || 660 || 80% || Anywhere || End the loop in a whiffed 4B if you end up completely in the corner by the end. Then do [4]6C, 4D, and then continue the combo as normal.
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6A, [4]6D, 4D, [2]8D > 236236P, [4]6D, 4D, 4D, [4]6BD, [4]6C, 6D, [2]8B > A~B~C~D, '''{{tt|Loop|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, [2]8D || 864/947 || 1000 || 115% || Corner || Guaranteed stun. You can easily kill from full health with the follow up combo, ideally backdash (to get proper spacing) CD > [4]6A, 2C > [4]6D, etc.
+|}
+
+===5 Bars===
+{|class="wikitable sortable"
+! Combo!! Damage !! Stun !! Meter Gain !! Location !! notes
+|-
+|''(QM)'' '''Light/Heavy Starter''' > 4B > BC, cl.D > 214AC, [4]6D, [2]8D > 236236P, [4]6D, 4D > BC, [4]6D, 6D > 236236K > A~B~C~D, '''{{tt|this|6D > 46D, 28D > 4/6D > 46D > (whiff) 4B, 46C, 4D > 46A, 4D > 46C}}''', [4]6C, [4]6C, 4D, [4]6BD, [4]6C, 4D, [2]8D  || 932/1025 || 1000 || 110% || Anywhere || Full screen stun combo that easily leads to a kill.
+|}
+
+==Combo Theory==
+
+Ash's combo game has an incredible amount of flexibility. Not all of his possible combos are listed above; not even close, so this section will be geared in helping you build your own. This will primarily discuss corner combo options as that is where Ash's combos vary the most.
+
+Combos generally start with some sort of launcher that he can connect into further juggles. These launchers include:
+
+* [4]6D (From heavy normals, CD, and Shatter Strike, requires charge)
+* 214AC (From heavy normals, requires 0.5 meter, no charge)
+* [4]6BD (From light normals, requires 0.5 meter, requires charge)
+* 236236A/C or AC (Requires meter)
+
+Once the opponent has been launched, you want to prioritize connecting two moves: [4]6C and [4]6D. These are Ash's most damaging specials and allow him to continue the combo. Think of burning meter as Ash almost as a way to get as many of these moves as possible. You also have his sobat normals, 4D and 6D, as filler to increase your damage. Let's examine each of his moves to see what we can get.
+
+===[4]6D===
+
+Once this connects, whether on the ground at the start of a combo, or in the air during a combo, Ash can always link a 4D, [2]8D, with the perfect range to get the cancellable portion of the move to connect, as well as connect all three hits of the flash kick if you decide to end your combo there. 4D, 6D, [2]8B is also possible here, but not only is that juggle generally harder, it actually ends up doing the same damage as 4D, [2]8D.
+
+===214AC===
+
+This is the only launcher that cannot be used mid combo; it only works on the ground. Because of that, think of starting combos with this as free, as you don't need to save it for later on in the combo.
+
+===[4]6BD===
+
+This launcher can only be used once per combo. It is also one of Ash's most reliable combo options from lights. This means if you start a light combo with this, you must remember you cannot use it again in the combo. If you do, you get a very limited juggle state that can only juggle into [2]8B. To use it in a juggle combo, connect two 4Ds, then go into [4]6BD. If you land this as a juggle, Ash can always connect a [4]6C after.
+
+===236236A/C===
+
+You can start combos with this by cancelling it from [4]6B or [2]8B/D (slightly away from corner). Only after [2]8B/D can you get a [4]6D after, otherwise you must go straight into sobat normals. Using this mid combo is finicky, as it requires precise spacing for the opponent to fall into the projectile late so Ash can recover in time to land a [4]6D. Thankfully a 4D, [2]8D or 4D, 6D, [2]8B sets up this spacing perfectly. This super adds more damage to your combo the earlier you use it, so prioritize it early in your combos. The AC version launches higher, allowing Ash to get a [4]6D, [4]6C after when used in juggles.
+
+===Quick Max===
+4D and 6D cause juggle states on air hit and are command normals, meaning they can be Quick Max cancelled. Since Quick Max cancelling adds a fair amount of scaling, being able to use them after your big hits, such as 236236P, allows for high damage combos. After juggling a sobat and then Quick Max Cancelling, input [4]6D immediately, and then continue the combo as you would (likely into 236236B/D > Sans-Culotte).
+
+===Damage Scaling===
+
+As stated above, using 236236P as early as possible has it contribute the most damage to your combo. On the other hand, Sans-Culotte loops deal so many hits that they contribute more damage overall the later in your combo they are fit in. Similarly, Quick Max cancelling contributes a fair amount of damage scaling, so using that as late as possible will also help your damage. With that in mind, this is your priority in how early you want to fit your extenders:
+
+* 236236P
+* [4]6BD
+* Quick Max
+* Sans-Culotte
+
+===[4]6C Theory===
+
+It is possible to space Ash in a way that causes the projectile of [4]6C to hit later than normal. This gives Ash more time to combo, so much so that he can loop up to three [4]6Cs in one launch. Generally, this spacing is acquired from specific Sans-Culotte combos. It is also possible to walk slightly forward before [4]6C by holding the 6 input and delaying the C input slightly. Finally, you can also whiff cancel 2D to get slight forward movement. [4]6C generates a high amount of stun and thus, you will frequently see these kinds of combos in advanced stun combos. The timing tends to be very tight however. Pressing C too late can cause Ash to walk forward, messing with the spacing. They're difficult, but can be worth exploring if you're looking to get even more out of your confirms.
+
+==External Links==
+{{#ev:youtube|HZW5FI7akms|||'''Ash Combos by Meno'''|frame}}
+
+{{#ev:youtube|zWQJeK8HOwY|||'''Ash Combos by Renato Ramos|frame}}
+
+{{Navbox XV}}
+[[Category:The King of Fighters XV]]
+
+{{CharNavbox_XV}}
+==General Gameplan==
+
+==Neutral==
+===Ventose (Fireball)===
+The A version throws out a slow moving, single fireball. Ash recovers shortly after throwing the fireball. This slow travel time and Ash's fast recovery is very strong, as it allows the fireball to fight in tandem with Ash, leaving a constant hitbox on the field as long as it's active. You can run behind it or sit back and have ample time to counter your opponents jump/roll in response to the fireball. The hard truth, however, is that almost every fireball in KOF acts like this, and when we start to compare Ash's fireball to other characters' fireball, the cracks start to show. One, it's not a large fireball. It can be hopped and low profiled under, so the opponent has multiple options to avoid it. Two, it requires a charge motion. Charge time in KOF is short compared to other fighting games; only 30 frames, but not being able to use it on demand is still a detriment, especially in such a fast paced game like KOF. In most other games with this character archetype, this charge requirement is compensated for by having very short recovery on the move, but Ash's fireball only recovers slightly faster than other fireballs, by 2-4f on average. In fact, to compensate, it has a 17f start up, which is higher than average (Robert's A fireball is 15f start up, Andy's is 13f, to give some examples). In a fireball war, these weaknesses tend to not make a huge difference, but when using this in tandem with trying to form an offense or move around for spacing, the issues can show. Nonetheless, it's a powerful and very important tool you should use frequently. Be sure to avoid sitting on charge the whole round to always have a fireball ready. Move forward when it is advantageous.
+
+The C version has Ash swipe in front of him, then throw a fast fireball. This is a unique C fireball; most characters will just throw a fast fireball, but Ash does a combo attack. The first swipe has short range, but can nullify other fireballs, excluding EX fireballs. The fireball that follows can go through regular fireballs and trade with EX fireballs. This overall recovers faster than the A version, has a higher hitbox, and has an extra hitbox on the swiping motion itself, making it harder to hop over. This is ideal against opponents who like to stand around super jump range and try to punish a fireball on a read, or to combat against other zoners if they give you the time to use it. This can also be strong against the common technique of throwing a slow fireball and chasing after it to force an approach. After nullifying the fireball with the initial swipe, the fireball follow-up will often interrupt the approach, especially an hop based approach, and even if it doesn't, Ash recovers fast enough to be safe. The initial swipe can also act as an anti-air, and the projectile will combo, although this is hard to do on reaction and the range could leave something to be desired. One disadvantage this move has is the overall long animation. Although it's able to cover itself very well, making it hard to counter, if your opponent has a projectile invincible attack, they can see the animation of the initial swipe and blow through the follow up projectile with ease. Keep this in mind when considering your match-ups.
+
+The EX version throws out two fireballs in quick succession. These fireballs move fast and can be a great option to mix-up your keep-out game, throwing off your opponent's timing. The way the fireballs are spread out makes it difficult to jump over, and the swipe Ash does when throwing the fireballs has a hitbox like the C version, further strengthening this against jumps. However it's possible to punish Ash between the two fireballs. You can use this to beat out other fireballs, but unfortunately because the first fireball will clash with the opposing fireball, allowing the second fireball to go through, instead of having the fireball blow through the opposing fireball entirely, you won't always hit the opponent. The way this fireball clashes with other EX fireballs is much better however; despite being only one hit, the first fireball will nullify the opposing EX fireball entirely, allowing the second fireball to go through. The damage on this is above average compared to other EX fireballs as well. This move has a similar issue to the C version, where characters with projectile invincible attacks can react to the first part of the attack to blow through the second one, but the overall speed of this version makes it harder to do. This is a strong neutral tool, but be careful to not blow all of your meter on this, as meter is very important to making Ash threatening.
+
+==Pressure==
+===Genie (Flame Trap)===
+When the flame is onscreen, if the opponent is about three character lengths away, they will enter a blocking animation if they hold back, preventing them from walking back. This can give Ash a window to move in, as if they want to retreat they'll have to use a more committal option such as a backdash or roll. 
+
+There's no way to guarantee a flame on block, but if your opponent is very defensive, you can get away with setting one off of blocked heavies or CD. The ideal flame to place on block is either A or B. The A flame will usually interrupt the opponent if they attempt to poke out. The B flame will explode the soonest as it'll place the flame right on top of the opponent, but they can jump or poke out of it.
+
+If you end a juggle with a normal, you can cancel the normal into a flame to set one on top of your opponent as they get up. You can also set it after hard knockdowns such as throws or supers. Note that some of these set-ups are punishable. However if you can scare your opponent in pressing on wake-up you can potentially take advantage of these set-ups still. Cancelling into [4]6A or 214BD flame will make you safe, potentially throwing off what your opponent expects they can get away with. Not cancelling at all is also an option. Consider what potent wake-up options the character you're facing has as well. Your options will be: 
+
+* 2D midscreen = C flame (-7) (push them into the flame if they don't quick rise) 
+* 2D corner = A flame (-7) 
+* Forward throw = A flame (plus)
+* Backward throw = B flame (-12)
+* 236236K = B flame (-8)
+* 236236BD = C flame (-8)
+
+==Mixups==
+
+==Defense==
+
+==Safejumps==
+{{#ev:youtube|jKHGIyRDHdM|||'''Ash Safe Jumps by B Cole'''|frame}}
+
+==Countering Ash==
+
+==External Resources==
+
+
+{{Navbox XV}}
+
+[[Category:Ash Crimson]]
+[[Category:The King of Fighters XV]]
